@@ -19,9 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
   params: { locale: string };
 }>) {
-  if (params.locale.toString() !== "tr" && params.locale.toString() !== "en") {
-    return redirect(`/en/not-found`);
-  }
+
 
   return (
     <html lang={params.locale}>

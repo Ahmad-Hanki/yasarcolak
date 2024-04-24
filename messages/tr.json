@@ -1,5 +1,35 @@
 {
-    "Index": {
-      "title": "merhaba world!"
-    }
+  "navOne": {
+    "title": "ENDOSKOPİ/KOLONOSKOPİ",
+    "link1": "Gastroskopi",
+    "link2": "Kolonoskopi",
+    "link3": "Sigmoidoskopi",
+    "link4": "Kapsul Endoskop"
+  },
+  "navTow": {
+    "title": "ENDOSKOPİK OBEZİTE",
+    "link1": "Endoskopik Mide Kucultme",
+    "link2": "Mide Balonu"
+  },
+
+  "navThree": {
+    "title": "İLERİ ENDOSKOPİK İŞLEMLER",
+
+    "link1Title": "ENDOSKOPİK REFLÜ İŞLEMLERİ",
+    "link1Link1": "ARMA",
+    "link1Link2": "Endoskopik Fundoplikasyon",
+    "link1Link3": "Stretta",
+    "link1Link4": "PH Metre",
+    "link1Link5": "Özofagus Manometrisi",
+
+    "link2": "POEM",
+    "link3": "ERCP",
+    "link4": "EUS",
+    "link5": "EMR",
+    "link6": "ESD",
+    "link7": "EFTR",
+    "link8": "Endoskopik Stent Uygulamaları",
+    "link9": "PEG",
+    "link10": "Argon Plazma Koagülasyon"
   }
+}

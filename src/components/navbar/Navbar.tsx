@@ -1,6 +1,7 @@
 import Image from "next/image"
 import Container from "../ui/Container"
 import Logo from "./Logo"
+import PcNavbar from "./pcNavbar/PcNav"
 
 const Navbar = () => {
   return (
@@ -8,7 +9,7 @@ const Navbar = () => {
         <Container>
             <div className="flex justify-between items-center">
                 <Logo/>
-
+                <PcNavbar/>
             </div>
         </Container>
     </nav>

@@ -1,5 +1,37 @@
 {
-    "Index": {
-      "title": "Hello world!"
-    }
+  "navOne": {
+    "title": "ENDOSCOPY/COLONOSCOPY",
+    "link1": "Gastroscopy",
+    "link2": "Colonoscopy",
+    "link3": "Sigmoidoscopy",
+    "link4": "Capsule Endoscopy"
+  },
+  "navTow": {
+    "title": "ENDOSCOPIC OBESITY",
+    "link1": "Endoscopic Sleeve Gastroplasty",
+    "link2": "Gastric Balloon"
+  },
+  "navThree": {
+    "title": "ADVANCED ENDOSCOPY",
+    "link1Title": "ENDOSCOPIC REFLUX PROCEDURES",
+    "link1Link1": "ARMA",
+    "link1Link2": "Endoscopic Fundoplication",
+    "link1Link3": "Stretta",
+    "link1Link4": "PH Meter",
+    "link1Link5": "Esophageal Manometry",
+
+    "link2": "POEM",
+    "link3": "ERCP",
+    "link4": "EUS",
+    "link5": "EMR",
+    "link6": "ESD",
+    "link7": "EFTR",
+    "link8": "Endoscopic Stent Applications",
+    "link9": "PEG",
+    "link10": "Argon Plasma Coagulation"
+  },
+
+  "contact": {
+    
   }
+}
