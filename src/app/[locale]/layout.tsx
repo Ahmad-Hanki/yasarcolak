@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { redirect } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { ThemeProvider } from "@/providers/theme-provider";
 import HeadNav from "@/components/navbar/HeadNav";
 import Navbar from "@/components/navbar/Navbar";
+import { useLocale } from "next-intl";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -19,8 +20,11 @@ export default function RootLayout({
   children: React.ReactNode;
   params: { locale: string };
 }>) {
+  const locale = useLocale();
 
-
+  if (params.locale !== locale) {
+    notFound();
+  }
   return (
     <html lang={params.locale}>
       <body className={inter.className}>
@@ -30,8 +34,8 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <HeadNav/>
-          <Navbar/>
+          <HeadNav />
+          <Navbar />
           <main>{children}</main>
         </ThemeProvider>
       </body>

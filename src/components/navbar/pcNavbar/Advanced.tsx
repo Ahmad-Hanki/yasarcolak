@@ -109,33 +109,24 @@ const Advanced = ({ t3 }: AdvancedProps) => {
       active: pathname.includes("/ozofagus-manometrisi"),
     },
   ];
+
+  const isAnyActive =
+    link1Data.some((item) => item.active) || data.some((item) => item.active);
+
   return (
     <details
       open={open}
       onMouseEnter={() => setOpen(true)}
       onMouseLeave={() => setOpen(false)}
       role="tab"
-      className={cn(
-        "tab hover:tab-active",
-        pathname.includes("/gastroskopi") ||
-          pathname.includes("/kolonoskopi") ||
-          pathname.includes("/sigmoidoskopi") ||
-          pathname.includes("/kapsul-endoskop")
-          ? "tab-active  "
-          : "tab"
-      )}
+      className={cn("tab hover:tab-active", isAnyActive ? "tab-active" : "")}
     >
       <summary className="w-full">
         <Link
           href={"#"}
           className={cn(
             "z-10 text-secondary-foreground transition-all hover:text-blue-500/90",
-            pathname.includes("/gastroskopi") ||
-              pathname.includes("/kolonoskopi") ||
-              pathname.includes("/sigmoidoskopi") ||
-              pathname.includes("/kapsul-endoskop")
-              ? "text-blue-500/90"
-              : ""
+            isAnyActive ? "text-blue-500/90" : ""
           )}
         >
           {t3.title}
@@ -145,7 +136,7 @@ const Advanced = ({ t3 }: AdvancedProps) => {
         <ul className=" rounded-2xl bg-secondary-foreground z-20 space-y-3 w-full pt-3">
           <li>
             <details>
-              <summary  className="px-4">{t3.link1.title}</summary>
+              <summary className="px-4">{t3.link1.title}</summary>
               <ul>
                 {link1Data.map((link) => {
                   return (
@@ -165,7 +156,9 @@ const Advanced = ({ t3 }: AdvancedProps) => {
               </ul>
             </details>
           </li>
-          <li><Separator/></li>
+          <li>
+            <Separator />
+          </li>
           {data.map((link) => {
             return (
               <li key={link.href} className="flex">
