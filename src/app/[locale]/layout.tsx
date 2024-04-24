@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { redirect } from "next/navigation";
+import { ThemeProvider } from "@/providers/theme-provider";
+import HeadNav from "@/components/navbar/HeadNav";
+import Navbar from "@/components/navbar/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -16,14 +19,24 @@ export default function RootLayout({
   children: React.ReactNode;
   params: { locale: string };
 }>) {
-
   if (params.locale.toString() !== "tr" && params.locale.toString() !== "en") {
     return redirect(`/en/not-found`);
   }
 
   return (
     <html lang={params.locale}>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <HeadNav/>
+          <Navbar/>
+          <main>{children}</main>
+        </ThemeProvider>
+      </body>
     </html>
   );
 }
