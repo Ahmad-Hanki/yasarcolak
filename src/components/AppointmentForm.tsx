@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/card";
 import { Input } from "./ui/input";
 import "react-phone-input-2/lib/style.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import PhoneInput from "react-phone-input-2";
 import { Textarea } from "./ui/textarea";
 import { Button } from "./ui/button";
@@ -28,12 +28,15 @@ type AppointmentForm = {
 
 const AppointmentForm = ({ form }: AppointmentForm) => {
   const [phone, setPhone] = useState("");
+  let theme = 'dark';
+
+  useEffect(()=> {
+    theme = localStorage.getItem('theme') || 'dark';
+    console.log(theme)
+  },[theme])
 
   // Correct onChange handler using event object
   const handlePhoneChange = (
-    value: string,
-    country: any,
-    event: React.ChangeEvent<HTMLInputElement>,
     formattedValue: string
   ) => {
     setPhone(formattedValue);
@@ -48,7 +51,7 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
             PROF. DR. YAŞAR ÇOLAK
           </CardTitle>
 
-            <h1 className="text-3xl ">{form.header}</h1>
+          <h1 className="text-3xl ">{form.header}</h1>
 
           <CardDescription className="text-lg text-secondary-foreground/70">
             {form.description}
@@ -66,12 +69,21 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
               />
             </div>
             <div className="flex-1 flex gap-3 flex-col sm:flex-row">
+          
               <PhoneInput
                 value={phone}
                 placeholder={form.phone}
                 onChange={handlePhoneChange}
                 country={"tr"}
-                inputStyle={{ flex: 1, width: "100%", height: "100%" }}
+                inputStyle={{
+                  flex: 1,
+                  width: "100%",
+                  height: "100%",
+                  background: "var(--secondary)",
+                  color: "var(--secondary-foreground)",
+                }}
+                containerStyle={{ background: "var(--secondary)" }}
+                dropdownStyle={{ background: theme=='dark'? 'black': 'white', color: theme=='dark'? 'white': 'black' ,opacity: 1}}
               />
               <Input
                 type="email"
