@@ -5,7 +5,7 @@ import AppointmentFlex from "./_components/AppointmentFlex";
 
 export default function Home() {
   return (
-    <div className="text-secondary-foreground">
+    <div className="text-secondary-foreground overflow-hidden">
       <Hero />
 
       <div className="bg-secondary/70 py-10">

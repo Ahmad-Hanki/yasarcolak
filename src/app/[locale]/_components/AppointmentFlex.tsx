@@ -1,5 +1,7 @@
 import AppointmentForm from "@/components/AppointmentForm"
 import { useTranslations } from "next-intl"
+import FormImage from '@/assets/FormImage.jpg'
+import Image from "next/image";
 const AppointmentFlex = () => {
     const t= useTranslations('appointment');
     const form = {
@@ -13,11 +15,11 @@ const AppointmentFlex = () => {
     }
 
   return (
-    <div className="flex flex-col gap-5 lg:flex-row">
+    <div className="flex flex-col gap-5 lg:flex-row h-full">
         <AppointmentForm form={form}/>
-
-        <div className="">
-
+ 
+        <div className="flex-1 min-h-[70vh] px-3 relative overflow-hidden aspect-[0.9/1] ">
+            <Image src={FormImage} alt="formIamge" fill className="object-contain object-center" />
         </div>
     </div>
   )

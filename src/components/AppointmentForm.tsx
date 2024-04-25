@@ -41,8 +41,8 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
   };
 
   return (
-    <div className="text-secondary-foreground flex-1">
-      <Card>
+    <div className="text-secondary-foreground flex-1 ">
+      <Card className="h-full space-y-16">
         <CardHeader>
           <CardTitle className="text-primary bg-primary/35 text-xl w-fit">
             PROF. DR. YAŞAR ÇOLAK
@@ -54,7 +54,7 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
             {form.description}
           </CardDescription>
         </CardHeader>
-        <CardContent>
+        <CardContent className="h-full">
           <form className="w-full flex flex-col justify-start gap-6">
             <div className="flex-1">
               <Input
