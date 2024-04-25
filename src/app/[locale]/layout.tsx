@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { notFound, redirect } from "next/navigation";
 import { ThemeProvider } from "@/providers/theme-provider";
 import HeadNav from "@/components/navbar/HeadNav";
 import Navbar from "@/components/navbar/Navbar";
 import { useLocale } from "next-intl";
+import {unstable_setRequestLocale} from 'next-intl/server';
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -21,10 +22,9 @@ export default function RootLayout({
   params: { locale: string };
 }>) {
   const locale = useLocale();
+  unstable_setRequestLocale(locale);
 
-  if (params.locale !== locale) {
-    notFound();
-  }
+
   return (
     <html lang={params.locale}>
       <body className={inter.className}>
@@ -41,11 +41,4 @@ export default function RootLayout({
       </body>
     </html>
   );
-}
-
-// Can be imported from a shared config
-const locales = ["en", "tr"];
-
-export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
 }

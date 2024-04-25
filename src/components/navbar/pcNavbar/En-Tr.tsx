@@ -17,7 +17,7 @@ const EnTr = () => {
   const pathname = usePathname();
   let link;
   if (loclae == "en") {
-    link = pathname.split('/en')[1]
+    link = pathname.split("/en")[1];
     content = (
       <div className="flex gap-3 items-center">
         <div className="relative overflow-hidden aspect-square w-6 h-4">
@@ -32,7 +32,7 @@ const EnTr = () => {
       </div>
     );
   } else {
-    link = pathname.split('/tr')[1]
+    link = pathname.split("/tr")[1];
 
     content = (
       <div className="flex gap-3 items-center">
@@ -56,7 +56,7 @@ const EnTr = () => {
 
       <DropdownMenuContent>
         <DropdownMenuItem>
-          <Link href={"/en"+link}>
+          <Link href={"/en" + link}>
             <div className="flex gap-3 items-center">
               <div className="relative overflow-hidden aspect-square w-6 h-4">
                 <Image
@@ -71,7 +71,7 @@ const EnTr = () => {
           </Link>
         </DropdownMenuItem>
         <DropdownMenuItem>
-          <Link href={"/tr"+link}>
+          <Link href={"/tr" + link}>
             <div className="flex gap-3 items-center">
               <div className="relative overflow-hidden aspect-square w-6 h-4">
                 <Image

@@ -8,13 +8,13 @@ import { useState } from "react";
 const Hastaliklar = () => {
   const pathname = usePathname();
   const { locale } = useParams();
+  const [open, setOpen] = useState(false);
 
   if (locale == "en") return null;
-  const [open, setOpen] = useState(false);
 
   const data = [
     {
-      name: "",
+      name: "Hasta",
       href: "/endoskopik-mide-kucultme",
       active: pathname.includes("/endoskopik-mide-kucultme"),
     },

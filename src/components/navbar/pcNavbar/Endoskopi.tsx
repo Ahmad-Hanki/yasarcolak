@@ -20,6 +20,7 @@ const Endoskopi = ({t1}: dataProps) => {
 
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  
   const data = [
     {
       name: t1.link1,
