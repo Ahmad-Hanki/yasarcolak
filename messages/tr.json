@@ -36,5 +36,15 @@
   "hero" : {
     "header": "Gastroenteroloji Ve İleri Endoskopik Uygulamalar Uzmanı",
     "button":"RANDEVU AL"
+  },
+
+  "appointment" : {
+    "header": "Randevu Talebi Oluşturun!",
+    "description": "Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı",
+    "name": "İsim Soyisim",
+    "email":"E-posta Adresi",
+    "phone":"Telefon",
+    "message":"Mesaj",
+    "submit":"Gönder"
   }
 }

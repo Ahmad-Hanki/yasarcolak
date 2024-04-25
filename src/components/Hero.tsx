@@ -13,7 +13,7 @@ const Hero = () => {
         priority
         fill
         alt="hero"
-        className="flex brightness-50 object-cover object-top -z-0"
+        className="flex brightness-105 dark:brightness-50 object-cover object-top -z-0"
         src={hero}
       />
       <MotionDiv

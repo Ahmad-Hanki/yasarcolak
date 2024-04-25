@@ -34,5 +34,14 @@
   "hero" : {
     "header": "Gastroenterology And Advanced Endoscopic Applications Specialist",
     "button":"APPOINTMENT"
+  },
+  "appointment" : {
+    "header": "Request an Appointment!",
+    "description": "Gastroenterology and Advanced Endoscopic Applications Specialist",
+    "name": "Name Surname",
+    "email":"E-mail Address",
+    "phone":"Phone",
+    "message":"Message",
+    "submit":"Submit"
   }
 }
