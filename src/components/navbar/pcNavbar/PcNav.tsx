@@ -47,7 +47,7 @@ const PcNavbar = () => {
   };
 
   return (
-    <div>
+    <div className="z-20">
       <div
         role="tablist"
         className={cn(

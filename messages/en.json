@@ -31,7 +31,8 @@
     "link10": "Argon Plasma Coagulation"
   },
 
-  "contact": {
-    
+  "hero" : {
+    "header": "Gastroenterology And Advanced Endoscopic Applications Specialist",
+    "button":"APPOINTMENT"
   }
 }

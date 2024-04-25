@@ -51,7 +51,6 @@ const PhoneNav = () => {
   };
 
   const locale = useLocale();
-  console.log(locale);
   return (
     <div className="dropdown dropdown-end text-secondary-foreground bg-secondary z-20 xl:hidden ">
       <div
@@ -59,7 +58,7 @@ const PhoneNav = () => {
         role="button"
         className="btn m-1 bg-transparent hover:bg-secondary-foreground/50 border-none shadow-lg"
       >
-        <Menu size={25} className="bg-transparent " />
+        <Menu size={25} className="bg-transparent text-secondary-foreground" />
       </div>
       <ul
         tabIndex={0}

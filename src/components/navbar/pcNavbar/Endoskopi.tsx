@@ -51,7 +51,7 @@ const Endoskopi = ({t1}: dataProps) => {
       onMouseLeave={() => setOpen(false)}
       role="tab"
       className={cn(
-        "tab hover:tab-active",
+        "tab hover:tab-active z-20",
         pathname.includes("/gastroskopi") ||
           pathname.includes("/kolonoskopi") ||
           pathname.includes("/sigmoidoskopi") ||
@@ -60,11 +60,11 @@ const Endoskopi = ({t1}: dataProps) => {
           : "tab"
       )}
     >
-      <summary className="w-full">
+      <summary className="w-full z-20">
         <Link
           href={"#"}
           className={cn(
-            "z-10 text-secondary-foreground transition-all hover:text-blue-500/90",
+            "z-20 text-secondary-foreground transition-all hover:text-blue-500/90",
             pathname.includes("/gastroskopi") ||
               pathname.includes("/kolonoskopi") ||
               pathname.includes("/sigmoidoskopi") ||
@@ -76,14 +76,14 @@ const Endoskopi = ({t1}: dataProps) => {
         {t1.title}
         </Link>
       </summary>
-      <div className="bg-inherit pt-3 cursor-default w-full">
-      <ul className=" rounded-2xl bg-secondary-foreground z-20 space-y-3 w-full">
+      <div className="bg-inherit pt-3 cursor-default w-full z-20">
+      <ul className=" rounded-2xl bg-secondary-foreground space-y-3 w-full z-20">
           {data.map((link) => {
             return (
-              <li key={link.href} className="flex">
+              <li key={link.href} className="flex z-30">
                 <Link
                   className={cn(
-                    "z-10 text-secondary/80 transition-all hover:text-secondary/90 flex-1 hover:bg-primary p-4",
+                    "z-20 text-secondary/80 transition-all hover:text-secondary/90 flex-1 hover:bg-primary p-4",
                     link.active ? "text-secondary" : ""
                   )}
                   href={link.href}
