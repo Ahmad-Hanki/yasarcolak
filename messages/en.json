@@ -56,5 +56,19 @@
     "header": "What is Endoscopy, Gastroscopy and Colonoscopy?",
     "description":"Looking into body cavities with a thin and flexible instrument with a light and a camera at the end is generally referred to as endoscopy. Endoscopic procedures are called by different names depending on the area examined. The most commonly used ones are gastroscopy and colonoscopy. Gastroscopy (esophagogastroduodenoscopy) is the procedure in which the esophagus, stomach and the first parts of the small intestine (duodenum) are examined through the mouth. The procedure that examines the large intestine and the last parts of the small intestine is called colonoscopy.",
     "extraDescription": "As can be seen, although endoscopy is a general name, the word endoscopy is often incorrectly used instead of gastroscopy."
+  },
+  "homeGrid2": {
+    "header": "Learn More About Transactions",
+    "title1": "Gastric Balloon",
+    "title2": "Gastroscopy",
+    "title3": "ERCP",
+    "title4": "EUS",
+    "description1": "Gastric balloon is one of the weight loss methods. The balloon placed in the stomach allows you to feel full faster.",
+    "description2": "Gastroscopy, an examination of the stomach, helps confirm or rule out the presence of medical conditions such as gastritis or peptic ulcer.",
+    "description3": "Endoscopy is a procedure used to visualize certain parts of the digestive system. It examines the bile and pancreatic ducts.",
+    "description4": "EUS is an endoscopic procedure to obtain detailed images of the digestive tract using high frequency ultrasound waves.",
+    "footer":"Early Diagnosis Saves Lives. If You Are Over 45, We Recommend A Colonoscopy Every 5 Years.",
+    "appointment":"APPOINTMENT",
+    "details":"DETAILS+"
   }
 }

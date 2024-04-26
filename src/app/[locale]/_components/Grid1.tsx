@@ -11,7 +11,7 @@ import {
 } from "@/components/ui/card";
 import Image from "next/image";
 import Link from "next/link";
-import MotionDiv from "./ui/MotionDiv";
+import MotionDiv from "../../../components/ui/MotionDiv";
 
 type Grid1 = {
   t: {

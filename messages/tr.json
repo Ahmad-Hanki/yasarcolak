@@ -60,5 +60,19 @@
     "header": "Endoskopi, Gastroskopi ve Kolonoskopi Nedir?",
     "description":"Ucunda bir ışık ve kameranın olduğu, ince ve esnek bir aletle vücut boşluklarına bakılması genel anlamda endoskopi olarak adlandırılır. Endoskopik işlemler incelenen yere göre farklı isimlerle anılır. Bunlardan en sık kullanılanları gastroskopi ve kolonoskopidir. Ağızdan girilerek yemek borusu, mide ve ince bağırsakların ilk kısımlarının (onikiparmak bağırsağının) incelendiği işlem kısaca gastroskopi (özofagogastroduodenoskopi) olarak isimlendirilir. Kalın bağırsak ve ince bağırsağın son kısımlarının incelendiği işleme ise kolonoskopi adı verilir.",
     "extraDescription": "Görüldüğü üzere, endoskopi genel bir isim olmakla birlikte, halk arasında çoğunlukla yanlış bir şekilde gastroskopi yerine endoskopi kelimesi kullanılmaktadır."
+  },
+  "homeGrid2": {
+    "header": "İşlemler Hakkında Daha Fazla Bilgi Alın",
+    "title1": "Mide Balonu",
+    "title2": "Gastroskopi",
+    "title3": "ERCP",
+    "title4": "EUS",
+    "description1": "Mide balonu, kilo verme yöntemlerinden biridir. Mideye yerleştirilen balon, daha hızlı doymayı sağlar.",
+    "description2": "Gastroskopi yani mide incelenmesi, gastrit veya peptik ülser gibi tıbbi durumların varlığını doğrulamaya veya ekarte etmeye yardımcı olur.",
+    "description3": "Sindirim sisteminin belirli bölümlerini görüntülemek için endoskopi kullanılan bir işlemdir. Safra ve pankreas kanallarını inceler.",
+    "description4": "EUS, yüksek frekanslı ultrason dalgaları kullanarak sindirim sisteminin detaylı görüntülerini elde etmek için endoskopik bir işlemdir.",
+    "footer":"Erken Teşhis Hayat Kurtarır. 45 Yaşın Üzerindeyseniz, 5 Senede Bir Kolonoskopi Yaptırmanızı Öneriyoruz.",
+    "appointment":"RANDEVU AL",
+    "details":"DETAYLAR +"
   }
 }

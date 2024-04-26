@@ -1,8 +1,8 @@
 import Hero from "@/components/Hero";
 import Container from "@/components/ui/Container";
-import { useTranslations } from "next-intl";
 import AppointmentFlex from "./_components/AppointmentFlex";
 import HomeFlex2 from "./_components/HomeFlex2";
+import HomeGrid2 from "./_components/HomeGrid2";
 
 export default function Home() {
   return (
@@ -14,7 +14,13 @@ export default function Home() {
           <AppointmentFlex />
         </Container>
       </div>
-      <HomeFlex2/>
+      <div className="pb-20">
+        <Container>
+          <HomeFlex2 />
+
+          <HomeGrid2 />
+        </Container>
+      </div>
     </div>
   );
 }
