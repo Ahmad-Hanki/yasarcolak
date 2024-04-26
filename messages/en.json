@@ -31,30 +31,30 @@
     "link10": "Argon Plasma Coagulation"
   },
 
-  "hero" : {
+  "hero": {
     "header": "Gastroenterology And Advanced Endoscopic Applications Specialist",
-    "button":"APPOINTMENT"
+    "button": "APPOINTMENT"
   },
-  "appointment" : {
+  "appointment": {
     "header": "Request an Appointment!",
     "description": "Gastroenterology and Advanced Endoscopic Applications Specialist",
     "name": "Name Surname",
-    "email":"E-mail Address",
-    "phone":"Phone",
-    "message":"Message",
-    "submit":"Submit"
+    "email": "E-mail Address",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Submit"
   },
   "grid1": {
-    "header":"Endoscopic Bariatric Procedures & Obesity Treatment",
+    "header": "Endoscopic Bariatric Procedures & Obesity Treatment",
     "description": "Do you have difficulty losing weight despite diet and exercise? Are you constantly losing weight and gaining weight again? Do you say “I tried many times but I couldn’t reach the weight I wanted”? We are here for you to achieve your health and the weight you want!    ",
     "photo1": "Gastroscopy",
     "photo2": "Gastric Balloon",
     "photo3": "Sleeve Gastroplasty",
-    "details":"DETAILS+"
+    "details": "DETAILS+"
   },
-  "homeFlex2" : {
+  "homeFlex2": {
     "header": "What is Endoscopy, Gastroscopy and Colonoscopy?",
-    "description":"Looking into body cavities with a thin and flexible instrument with a light and a camera at the end is generally referred to as endoscopy. Endoscopic procedures are called by different names depending on the area examined. The most commonly used ones are gastroscopy and colonoscopy. Gastroscopy (esophagogastroduodenoscopy) is the procedure in which the esophagus, stomach and the first parts of the small intestine (duodenum) are examined through the mouth. The procedure that examines the large intestine and the last parts of the small intestine is called colonoscopy.",
+    "description": "Looking into body cavities with a thin and flexible instrument with a light and a camera at the end is generally referred to as endoscopy. Endoscopic procedures are called by different names depending on the area examined. The most commonly used ones are gastroscopy and colonoscopy. Gastroscopy (esophagogastroduodenoscopy) is the procedure in which the esophagus, stomach and the first parts of the small intestine (duodenum) are examined through the mouth. The procedure that examines the large intestine and the last parts of the small intestine is called colonoscopy.",
     "extraDescription": "As can be seen, although endoscopy is a general name, the word endoscopy is often incorrectly used instead of gastroscopy."
   },
   "homeGrid2": {
@@ -67,8 +67,18 @@
     "description2": "Gastroscopy, an examination of the stomach, helps confirm or rule out the presence of medical conditions such as gastritis or peptic ulcer.",
     "description3": "Endoscopy is a procedure used to visualize certain parts of the digestive system. It examines the bile and pancreatic ducts.",
     "description4": "EUS is an endoscopic procedure to obtain detailed images of the digestive tract using high frequency ultrasound waves.",
-    "footer":"Early Diagnosis Saves Lives. If You Are Over 45, We Recommend A Colonoscopy Every 5 Years.",
-    "appointment":"APPOINTMENT",
-    "details":"DETAILS+"
+    "footer": "Early Diagnosis Saves Lives. If You Are Over 45, We Recommend A Colonoscopy Every 5 Years.",
+    "appointment": "APPOINTMENT",
+    "details": "DETAILS+"
+  },
+  "eus": {
+    "header": "EUS - Endoscopic Ultrasonography",
+    "description": "Endoscopic ultrasonography (EUS) is one of the most important advanced endoscopic applications used in gastroenterology in recent years. Thanks to a special ultrasonography device placed on the end of the endoscopy instrument, it provides the opportunity to perform ultrasonography in a very close area through the esophagus, stomach and intestines.",
+    "info": "More about EUS"
+  },
+  "ercp": {
+    "header": "ERCP - Endoscopic Retrograde Cholangiopancreatography",
+    "description": "Endoscopic retrograde cholangio-pancreaticography (ERCP) is a completely endoscopic procedure performed through the mouth with a special endoscopy instrument. This procedure is used especially for diagnosis and treatment of bile and pancreatic ducts.",
+    "info": "More About ERCP"
   }
 }

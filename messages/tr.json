@@ -33,32 +33,32 @@
     "link10": "Argon Plazma Koagülasyon"
   },
 
-  "hero" : {
+  "hero": {
     "header": "Gastroenteroloji Ve İleri Endoskopik Uygulamalar Uzmanı",
-    "button":"RANDEVU AL"
+    "button": "RANDEVU AL"
   },
 
-  "appointment" : {
+  "appointment": {
     "header": "Randevu Talebi Oluşturun!",
     "description": "Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı",
     "name": "İsim Soyisim",
-    "email":"E-posta Adresi",
-    "phone":"Telefon",
-    "message":"Mesaj",
-    "submit":"Gönder"
+    "email": "E-posta Adresi",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "submit": "Gönder"
   },
 
   "grid1": {
-    "header":"Endoskopik Bariyatrik İşlemler & Obezite Tedavisi",
+    "header": "Endoskopik Bariyatrik İşlemler & Obezite Tedavisi",
     "description": "Diyet ve egzersize rağmen kilo vermekte zorlanıyor musunuz? Sürekli kilo verip tekrar kilo mu alıyorsunuz? “Birçok kez denedim ama bir türlü istediğim kiloya ulaşamadım” mı diyorsunuz? Sağlığınıza ve istediğiniz kiloya kavuşmanız için buradayız!",
     "photo1": "Gastroskopi",
     "photo2": "Mide Balonu",
     "photo3": "Mide Küçültme",
-    "details":"DETAYLAR +"
+    "details": "DETAYLAR +"
   },
-  "homeFlex2" : {
+  "homeFlex2": {
     "header": "Endoskopi, Gastroskopi ve Kolonoskopi Nedir?",
-    "description":"Ucunda bir ışık ve kameranın olduğu, ince ve esnek bir aletle vücut boşluklarına bakılması genel anlamda endoskopi olarak adlandırılır. Endoskopik işlemler incelenen yere göre farklı isimlerle anılır. Bunlardan en sık kullanılanları gastroskopi ve kolonoskopidir. Ağızdan girilerek yemek borusu, mide ve ince bağırsakların ilk kısımlarının (onikiparmak bağırsağının) incelendiği işlem kısaca gastroskopi (özofagogastroduodenoskopi) olarak isimlendirilir. Kalın bağırsak ve ince bağırsağın son kısımlarının incelendiği işleme ise kolonoskopi adı verilir.",
+    "description": "Ucunda bir ışık ve kameranın olduğu, ince ve esnek bir aletle vücut boşluklarına bakılması genel anlamda endoskopi olarak adlandırılır. Endoskopik işlemler incelenen yere göre farklı isimlerle anılır. Bunlardan en sık kullanılanları gastroskopi ve kolonoskopidir. Ağızdan girilerek yemek borusu, mide ve ince bağırsakların ilk kısımlarının (onikiparmak bağırsağının) incelendiği işlem kısaca gastroskopi (özofagogastroduodenoskopi) olarak isimlendirilir. Kalın bağırsak ve ince bağırsağın son kısımlarının incelendiği işleme ise kolonoskopi adı verilir.",
     "extraDescription": "Görüldüğü üzere, endoskopi genel bir isim olmakla birlikte, halk arasında çoğunlukla yanlış bir şekilde gastroskopi yerine endoskopi kelimesi kullanılmaktadır."
   },
   "homeGrid2": {
@@ -71,8 +71,18 @@
     "description2": "Gastroskopi yani mide incelenmesi, gastrit veya peptik ülser gibi tıbbi durumların varlığını doğrulamaya veya ekarte etmeye yardımcı olur.",
     "description3": "Sindirim sisteminin belirli bölümlerini görüntülemek için endoskopi kullanılan bir işlemdir. Safra ve pankreas kanallarını inceler.",
     "description4": "EUS, yüksek frekanslı ultrason dalgaları kullanarak sindirim sisteminin detaylı görüntülerini elde etmek için endoskopik bir işlemdir.",
-    "footer":"Erken Teşhis Hayat Kurtarır. 45 Yaşın Üzerindeyseniz, 5 Senede Bir Kolonoskopi Yaptırmanızı Öneriyoruz.",
-    "appointment":"RANDEVU AL",
-    "details":"DETAYLAR +"
+    "footer": "Erken Teşhis Hayat Kurtarır. 45 Yaşın Üzerindeyseniz, 5 Senede Bir Kolonoskopi Yaptırmanızı Öneriyoruz.",
+    "appointment": "RANDEVU AL",
+    "details": "DETAYLAR +"
+  },
+  "eus": {
+    "header": "EUS - EndoskopikUltrasonografi",
+    "description": "Endoskopik ultrasonografi (EUS) son yıllarda gastroenteroloji alanında kullanılan en önemli ileri endoskopik uygulamalardan biridir. Endoskopi aletinin ucuna yerleştirilmiş özel bir ultrasonografi cihazı sayesinde yemek borusu, mide ve bağırsakların içinden çok yakın bir alanda ultrasonografi yapma imkanı sağlar.",
+    "info": "EUS Hakkında Daha Fazla Bilgi"
+  },
+  "ercp": {
+    "header": "ERCP - Endoskopik Retrograd Kolanjiyo Pankreatografi    ",
+    "description": "Endoskopik retrograd kolanjio pankreatikografi (ERCP), özel bir endoskopi aleti ile ağızdan girilerek yapılan tamamen endoskopik bir işlemdir. Bu işlem özellikle safra ve pankreas kanallarına yönelik tanı ve tedaviler için kullanılır.",
+    "info": "ERCP Hakkında Daha Fazla Bilgi"
   }
 }

@@ -15,8 +15,8 @@ const Hastaliklar = () => {
   const data = [
     {
       name: "Hasta",
-      href: "/endoskopik-mide-kucultme",
-      active: pathname.includes("/endoskopik-mide-kucultme"),
+      href: "/fh",
+      active: pathname.includes("/fh"),
     },
   ];
 
@@ -28,8 +28,7 @@ const Hastaliklar = () => {
       role="tab"
       className={cn(
         "tab hover:tab-active w-full",
-        pathname.includes("/mide-balonu") ||
-          pathname.includes("/endoskopik-mide-kucultme")
+        pathname.includes("/fh")
           ? "tab-active  "
           : "tab"
       )}
@@ -39,13 +38,13 @@ const Hastaliklar = () => {
           href={"#"}
           className={cn(
             "z-10 text-secondary-foreground transition-all hover:text-blue-500/90 w-full",
-            pathname.includes("/mide-balonu") ||
-              pathname.includes("/endoskopik-mide-kucultme")
+
+            pathname.includes("/fh")
               ? "text-blue-500/90"
               : ""
           )}
         >
-          {'HASTALIKLAR'}
+          {"HASTALIKLAR"}
         </Link>
       </summary>
       <div className="bg-inherit pt-3 cursor-default w-full">
