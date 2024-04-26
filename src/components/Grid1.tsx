@@ -70,7 +70,7 @@ const Grid1 = ({ t }: Grid1) => {
               <CardFooter className="flex flex-col justify-start gap-3 w-full">
                 <h1 className="text-start text-3xl w-full">{item.name}</h1>
                 <Link
-                  className="w-full text-primary/90 font-thin text-start hover:text-primary hover:brightness-75 transition-colors"
+                  className="w-full text-primary/90 font-serif text-start hover:text-primary hover:brightness-75 transition-colors"
                   href={item.href}
                 >
                   {t.details} +

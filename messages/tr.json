@@ -55,5 +55,10 @@
     "photo2": "Mide Balonu",
     "photo3": "Mide Küçültme",
     "details":"DETAYLAR +"
+  },
+  "homeFlex2" : {
+    "header": "Endoskopi, Gastroskopi ve Kolonoskopi Nedir?",
+    "description":"Ucunda bir ışık ve kameranın olduğu, ince ve esnek bir aletle vücut boşluklarına bakılması genel anlamda endoskopi olarak adlandırılır. Endoskopik işlemler incelenen yere göre farklı isimlerle anılır. Bunlardan en sık kullanılanları gastroskopi ve kolonoskopidir. Ağızdan girilerek yemek borusu, mide ve ince bağırsakların ilk kısımlarının (onikiparmak bağırsağının) incelendiği işlem kısaca gastroskopi (özofagogastroduodenoskopi) olarak isimlendirilir. Kalın bağırsak ve ince bağırsağın son kısımlarının incelendiği işleme ise kolonoskopi adı verilir.",
+    "extraDescription": "Görüldüğü üzere, endoskopi genel bir isim olmakla birlikte, halk arasında çoğunlukla yanlış bir şekilde gastroskopi yerine endoskopi kelimesi kullanılmaktadır."
   }
 }

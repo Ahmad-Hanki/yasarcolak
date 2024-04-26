@@ -51,5 +51,10 @@
     "photo2": "Gastric Balloon",
     "photo3": "Sleeve Gastroplasty",
     "details":"DETAILS+"
+  },
+  "homeFlex2" : {
+    "header": "What is Endoscopy, Gastroscopy and Colonoscopy?",
+    "description":"Looking into body cavities with a thin and flexible instrument with a light and a camera at the end is generally referred to as endoscopy. Endoscopic procedures are called by different names depending on the area examined. The most commonly used ones are gastroscopy and colonoscopy. Gastroscopy (esophagogastroduodenoscopy) is the procedure in which the esophagus, stomach and the first parts of the small intestine (duodenum) are examined through the mouth. The procedure that examines the large intestine and the last parts of the small intestine is called colonoscopy.",
+    "extraDescription": "As can be seen, although endoscopy is a general name, the word endoscopy is often incorrectly used instead of gastroscopy."
   }
 }
