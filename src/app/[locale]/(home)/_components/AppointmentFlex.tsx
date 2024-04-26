@@ -3,7 +3,7 @@ import { useTranslations } from "next-intl";
 import FormImage from "@/assets/FormImage.jpg";
 import Image from "next/image";
 import MotionDiv from "@/components/ui/MotionDiv";
-import Grid1 from "@/app/[locale]/_components/Grid1";
+import Grid1 from "@/app/[locale]/(home)/_components/Grid1";
 const AppointmentFlex = () => {
   const t = useTranslations("appointment");
   const form = {
