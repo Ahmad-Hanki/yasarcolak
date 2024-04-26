@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className="bg-secondary/70 py-10">
         <Container>
-        <AppointmentFlex/>
+          <AppointmentFlex />
         </Container>
       </div>
     </div>

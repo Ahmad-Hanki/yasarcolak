@@ -46,5 +46,14 @@
     "phone":"Telefon",
     "message":"Mesaj",
     "submit":"Gönder"
+  },
+
+  "grid1": {
+    "header":"Endoskopik Bariyatrik İşlemler & Obezite Tedavisi",
+    "description": "Diyet ve egzersize rağmen kilo vermekte zorlanıyor musunuz? Sürekli kilo verip tekrar kilo mu alıyorsunuz? “Birçok kez denedim ama bir türlü istediğim kiloya ulaşamadım” mı diyorsunuz? Sağlığınıza ve istediğiniz kiloya kavuşmanız için buradayız!",
+    "photo1": "Gastroskopi",
+    "photo2": "Mide Balonu",
+    "photo3": "Mide Küçültme",
+    "details":"DETAYLAR +"
   }
 }

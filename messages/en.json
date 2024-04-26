@@ -43,5 +43,13 @@
     "phone":"Phone",
     "message":"Message",
     "submit":"Submit"
+  },
+  "grid1": {
+    "header":"Endoscopic Bariatric Procedures & Obesity Treatment",
+    "description": "Do you have difficulty losing weight despite diet and exercise? Are you constantly losing weight and gaining weight again? Do you say “I tried many times but I couldn’t reach the weight I wanted”? We are here for you to achieve your health and the weight you want!    ",
+    "photo1": "Gastroscopy",
+    "photo2": "Gastric Balloon",
+    "photo3": "Sleeve Gastroplasty",
+    "details":"DETAILS+"
   }
 }

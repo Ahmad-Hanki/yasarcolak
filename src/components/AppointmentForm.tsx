@@ -28,10 +28,11 @@ type AppointmentForm = {
 
 const AppointmentForm = ({ form }: AppointmentForm) => {
   const [phone, setPhone] = useState("");
-  let theme = 'dark';
+  const [theme, setTheme] = useState("");
 
   useEffect(()=> {
-    theme = localStorage.getItem('theme') || 'dark';
+    const i = localStorage.getItem('theme') || 'dark';
+    setTheme(i);
     console.log(theme)
   },[theme])
 

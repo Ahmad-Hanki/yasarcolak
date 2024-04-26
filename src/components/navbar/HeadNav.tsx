@@ -32,6 +32,7 @@ const socialMedia = [
 ];
 
 const HeadNav = () => {
+  
   return (
     <div className="bg-primary/80 hidden md:block">
       <Container>
@@ -49,9 +50,20 @@ const HeadNav = () => {
             </div>
           </div>
 
-          <div className="flex gap-4">
+          <div className="flex space-x-1">
             {socialMedia.map((icon) => {
-              return <Link className="border-l border-l-white hover:text-primary" key={icon.href} href={icon.href}> {icon.img}</Link>;
+              return (
+                <div className="flex space-x-1 justify-center" key={icon.href}>
+                  <Link
+                    className=" hover:text-primary mx-auto"
+                    href={icon.href}
+                  >
+                    {" "}
+                    {icon.img}
+                  </Link>
+                  <div className="h-full w-[1px] bg-white" />
+                </div>
+              );
             })}
             <ModeToggle />
           </div>
