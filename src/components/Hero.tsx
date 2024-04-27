@@ -23,7 +23,7 @@ const Hero = () => {
         className="absolute z-20 w-full h-full flex items-center"
       >
         <div className="w-full flex flex-col px-5 lg:px-10 gap-6  max-w-[70%] md:max-w-[50%]">
-          <h1 className="font-bold text-3xl  lg:text-5xl bg-primary/25">
+          <h1 className="font-bold text-3xl  lg:text-5xl bg-primary/25 w-[115%]">
             {t("header")}
           </h1>
 
