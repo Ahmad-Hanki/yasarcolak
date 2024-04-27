@@ -84,5 +84,21 @@
     "header": "ERCP - Endoskopik Retrograd Kolanjiyo Pankreatografi    ",
     "description": "Endoskopik retrograd kolanjio pankreatikografi (ERCP), özel bir endoskopi aleti ile ağızdan girilerek yapılan tamamen endoskopik bir işlemdir. Bu işlem özellikle safra ve pankreas kanallarına yönelik tanı ve tedaviler için kullanılır.",
     "info": "ERCP Hakkında Daha Fazla Bilgi"
+  },
+  "footer": {
+    "title": "Prof. Dr. Yaşar Çolak'a ulaşmak ve randevu almak için WhatsApp hattımızı veya randevu formumuzu kullanabilirsiniz.",
+    "links": "Bağlantılar",
+    "contact": "İletişim Bilgilerimiz",
+    "link1": "Prof. Dr. Yaşar Çolak",
+    "link2": "Hakkımda",
+    "link3":"Randevu Al",
+    "link4":"İletişim",
+    "link5":"Blog",
+    "contact1":" +90 546 110 91 12",
+    "contact2":"info@yasarcolak.com",
+    "contact3":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul",
+    "copyRights": "2024 © Tüm Hakları Saklıdır"
   }
+
+  
 }

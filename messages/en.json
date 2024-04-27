@@ -80,5 +80,19 @@
     "header": "ERCP - Endoscopic Retrograde Cholangiopancreatography",
     "description": "Endoscopic retrograde cholangio-pancreaticography (ERCP) is a completely endoscopic procedure performed through the mouth with a special endoscopy instrument. This procedure is used especially for diagnosis and treatment of bile and pancreatic ducts.",
     "info": "More About ERCP"
+  },
+  "footer": {
+    "title": "medicate-footer-logo You can use our WhatsApp line or our appointment form to reach Prof. Dr. Yaşar Çolak and make an appointment.",
+    "links": "Useful Links",
+    "contact": "Contact Information",
+    "link1": "Prof. Dr. Yaşar Çolak",
+    "link2": "About Me",
+    "link3":"Appointment",
+    "link4":"Contact",
+    "link5":"Blog",
+    "contact1":" +90 546 110 91 12",
+    "contact2":"info@yasarcolak.com",
+    "contact3":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul",
+    "copyRights": "All Rights Reserved © 2024."
   }
 }

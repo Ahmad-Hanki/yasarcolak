@@ -6,6 +6,7 @@ import HomeGrid2 from "./_components/HomeGrid2";
 import ErcpEus from "@/components/Ercp-Eus";
 import HomeGrid3 from "./_components/HomeGrid3";
 import ProfDr from "./_components/ProfDr";
+import HomeBlogs from "./_components/HomeBlogs";
 
 export default function Home() {
   return (
@@ -40,6 +41,9 @@ export default function Home() {
           <ProfDr />
         </Container>
       </div>
+
+
+      <HomeBlogs />
     </div>
   );
 }

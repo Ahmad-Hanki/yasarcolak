@@ -44,7 +44,7 @@ const HeadNav = () => {
             </div>
             <div className="flex items-center gap-1">
               <Mail />
-              <Link href={"mailto: +90 546 110 91 12info@yasarcolak.com"}>
+              <Link href={"mailto:info@yasarcolak.com"}>
                 info@yasarcolak.com
               </Link>
             </div>

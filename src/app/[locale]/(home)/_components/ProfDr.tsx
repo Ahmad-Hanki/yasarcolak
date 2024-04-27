@@ -42,7 +42,7 @@ const ProfDr = () => {
           </p>
           <Link
             href={"https://wa.me/905461109112"}
-            className="btn bg-green-700 hover:bg-green-900"
+            className="btn bg-green-500 text-white hover:bg-green-600"
           >
             <Whatsapp width={30} />{" "}
             {useLocale() == "en" ? "WhatsApp Contact" : "WhatsApp İletişim"}

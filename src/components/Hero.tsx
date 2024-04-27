@@ -27,7 +27,7 @@ const Hero = () => {
             {t("header")}
           </h1>
 
-          <Link href={"/randevu-al"} className="btn w-44 bg-primary hover:bg-secondary">
+          <Link href={"/randevu-al"} className="btn w-44 bg-primary hover:bg-primary/80">
             {t("button")}
           </Link>
         </div>

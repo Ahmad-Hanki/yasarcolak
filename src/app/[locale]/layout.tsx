@@ -5,7 +5,8 @@ import { ThemeProvider } from "@/providers/theme-provider";
 import HeadNav from "@/components/navbar/HeadNav";
 import Navbar from "@/components/navbar/Navbar";
 import { useLocale } from "next-intl";
-import {unstable_setRequestLocale} from 'next-intl/server';
+import { unstable_setRequestLocale } from "next-intl/server";
+import Footer from "@/components/footer/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -24,7 +25,6 @@ export default function RootLayout({
   const locale = useLocale();
   unstable_setRequestLocale(locale);
 
-
   return (
     <html lang={params.locale}>
       <body className={inter.className}>
@@ -37,6 +37,7 @@ export default function RootLayout({
           <HeadNav />
           <Navbar />
           <main>{children}</main>
+          <Footer />
         </ThemeProvider>
       </body>
     </html>
