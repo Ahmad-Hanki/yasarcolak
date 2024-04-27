@@ -9,14 +9,14 @@ const Footer = () => {
   return (
     <div className="">
       <footer className="footer p-10 bg-primary/80 text-white text-xl">
-        <nav className="max-w-[350px] mx-auto">
+        <nav className="md:max-w-[350px] md:mx-auto">
           <Logo f={true} />
           <h1 className="mt-4">{t("title")}</h1>
           <div className="mt-4">
             <SocialIcons />
           </div>
         </nav>
-        <nav className="space-y-3 max-w-[350px] mx-auto">
+        <nav className="space-y-3 md:max-w-[350px] md:mx-auto">
           <h6 className="footer-title">{t("links")}</h6>
           <Link href={"/"} className="link link-hover">
             {t("link1")}
@@ -36,7 +36,7 @@ const Footer = () => {
             </Link>
           )}
         </nav>
-        <nav className="space-y-3 max-w-[350px] mx-auto">
+        <nav className="space-y-3 md:max-w-[350px] md:mx-auto">
           <h6 className="footer-title">{t('contact')}</h6>
           <Link href={"tel:+905461109112"} className="link link-hover">
             {t("contact1")}
