@@ -30,16 +30,14 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
   const [phone, setPhone] = useState("");
   const [theme, setTheme] = useState("");
 
-  useEffect(()=> {
-    const i = localStorage.getItem('theme') || 'dark';
+  useEffect(() => {
+    const i = localStorage.getItem("theme") || "dark";
     setTheme(i);
-    console.log(theme)
-  },[theme])
+    console.log(theme);
+  }, [theme]);
 
   // Correct onChange handler using event object
-  const handlePhoneChange = (
-    formattedValue: string
-  ) => {
+  const handlePhoneChange = (formattedValue: string) => {
     setPhone(formattedValue);
     console.log(formattedValue);
   };
@@ -70,21 +68,25 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
               />
             </div>
             <div className="flex-1 flex gap-3 flex-col sm:flex-row">
-          
               <PhoneInput
                 value={phone}
                 placeholder={form.phone}
                 onChange={handlePhoneChange}
                 country={"tr"}
+                containerClass="h-auto" // Set the height dynamically
                 inputStyle={{
                   flex: 1,
                   width: "100%",
-                  height: "100%",
+                  height: "40px",
                   background: "var(--secondary)",
                   color: "var(--secondary-foreground)",
                 }}
                 containerStyle={{ background: "var(--secondary)" }}
-                dropdownStyle={{ background: theme=='dark'? 'black': 'white', color: theme=='dark'? 'white': 'black' ,opacity: 1}}
+                dropdownStyle={{
+                  background: theme == "dark" ? "black" : "white",
+                  color: theme == "dark" ? "white" : "black",
+                  opacity: 1,
+                }}
               />
               <Input
                 type="email"
