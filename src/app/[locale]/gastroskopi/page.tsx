@@ -1,6 +1,6 @@
 import SecHero from "@/components/SecHero";
 import { useLocale } from "next-intl";
-import GastroskopiClient from "./GastroskopiClient";
+import GastroskopiClient from "./_components/GastroskopiClient";
 
 const page = () => {
   return (

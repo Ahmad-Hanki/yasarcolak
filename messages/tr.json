@@ -98,5 +98,91 @@
     "contact2":"info@yasarcolak.com",
     "contact3":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul",
     "copyRights": "2024 © Tüm Hakları Saklıdır"
+  },
+  "gastroskopiPage": {
+    "header": "Gastroskopi (Mide Endoskopisi) Nedir?",
+    "d1": "Gastroskopi yani mide incelenmesi, gastrit veya peptik ülser gibi tıbbi durumların varlığını doğrulamaya veya ekarte etmeye yardımcı olur. Bu prosedürde gastroskop adı verilen bir alet kullanılarak yemek borusunun iç kısmı, mide ve bağırsağın bir kısmı incelenir.Gastroskopi testi bir gastroenteroloji uzmanı tarafından yapılır. İşlem sırasında ucunda küçük bir kamera ve ışık bulunan uzun, esnek bir tüp kullanılır. Bu tüpe gastroskop veya endoskop denir.",
+    "d2": "Gastroskopi testi bir gastroenteroloji uzmanı tarafından yapılır. İşlem sırasında ucunda küçük bir kamera ve ışık bulunan uzun, esnek bir tüp kullanılır. Bu tüpe gastroskop veya endoskop denir.",
+    "content": "İçindekiler",
+    "c1":"Gastroskopi (Mide Endoskopisi) Nedir?",
+    "c2":"Gastroskopi Neden Yapılır?",
+    "c3":"Gastroskopi Uygulaması",
+    "c3c1":"Gastroskopi İşlemi Sonrası",
+    "c3c2":"Gastroskopinin Riskleri",
+    "c4":"Gastroskopi Hakkında Sık Sorulan Sorular",
+    "d4":"Gastroskop, küçük bir ışık ve ucuna bağlı bir video kamera bulunan esnek bir tüptür. Video kameradan alınan görüntüler bir ekrana gönderilir. Tüp, küçük kerpeten gibi aletler sokarak doku örnekleri almak için kullanılabilir. Hava ve sıvıları emmek için de kullanılabilir.",
+    "h1":"Gastroskopi Neden Yapılır?",
+    "h1d1":"Sindirim sisteminde görülen şikayetlere neyin neden olduğunu kontrol etmek, bazı durumları tedavi etmek veya kanseri kontrol etmek için gastroskopi yapılabilir. Ancak, gastroskopi sadece bir tanı yöntemi değildir. İşlem sırasında bazı hastalıkların tedavisi yapılabilir ya da gerekli görüldüğü takdirde tedavi başka seansa da planlanabilir.",
+    "h1d2":"Prosedür, ağzınızdan ilerletilen endoskop ile gerçekleştirilir. Test tipik olarak hastalar mide ekşimesi, karın ağrısı ve şişkinlik gibi semptomlar yaşadıklarında gerçekleştirilir. Gastroskopi ayrıca mide kanseri için en etkili tarama yöntemidir. Aşağıdaki durumlara sahip hastalar için gastroskopi işlemi tavsiye edilir:",
+    "li11":"Kronik veya tekrarlayan mide ekşimesi, mide bulantısı veya kusma",
+    "li12":"Uzun süren mide bulantısı",
+    "li13":"Karın ağrısı",
+    "li14":"Yutma güçlüğü",
+    "li15":"Siyah renkli dışkı veya dışkıda kan görülmesi",
+    "li16":"Belirgin bir sebep olmadan kilo kaybı",
+    "li17":"Şüpheli peptik ülser",
+    "li18":"Yemek borusu veya mide kanseri şüphesi",
+    "li19":"Mide ameliyatı sonrası kontrol",
+    "d5":"Gastroskopi sırasında tedavinin yapıldığı işlemlere örnek olarak şunlar sıralanabilir:",
+
+    "l21":"Midedeki poliplerin çıkartılması",
+    "l22":"Kanayan lezyonlara müdahale edilerek kanamanın durdurulması",
+    "l23":"Yüzeyel tümör veya erken evre kanserlerin çıkartılması (endoskopik mukozal rezeksiyon – EMR veya ESD)",
+    "l24":"Yemek borusu, mide çıkış yolu veya bağırsaklardaki darlıkların genişletilerek açılması (dilatasyon işlemleri)",
+    "l25":"Stent takılması",
+    "l26":"Yemek borusundaki varislerin bağlanması (band ligasyon)",
+    "l27":"Yemek borusu veya midedeki yabancı cisimlerin çıkartılması    ",
+    "l28":"Mide botoksu, mide balonu ve endoskopik mide küçültme işlemleri",
+
+    "h2":"Gastroskopi Uygulaması",
+    "h2d1":"Gastroskopi işlemi öncesinde genel olarak yoğun bir hazırlık sürecine gerek yoktur. En az 8 saatlik açlık (herhangi bir sıvı ve su tüketimi olmamalıdır) işlemin uygulanabilmesi için yeterlidir. Sadece bazı kan sulandırıcı ilaçların işlem öncesi süreçte kesilmesi gerekebilir.",
+    "h2d2":"İşlem günü endoskopi ünitesinde kişiye işlemi onayladığına dair bir onam formu imzalatılır, kişinin kayıt işlemi yapılır ve hazırlık odasına geçilir. Hazırlık odasında hasta yatırılır ve işleme hazır hale getirilir. İlgili hemşire hastaya kronik bir hastalığı olup olmadığını, kullandığı ilaçları, en son ne zaman hangi ilacı aldığını, yeme ve içme işlemini en son ne zaman yaptığını, herhangi bir alerjisinin olup olmadığı hakkında bilgi alır. Daha sonra hastaya anestezi verilir ve hasta yatağı ile birlikte işlem odasına alınır.",
+    "h2d3":"İşlem odasında endoskopi hemşiresi, anestezi ekibi ve gastroenteroloji uzmanı bulunur. İşleme başlamadan önce yaklaşık 1-2 dakikalık bir hazırlık süreci olur. Bu sırada hastanın tansiyonu, nabız ve solunum sayısı ve parmak ucuna takılan mandal tarzında bir küçük cihaz ile kanındaki oksijen düzeyi ölçülür. Burun deliklerine plastik bir burun maskesi takılarak işlem sırasında buradan sürekli oksijen alması sağlanır. İşlem öncesi boğazın uyuşması için ağız ve boğaza bir sprey sıkılır. Bu sprey dil, ağız içi ve boğaz bölgesinin uyuşmasını ve işlemin daha kolay gerçekleştirilmesini sağlar. Ardından hastanın ağzına ön dişlerin arasında kalacak şekilde tek kullanımlık, ortası delik olan ve içinden endoskopi aletinin geçeceği plastik bir ağızlık yerleştirilir. Son olarak anestezi ekibi tarafından damardan ilaç verilir ve yaklaşık 10 ila 20 saniye sonra hasta uyumaya başlar.",
+    "h2d4":"Anestezinin etki etmesiyle işleme başlanır. Gastroskopi işlemi yaklaşık 5 dakika süren bir işlemdir. Bu işlem sırasında hastanın boğaz kısmı, yemek borusu, mide ve ince bağırsağın yaklaşık ilk 20-30 cm’lik kısmı incelenir. İşlem bittikten sonra endoskopi aleti, burun maskesi ve ağızlık çıkartılır. Hasta yine yatağıyla birlikte dinlenme odasına alınır. Birkaç dakika içinde anestezi ilaçlarının etkisi geçmeye ve hasta uyanmaya başlar. Dinlenme odasında yaklaşık 15-20 dakikalık istirahatten sonra kişinin tam uyanması beklenir ve damar yolu çıkartılarak kişi kendini iyi hissettiğinde taburcu edilir.    ",
+
+    "h3": "Gastroskopi İşlemi Sonrası",
+    "h3d1":"Gastroskopi sonrası anestezi ilaçlarının etkisi geçmeye ve hasta kendine gelmeye başlar. Kişinin nabız sayısı, kandaki oksijen düzeyi ve tansiyon kontrolü yapılır. Ardından işlem ile ilgili bilgi verilir ve hasta taburcu edilir.    ",
+    "h3d2":"İşlem öncesinde boğazın uyuşması için sıkılan spreyin etkisi nedeniyle oluşan yutma güçlüğü, gastroskopiden sonra yaklaşık 30-60 dakika kadar sürer. Bu nedenle işlemden bir saat sonra sıvı ve gıda tüketimine başlanılır. Rutin endoskopik işlemlerde mideden biyopsi örneği alınmaktadır. Bu nedenle işlem sonrası ilk gün hafif ve yumuşak gıdaların tercih edilmesi, çok sıcak gıda ve içeceklerin tüketilmemesi önerilir. İşlem sırasında polip veya kitle alınması gibi kanama açısından daha riskli olabilecek durumlarda ise, sıvı diyet birkaç gün daha uzatılabilir. Gastroskopi nedeniyle kullanılmaya ara verilen ilaçlar varsa (özellikle kan sulandırıcı ilaçlar) bunlara ne zaman başlanılacağı hakkında hastaya gerekli bilgiler verilir.    ",
+    "h3d3":"İşlem sonrası birkaç saat anesteziden dolayı araç kullanılmaması ve dikkat gerektiren işlerin yapılmamasını önemlidir. Bu birkaç saatlik süre sonunda ise hasta günlük işlerine aynı gün içerisinde dönebilir.    ",
+
+    "h4":"Gastroskopinin Riskleri    ",
+    "h4d1":"Gastroskopi işlemi oldukça kolay ve rahat bir işlemdir. Ehil ellerde yapıldığı takdirde özellikle rutin endoskopik işlemler oldukça güvenli işlemlerdir ve risk hayli düşüktür.    ",
+    "h4d2":"Özellikle endoskopik müdahale yapılması gereken durumlarda (polip veya kitle alınması, stent takılması, genişletme işlemleri gibi) nadiren kanama gibi risklerle karşılaşılabilir. Ehil kişiler tarafından yapılan işlemlerde bu tarz istenmeyen olaylar (komplikasyonlar) kolaylıkla yönetilebilmektedir.    ",
+
+    "h5":"Gastroskopi Hakkında Sık Sorulan Sorular",
+
+    "h5c1":"Erken Teşhis Açısından Önemli Bir İşlem Midir?",
+    "h5d1":"Gastroskopi erken tanı ve aynı zamanda bazı durumlarda tedavi imkanı sağlayarak hayat kurtarıcı olabilmektedir. Buna bir örnek vermek gerekirse henüz hastanın şikayeti yokken yapılan tetkiklerde kansızlık ya da demir eksikliği görülen veya dışkıda gizli kan testi pozitif olan kişilerde hem gastroskopi hem de kolonoskopi taraması yapılmaktadır. Bu taramalarda azımsanmayacak kadar çok kişide erken evre tümör ve kanserleri saptanmakta ve endoskopik olarak tedavi edilebilmektedir.",
+
+    "h5c2":"Hangi Durumlarda Uygulanır?",
+    "h5d21":"Gastroskopi işlemi; sıklıkla midede ağrı, yanma, ekşime, kazınma hissi, ağız kokusu, şişkinlik, hazımsızlık, iştahsızlık, göğüste yanma, ağza acı su gelmesi, yutma güçlüğü, ağrılı yutma, gıdaların boğaz veya göğüste takılma hissi, kansızlık, vitamin eksiklikleri, bulantı, kusma, ses kısıklığı gibi şikayetler için yapılmaktadır. Bunun dışında ağızdan kan gelmesi (kırmızı veya kahve telvesi şeklinde olabilir), makattan kan gelmesi veya siyah renkli dışkılama (dışkının siyah renkli olmasının mide kanaması bulgusu olabileceği unutulmamalıdır), istemsiz kilo kaybı gibi şikayetler nedeniyle de uygulanmaktadır.",
+    "h5d22":"Ailesinde mide kanseri olan kişilerde ise şikayete bakılmaksızın kontrol amaçlı gastroskopi işlemi yapılmalı ve midede helicobacter pylori adını verdiğimiz bakteri saptanırsa mutlaka uygun şekilde tedavi edilmelidir.    ",
+
+    "h5c3":"Kimler Gastroskopi Yaptıramaz?",
+    "h5d3":"Özellikle son 8 saat içinde sıvı veya katı gıda tüketmiş ya da su içmiş kişilerde gastroskopi yapılmamalıdır. Midenin tam olarak boşalmamış olması, işlem sırasında mide içeriğinin boğaza ve akciğerlere kaçmasına yol açabileceğinden risk oluşturmaktadır. Bu nedenle yiyecek ve içecek tüketimine işlemden en az 8 saat önce son verilmelidir. Ayrıca bazı kan sulandırıcıların kullanılması kanama riskini artırabileceğinden gastroskopi işlemi ilgili doktorun bilgisi dahilinde planlanmalıdır. Bunun dışında ciddi kalp ve akciğer hastalığı olan, böbrek ve karaciğer yetersizliği çeken kişiler ile ileri yaştaki hastalarda anestezi riski nedeni ile işleme, kişinin doktoru ve anestezi hekimi birlikte karar vermelidir. Gebelerde çok ihtiyaç olmadıkça rutin gastroskopik işlemlerden kaçınılmalıdır.    ",
+
+    "h5c4":"Gastroskopi İşlemi Sırasında Herhangi Bir Ağrı ya da Öğürtü Olur Mu?",
+    "h5d4":"İşlem anestezi altında gerçekleştirildiği için hasta işlem sırasında hiçbir ağrı ya da öğürtü hissetmez. Hatta anestezinin etkisi geçtikten sonra hasta işlemi hatırlamaz.    ",
+
+    "h5c5":"Kalp, Kanser Ve Diyabet Gibi Kronik Hastalıkları Olanlar Gastroskopi Yaptırabilir Mi?",
+    "h5d5":"Kronik hastalığı olan kişiler de gastroskopi işlemi yaptırabilir; ancak anestezi hazırlığı için kullanılan ilaçlar mutlaka doktor tarafından kontrol edilmelidir. Bazı durumlarda ilaç değişiklikleri veya doz değişiklikleri gerekebilmektedir. Bu nedenle mutlaka işlem öncesi süreçte kişinin bu durumu doktoruyla görüşmesi gerekmektedir.",
+
+    "h5c6":"Hangi Aralıklarla Gastroskopi Yapılabilir?",
+    "h5d6":"Gastroskopi tekrarı için rutin bir süre yoktur. Her hastaya ve hastalığa özgü kontrol süresi bulunmaktadır. Örneğin, gastrit veya onikiparmak bağırsağı ülserlerinde rutin bir kontrol endoskopisi genellikle gerekmez; ancak mide ülserlerinde tedavi sonrası (1-2 aylık dönemde) kontrol gastroskopisi istenebilir. Bunun nedeni, nadiren de olsa mide kanserlerinin mide ülseri şeklinde başlama riskidir.",
+
+    "h5c7":"Gastroskopi Ağrılı Bir İşlem Midir?",
+    "h5d7":"İşlem sırasında anestezi verilmekte olup herhangi bir ağrı, bulantı, öğürtü ya da nefes alamama gibi şikayet yaşanmamaktadır.    ",
+
+    "h5c8":"İşlem İçin Hasta Yakını, Refakatçi Gerekli Midir?",
+    "h5d8":"İşleme gelen kişinin yanında bir refakatçinin olması şart değildir; ancak anestezi verildiği için işlemden sonra birkaç saat dikkat gerektiren bir iş yapılmaması ve araç kullanılmaması gerekmektedir. Bu nedenle işleme kişinin kendi aracıyla tek başına gelmemesi önerilir.",
+
+    "h5c9":"Gastroskopi Sonrasında Ne Zaman Yemek Yenilebilir?",
+    "h5d9":"İşlem sırasında herhangi bir müdahale yapılmadıysa genellikle işlemden bir saat sonra gıda tüketilebilir. Gastroskopi işlemi sırasında sıklıkla biyopsi alınmaktadır. Bundan dolayı işlemden sonraki ilk günde çorba tarzı sıvı gıdaların; yoğurt, muhallebi ve püre tarzı yumuşak ve az yağlı besinlerin tüketilmesi önerilir. İşlem sırasında bir müdahale yapılması durumunda ise yapılması gerekenler doktor tarafından hastaya bildirilir.    ",
+
+    "h5c10":"İşlem Sırasında Biyopsi Alındıysa Patoloji Sonucu Ne Zaman Beli Olur?",
+    "h5d10":"Patoloji sonucu genellikle 7-10 gün içerisinde çıkmaktadır.",
+
+    "h5c11":"Gastroskopi Bebek Emzirmeye Engel Midir?",
+    "h5d11":"İşlemin kendisi emzirmeye engel olmaz; ancak işlem için uygulanan anestezi ilaçlarının süte geçme riski nedeniyle gastroskopiden sonra yaklaşık 4-6 saat sütün sağılması ve bebeğe verilmeden atılması önerilir. Bebeğin aç kalmasını önlemek için işlem öncesi anne sütünü sağıp depolayabilir ve emziremediği saatlerde bebeğine verebilir."
   }
 }
