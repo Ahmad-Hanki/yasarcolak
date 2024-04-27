@@ -50,7 +50,7 @@ const Grid1 = ({ t }: Grid1) => {
       <div className="py-10 flex flex-wrap gap-5 justify-center">
         {data.map((item, i) => {
           return (
-            <Card key={i} className="">
+            <Card key={i} >
               <CardContent className="grid place-content-center ">
                 <MotionDiv
                   transition={{ duration: 0.3 }}

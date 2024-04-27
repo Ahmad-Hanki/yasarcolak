@@ -4,7 +4,9 @@ import FormImage from "@/assets/FormImage.jpg";
 import Image from "next/image";
 import MotionDiv from "@/components/ui/MotionDiv";
 import Grid1 from "@/app/[locale]/(home)/_components/Grid1";
+import { useEffect, useState } from "react";
 const AppointmentFlex = () => {
+
   const t = useTranslations("appointment");
   const form = {
     header: t("header"),
@@ -18,14 +20,14 @@ const AppointmentFlex = () => {
 
   const grid1tT = useTranslations("grid1");
   const grid1 = {
-    header: grid1tT('header'),
-    description: grid1tT('description'),
-    photo1: grid1tT('photo1'),
-    photo2: grid1tT('photo2'),
-    photo3: grid1tT('photo3'),
-   
-    details: grid1tT('details'),
-  }
+    header: grid1tT("header"),
+    description: grid1tT("description"),
+    photo1: grid1tT("photo1"),
+    photo2: grid1tT("photo2"),
+    photo3: grid1tT("photo3"),
+
+    details: grid1tT("details"),
+  };
 
   return (
     <div className="space-y-7">
@@ -35,9 +37,8 @@ const AppointmentFlex = () => {
         <MotionDiv
           initial={{ opacity: 0, x: 300 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ amount: 0.3 }}
           transition={{ duration: 0.5 }}
-          className="flex-1 min-h-[70vh] px-3 relative overflow-hidden aspect-[0.9/1] "
+          className="flex-1 min-w-[400px] min-h-[70vh] px-3 relative overflow-hidden aspect-[0.9/1] "
         >
           <Image
             src={FormImage}
