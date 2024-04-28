@@ -11,7 +11,7 @@ const Content = ({ content }: { content: SigmoidoskopiContentType }) => {
           <p>{content.h1d1}</p>
           <p>{content.h1d2}</p>
         </div>
-        <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%] lg:mx-auto">
+        <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%] ">
           <Image
             src={im2}
             fill

@@ -32,7 +32,7 @@ const Header = ({ header, content }: HeaderProps) => {
           <p>{header.d2}</p>
           <p>{header.d3}</p>
           <p>{header.d4}</p>
-          <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%] lg:mx-auto">
+          <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%] ">
             <Image
               src={img1}
               fill

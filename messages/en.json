@@ -438,5 +438,83 @@
 
       "q12":"How much weight is lost after the procedure?",
       "a12":"The expected weight loss in one year after the procedure is approximately 20-30 percent. This rate is closely related to the person’s compliance with diet and physical activity.      "
-    }
+    },
+  "mide-balonuPage": {
+    "header":"What is a Gastric Balloon and What are its Benefits?    ",
+    "d1":"The gastric balloon procedure is an endoscopic procedure in which a balloon is inserted into the stomach and the balloon is filled with a special liquid. It takes approximately 15 minutes. During this procedure, people are under anesthesia, just like during gastroscopy, and therefore do not feel pain, soreness, nausea and do not remember the procedure.    ",
+    "content":"Content",
+    "c1":"What is a Gastric Balloon and What are its Benefits?",
+    "c2":"Advantages and Disadvantages of Gastric Balloon Procedure",
+    "c3":"Gastric Balloon Size",
+    "c4":"Who is the procedure suitable for",
+    "c5":"Gastric Balloon Application",
+    "c5c1":"Preparation Process",
+    "c5c2":"How is the process done?",
+    "c5c3":"How long does the process take?",
+    "c5c4":"After Gastric Balloon Placement",
+    "c6":" Frequently Asked Questions About Gastric Balloon",
+    "d2":"During the procedure, the stomach is first checked endoscopically. Then a balloon that has not yet been inflated is sent into the stomach and the balloon is inflated with serum. At the same time, a special dye is added to this serum for safety reasons. The purpose of the dye is to ensure that the situation is quickly understood by staining the color of both urine and feces blue against the risk of the balloon bursting, even if it is very rare. (a situation we have not encountered in the balloon applications we have done so far)    ",
+    "d3":"The gastric balloon occupies a volume in the stomach and gives a constant feeling of saturation and satiety. Since the volume of the stomach remaining for food is reduced, the person cannot consume more than a certain amount of food or liquid even if he wants to. In this way, weight loss begins. Excess food or liquid intake causes vomiting.    ",
+   
+    "h1":"Advantages And Disadvantages Of Gastric Balloon Procedure    ",
+    "h1d1":"Gastric balloon placement has some benefits and harms for patients.    ",
+    
+    "ad":"Pros:",
+    "ad1":"Does not require surgery.    ",
+    "ad2":"Quick and easy to place.    ",
+    "ad3":"Results in weight loss.    ",
+    "ad4":"May result in long-term weight loss when used in combination with diet and exercise program.    ",
+    "ad5":"Depending on your starting weight and lifestyle changes, you can expect to lose 20 to 50 pounds.    ",
+    "ad6":"Most patients lose about 30% of excess body weight or 10% to 30% of their total starting weight.    ",
+    "ad7":"You feel full more quickly and are less hungry.    ",
+
+    "di":"Cons:    ",
+    "di1":"Short-term reflux complaints are common. Anti-reflux medication may be required.    ",
+    "di2":"Nausea and vomiting may occur in the first few days.    ",
+    "di3":"Difficulty sleeping may occur in the first few days. Sleep disturbances may be related to stomach discomfort or reflux.    ",
+   
+    "h2":"Gastric Balloon Size    ",
+    "h2d1":"The gastric balloon is usually inflated with a volume between 400 ml and 700 ml. Just as everyone’s weight and height are different, stomach size and volume are also individualized. For this reason, the volume of the balloon is adjusted according to the stomach volume of each individual during endoscopic application. This volume and the required amount are decided during the endoscopic procedure. Leaving the balloon volume at 400 ml in an individual who needs a 600 ml balloon will result in failure of the procedure. The most important advantage of the endoscopic gastric balloon application compared to the swallowable balloons that have been used in recent years is the possibility of adjusting the size of the gastric balloon according to the stomach volume of each individual.    ",
+
+    "h3":"Who Is The Procedure Suitable For    ",
+    "h3d1":"In case the desired weight cannot be achieved despite diet and exercise, the gastric balloon procedure is applied. For this, the body mass index must be above 30.    ",
+    
+    "hilight":"Gastric balloon procedure should not be applied in people who have previously undergone stomach reduction surgery.    ",
+
+    "d4":"Studies have shown that gastric balloon procedure applied to people who have previously undergone stomach reduction surgery may lead to the risk of stomach perforation. In addition, the procedure should not be performed if formations such as tumors and ulcers are seen in the stomach during the endoscopic control to be performed before the procedure. If treatable conditions such as gastritis or ulcers are detected in the endoscopic control, these problems should be treated first and then the procedure should be performed.    ",
+    
+    "h4":"Gastric Balloon Application    ",
+
+    "h5":"Preparation Process    ",
+    "h5d1":"Endoscopic control is recommended about a week before the gastric balloon procedure. This is primarily to make sure that there is no disease (such as ulcer and tumor) that will prevent the balloon procedure. In addition, if a correctable health problem such as gastritis and ulcer is detected, it is aimed to treat these problems in the period until the procedure. If there is no obstacle in the endoscopic examination, the day of the procedure is planned. An 8-hour fasting is sufficient before the procedure. Both solid food and liquids including water should be stopped 8 hours before the procedure and the stomach should be empty.    ",
+    "h6":"How Is The Process Done?    ",
+    "h6d1":"The procedure is performed in a hospital setting and in the endoscopy unit. People are prepared by the endoscopy nurse before the procedure. During this preparation, the patient’s diseases, any allergies and current medications are questioned. After the file is filled out and the signature of the person is obtained for consent for the procedure, an intravenous line is opened to administer anesthesia drugs. Then he/she is taken to the procedure room. In the meantime, the patient is monitored; as in all endoscopic procedures, blood pressure, oxygen level in the blood and heart rhythm are continuously monitored on monitors. The stomach is entered with the endoscopy device and the inside of the stomach is checked for the last time. The gastric balloon is then inserted. Afterwards, the gastric balloon is inflated to an average of 500-600 cc in accordance with the stomach volume and the procedure is terminated.    ",
+    "h7":"How Long Does The Process Take?    ",
+    "h7d1":"The duration of the procedure is approximately 15 minutes. After the procedure, the person is taken to the rest room where he/she is discharged after resting for about 15-20 minutes and after the effect of anesthesia drugs wears off.    ",
+    "h8":"After Gastric Balloon Placement    ",
+    "h8d1":"Although hospitalization is not required after gastric balloon procedure, it is recommended that the patient stays in the hospital for one night. This hospitalization is to ensure a more comfortable night after the procedure; because the person does not feel any complaints in the first hours after the balloon application; however, nausea, vomiting and non-severe cramp-like pain may start about 6 hours after the procedure. Although the severity of these complaints gradually decreases after the first day, they usually last up to 3 days. Especially in the evening and night of the balloon procedure, nausea and cramps are at their peak. Spending this period in the hospital and intravenous administration of serum, cramps and nausea medication makes the process more comfortable. Within a few days, the complaints gradually decrease and disappear day by day.    ",
+    
+    
+    "h9":"Frequently Asked Questions About Gastric Balloon    ",
+    "q1":"Is Anesthesia Given During the Procedure?    ",
+    "a1":"As with all endoscopic procedures, the procedure is performed under anesthesia. In this way, the patient does not feel any pain or ache during the very short procedure and does not remember the procedure.    ",
+
+    "q2":"What are the Risks and Side Effects?    ",
+    "a2":"The gastric balloon procedure, performed by experienced hands, is an extremely safe procedure and has no serious side effects. The most common side effects that may be related to the procedure are nausea, vomiting and cramps that start after the procedure and pass within a few days.    ",
+
+    "q3":"Does a Gastric Balloon Burst?    ",
+    "a3":"Contrary to popular belief, the risk of gastric balloon bursting is quite rare.    ",
+
+    "q4":"How long does the gastric balloon stay in the stomach?    ",
+    "a4":"There are gastric balloons that can stay in the stomach for 6 months and 12 months. We generally prefer 6-month gastric balloons. Staying in for more than 6 months has a low effect on weight loss. For this reason, we recommend removing the balloon at the end of 6 months.    ",
+
+    "q5":"How to Remove a Gastric Balloon?",
+    "a5":"The gastric balloon is removed in a 10-minute endoscopic procedure under anesthesia. The procedure is quite easy. The patient rests in a rest room until the anesthetic wears off (about 15-20 minutes) and is discharged after the anesthetic medication wears off. There is no need to stay in hospital for this procedure.    ",
+
+    "q6":"When Does Weight Loss Start After the Procedure?    ",
+    "a6":"The weight loss process starts immediately after the gastric balloon application and this process continues for about 6 months. ",
+
+    "q7":"What Should Be Considered After the Procedure?    ",
+    "a7":"A healthy lifestyle and diet are essential after all obesity procedures, including the gastric balloon procedure. Otherwise, it is very difficult to reach the desired weight. Therefore, it is very important to follow the diet recommended by the dietitian. In general, liquid nutrition is recommended for the first 5-7 days after gastric balloon application, soft and puree-style foods in the second week, and a gradual transition to normal foods in the 3rd week.    "
+  }
 }

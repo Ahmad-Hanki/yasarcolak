@@ -303,3 +303,73 @@ export type EndoskopikMideKucultmeFooterType = {
   q12: string;
   a12: string;
 };
+
+
+export type MideBalonuHeaderType ={
+    header: string;
+    d1: string;
+    content: string;
+    c1: string;
+    c2: string;
+    c3: string;
+    c4: string;
+    c5: string;
+    c5c1: string;
+    c5c2: string;
+    c5c3: string;
+    c5c4: string;
+    c6: string;
+    d2: string;
+    d3: string;
+   
+   
+  }
+
+  export type MideBalonuContentType ={
+    h1: string;
+    h1d1: string;
+    ad: string;
+    ad1: string;
+    ad2: string;
+    ad3: string;
+    ad4: string;
+    ad5: string;
+    ad6: string;
+    ad7: string;
+    di: string;
+    di1: string;
+    di2: string;
+    di3: string;
+    h2: string;
+    h2d1: string;
+    h3: string;
+    h3d1: string;
+    hilight: string;
+    d4: string;
+    h4: string;
+    h5: string;
+    h5d1: string;
+    h6: string;
+    h6d1: string;
+    h7: string;
+    h7d1: string;
+    h8: string;
+    h8d1: string;
+  }
+  export type MideBalonuFooterType ={
+    h9: string;
+    q1: string;
+    a1: string;
+    q2: string;
+    a2: string;
+    q3: string;
+    a3: string;
+    q4: string;
+    a4: string;
+    q5: string;
+    a5: string;
+    q6: string;
+    a6: string;
+    q7: string;
+    a7: string;
+  }

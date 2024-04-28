@@ -39,8 +39,8 @@ const Endoskopi = ({t1}: dataProps) => {
     },
     {
       name: t1.link4,
-      href: "/" + locale + "/kapsul-endoskop",
-      active: pathname.includes("/kapsul-endoskop"),
+      href: "/" + locale + "/kapsul-endoskopi",
+      active: pathname.includes("/kapsul-endoskopi"),
     },
   ];
 
@@ -55,7 +55,7 @@ const Endoskopi = ({t1}: dataProps) => {
         pathname.includes("/gastroskopi") ||
           pathname.includes("/kolonoskopi") ||
           pathname.includes("/sigmoidoskopi") ||
-          pathname.includes("/kapsul-endoskop")
+          pathname.includes("/kapsul-endoskopi")
           ? "tab-active  "
           : "tab"
       )}
@@ -68,7 +68,7 @@ const Endoskopi = ({t1}: dataProps) => {
             pathname.includes("/gastroskopi") ||
               pathname.includes("/kolonoskopi") ||
               pathname.includes("/sigmoidoskopi") ||
-              pathname.includes("/kapsul-endoskop")
+              pathname.includes("/kapsul-endoskopi")
               ? "text-blue-500/90"
               : ""
           )}

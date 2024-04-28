@@ -441,7 +441,79 @@
       "mide-balonuPage": {
         "header":"Mide Balonu Nedir ve Faydaları Nelerdir?        ",
         "d1":"Mide balonu işlemi, endoskopik bir işlem ile mide içerisine bir balon yerleştirilmesi ve balonun içinin özel bir sıvı ile doldurulması işlemidir. Yaklaşık 15 dakika süren bir işlemdir. Bu işlem sırasında kişiler, aynı gastroskopi işleminde olduğu gibi, anestezi altındadır ve bu nedenle ağrı, acı, bulantı gibi şikayetleri hissetmezler ve işlemi hatırlamazlar.",
+        "content":"İçindekiler",
+        "c1":"Mide Balonu Nedir ve Faydaları Nelerdir?",
+        "c2":"Mide Balonu İşleminin Avantajları ve Dezavantajları",
+        "c3":"Mide Balonu Boyutu",
+        "c4":"İşlem Kimler İçin Uygundur",
+        "c5":"Mide Balonu Uygulaması",
+        "c5c1":"Hazırlık Süreci",
+        "c5c2":"İşlem Nasıl Yapılır?",
+        "c5c3":"İşlem Ne Kadar Sürer?",
+        "c5c4":"Mide Balonu Yerleştirildikten Sonra",
+        "c6":"Mide Balonu Hakkında Sık Sorulan Sorular",
+        "d2":"İşlem sırasında öncelikle mide, endoskopik olarak kontrol edilir. Ardından mide içerisine henüz şişirilmemiş bir balon gönderilir ve ardından balon serum ile şişirilir. Aynı zamanda bu serumun içerisine güvenlik gerekçesiyle özel bir boya maddesi konulur. Boyanın amacı çok nadiren de olsa balonun patlaması riskine karşı gerek idrar gerekse dışkı renginin maviye boyanmasıyla durumun hızlıca anlaşılmasını sağlamaktır. (şimdiye kadar yapmış olduğumuz balon uygulamalarında karşılaşmadığımız bir durumdur)        ",
+        "d3":"Mide balonu mide içerisinde bir hacim kaplayarak sürekli doygunluk ve tokluk hissi verir. Midenin gıdalara kalan hacmi azalmış olduğundan kişi istese de belli bir miktardan fazla gıda veya sıvı tüketemez. Bu sayede kilo verme başlar. Fazla gıda veya sıvı alımı ise kusmaya yol açar.        ",
+       
+        "h1":"Mide Balonu İşleminin Avantajları Ve Dezavantajları        ",
+        "h1d1":"Mide balonu yerleştirilmesi işleminin hastalar için bazı yararları ve zararları vardır.        ",
         
-        "end":""
+        "ad":"Artıları:",
+        "ad1":"Ameliyat gerektirmez.",
+        "ad2":"Yerleştirilmesi hızlı ve kolaydır.        ",
+        "ad3":"Kilo kaybı ile sonuçlanır.        ",
+        "ad4":"Diyet ve egzersiz programı ile birlikte kullanıldığında uzun süreli kilo kaybı ile sonuçlanabilir.        ",
+        "ad5":"Başlangıç ​​kilonuza ve yaşam tarzı değişikliklerinize bağlı olarak 20 ila 50 kilo vermeyi bekleyebilirsiniz.        ",
+        "ad6":"Çoğu hasta fazla vücut ağırlığının yaklaşık %30’unu veya toplam başlangıç ​​ağırlığının %10 ila %30’unu kaybeder.        ",
+        "ad7":"Daha çabuk tokluk hissi duyarsınız ve daha az acıkırsınız.        ",
+
+        "di":"Eksileri:",
+        "di1":"Kısa süreli reflü şikayetleri yaygındır. Anti-reflü ilaçları kullanımı gerekebilir.        ",
+        "di2":"İlk birkaç gün mide bulantısı ve kusma görülebilir.        ",
+        "di3":"İlk günlerde uyuma güçlüğü oluşabilir. Uyku bozuklukları, midenin rahatsız olması veya reflü ile ilişkili olabilir.        ",
+       
+        "h2":"Mide Balonu Boyutu        ",
+        "h2d1":"Mide balonunda genellikle 400 ml ile 700 ml arasında bir hacimle şişirme uygulanmaktadır. Herkesin kilosu ve boyunun farklı olduğu gibi mide boyutu ve hacmi de kişiye özgüdür. Bu nedenle endoskopik uygulama sırasında her bireyin mide hacmine göre balonun hacmi ayarlanır. Bu hacme ve gereken miktarın ne olacağına endoskopik işlem sırasında karar verilir. 600 ml’lik bir balon ihtiyacı olan bireyde balon hacminin 400 ml’de bırakılması işlem başarısızlığı ile sonuçlanacaktır. Son yıllarda kullanıma giren yutulabilir balonlara göre endoskopik mide balonu uygulamasının en önemli üstünlüğü, her bireyin mide hacmine göre mide balonu büyüklüğünün de ayarlanabilme imkanıdır.        ",
+
+        "h3":"İşlem Kimler İçin Uygundur        ",
+        "h3d1":"Diyete ve egzersize rağmen istenen kiloya ulaşılamaması durumda mide balonu işlemi uygulanmaktadır. Bunun için vücut kitle indeksinin 30’un üzerinde olması gerekmektedir.        ",
+        
+        "hilight":"Mide balonu işlemi, daha önceden mide küçültme ameliyatı geçirmiş kişilerde uygulanmamalıdır.        ",
+
+        "d4":"Yapılan çalışmalarda daha önce mide küçültme ameliyatı yapılan kişilere uygulanan mide balonu işleminin mide delinmesi riskine yol açabileceği gösterilmiştir. Ayrıca işlemden önce yapılacak endoskopik kontrol sırasında mide içerisinde tümör, ülser gibi oluşumlar görülmesi halinde de işlem yapılmamalıdır. Endoskopik kontrolde gastrit veya ülser gibi tedavi edilebilir durumların saptanması halinde ise önce bu sorunlar tedavi edilmeli ve ardından işlem uygulanmalıdır.        ",
+        
+        "h4":"Mide Balonu Uygulaması",
+
+        "h5":"Hazırlık Süreci",
+        "h5d1":"Mide balon uygulamasından yaklaşık bir hafta önce endoskopik kontrol yapılması önerilir. Bunun nedeni öncelikli olarak balon işlemine engel olacak bir hastalığın (ülser ve tümör gibi) olmadığından emin olmaktır. Ayrıca gastrit ve ülser gibi düzeltilebilir bir sağlık sorunu saptanırsa işleme kadar geçecek sürede bu sorunların tedavi edilmesi amaçlanır. Endoskopik incelemede bir engel görülmemesi halinde işlem günü planlanır. İşlemden önce 8 saatlik bir açlık yeterlidir. Hem katı gıda hem de su dahil sıvıların tüketimine işlemden 8 saat önce son verilmesi ve midenin boş olması gerekir.        ",
+        "h6":"İşlem Nasıl Yapılır?        ",
+        "h6d1":"İşlem, hastane ortamında ve endoskopi ünitesinde yapılmaktadır. İşlem öncesi kişiler endoskopi hemşiresi tarafından hazırlanır. Bu hazırlık sırasında kişinin hastalıkları, herhangi bir alerjisi olup olmadığı ve kullanmakta olduğu ilaçlar sorgulanır. Dosya doldurulduktan ve işlem onamı için kişinin imzası alındıktan sonra anestezi ilaçlarının verilebilmesi için damar yolu açılır. Ardından işlem odasına alınır. Bu sırada kişi monitörize edilir; tüm endoskopik işlemlerdeki gibi tansiyon, kandaki oksijen düzeyi ve kalp ritmi monitörlerden sürekli olarak takip edilir. Mideye endoskopi cihazı ile girilir ve mide içerisi son kez kontrol edilir. Ardından mide balonu yerleştirilir. Sonrasında mide balonu mide hacmine uygun olarak ortalama 500-600 cc düzeyinde şişirilir ve işlem sonlandırılır.        ",
+        "h7":"İşlem Ne Kadar Sürer?        ",
+        "h7d1":"İşlem süresi yaklaşık 15 dakikadır. İşlem sonrasında kişi dinlenme odasına alınır ve burada da yaklaşık 15-20 dakika kadar istirahat ettikten sonra ve anestezi ilaçlarının etkisinin geçmesiyle taburcu edilir.        ",
+        "h8":"Mide Balonu Yerleştirildikten Sonra        ",
+        "h8d1":"Mide balonu uygulaması sonrası hastanede yatış şart olmamakla birlikte kişinin bir gece hastanede kalması önerilmektedir. Bu yatış, işlem sonrası daha konforlu bir gece geçirilmesini sağlamak içindir; çünkü balon uygulamasından sonra kişi ilk saatlerde şikayet hissetmez; ancak işlemden yaklaşık 6 saat sonra başlayan mide bulantısı, kusmalar ve kramp tarzında şiddetli olmayan ağrılar başlayabilir. Bu şikayetlerin şiddeti ilk günden sonra giderek azalmakla birlikte genellikle 3 gün kadar sürer. Özellikle balon uygulamasının olduğu akşam ve gece, bulantı ve krampların en fazla olduğu dönemdir. Bu sürecin hastanede geçirilmesi, serum, kramp ve bulantı ilaçlarının damar yolundan verilmesi, sürecin daha konforlu geçirilmesini sağlar. Birkaç gün içinde ise şikayetler günden güne tedricen azalır ve geçer.        ",
+        
+        
+        "h9":"Mide Balonu Hakkında Sık Sorulan Sorular        ",
+        "q1":"İşlem Sırasında Anestezi Verilir Mi?",
+        "a1":"İşlem, tüm endoskopik işlemlerde olduğu gibi anestezi altında uygulanır. Bu sayede çok kısa süren işlemde hasta herhangi bir acı ya da ağrı hissetmez ve işlemi hatırlamaz.        ",
+    
+        "q2":"Riskleri Ve Yan Etkileri Nelerdir?",
+        "a2":"Deneyimli ellerle yapılan mide balonu uygulaması, son derece güvenli bir işlem olup ciddi bir yan etkisi bulunmamaktadır. İşleme bağlı olabilecek en sık yan etkiler, işlem sonrası başlayan ve birkaç gün içinde geçen bulantı, kusma ve kramplardır.        ",
+    
+        "q3":"Mide Balonu Patlar Mı?",
+        "a3":"Mide balonunun patlama riski sanılanın aksine oldukça nadir bir durumdur.        ",
+    
+        "q4":"Mide Balonu Ne Kadar Midede Kalmaktadır?",
+        "a4":"Mide balonunun 6 ay ve 12 ay midede kalabilenleri bulunmaktadır. Biz genellikle 6 aylık mide balonlarını tercih etmekteyiz. 6 aydan daha uzun süre mide balonunun içeride kalmasının kilo kaybına etkisi düşüktür. Bu nedenle 6 ay sonunda balonun çıkartılmasını önermekteyiz.        ",
+    
+        "q5":"Mide Balonu Nasıl Çıkartılır?",
+        "a5":"Mide balonu yaklaşık 10 dakikalık, anestezi altındaki, endoskopik bir işlemle çıkartılmaktadır. İşlem oldukça kolaydır. Kişi, anestezi etkisi geçene kadar (yaklaşık 15-20 dakika) istirahat odasında dinlenir ve anestezi ilaçlarının etkisi geçtikten sonra da taburcu edilir. Bu işlem için hastanede kalınmasına gerek yoktur.        ",
+    
+        "q6":"İşlem Sonrası Zayıflama Ne Zaman Başlar?",
+        "a6":"Mide balonu uygulamasından hemen sonra kilo verme süreci başlar ve bu süreç yaklaşık 6 ay boyunca devam eder.        ",
+    
+        "q7":"İşlem Sonrası Nelere Dikkat Edilmesi Gerekir?",
+        "a7":"Mide balonu uygulaması da dahil olmak üzere tüm obezite işlemlerinden sonra sağlıklı bir yaşam tarzı ve diyet olmazsa olmazdır. Aksi takdirde istenen kiloya ulaşmak oldukça güçtür. Bu nedenle diyetisyenin önerdiği beslenmeye uyulması çok önemlidir. Genel olarak mide balonu uygulamasından sonraki ilk 5-7 gün sıvı beslenme, ikinci hafta yumuşak ve püre tarzı gıdalar, 3. hafta ise normal gıdalara kademeli bir geçiş yapılması önerilir.        "
       }
 }

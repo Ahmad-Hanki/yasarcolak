@@ -39,7 +39,7 @@ const Content = ({ content }: { content: KolonoskopiContentType }) => {
           <li>- {content.l27}</li>
           <li>- {content.l28}</li>
         </ul> */}
-        <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%] lg:mx-auto">
+        <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%] ">
           <Image
             src={img}
             fill
