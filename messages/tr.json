@@ -314,5 +314,42 @@
     "h6":"Sigmoidosokopinin Kolonoskopiden Farkı Nedir?    ",
     "h6d1":"Hem sigmoidoskopi hem de kolonoskopi, kolorektal kanseri aramak için uygulanan tarama testleridir. İki test arasındaki fark, kolonun doktorun görmesine izin verdiği kısımdır. Sigmoidoskopi daha az invazivdir çünkü kolonunuzun sadece alt kısmına bakar. Kolonoskopi tüm kalın bağırsağa bakabilir.    ",
     "h6d2":"Sigmoidoskopi sırasında doktorunuz polip bulursa, muhtemelen kolonoskopiye ihtiyacınız olacaktır. Bu önemlidir çünkü alt kolonda polipleriniz varsa başka yerlerde de olma ihtimali yüksektir. Doktorunuz polipleri kansere dönüşmeden çıkarabilir.    "
+    },
+    "kapsul-endoskopi": {
+      "header": "Kapsül Endoskopi Nedir?",
+      "d1":"Kapsül endoskopi, sindirim sistemini görüntülemek için küçük bir kablosuz kamera kullanır. Bu kamera, yutulabilecek kadar küçük bir kapsülün içine konur. Kapsül sindirim sisteminizi geçerken, binden fazla fotoğraf çeker ve bu fotoğrafları belinize takılan bir cihaza aktarır.      ",
+      "content":"İçindekiler",
+      "c1":"Kapsül Endoskopi Nedir?",
+      "c2":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır",
+      "c3":"İşlemin Riskleri",
+      "c4":"Prosedürün Dezavantajları",
+      "d2":"Bu teknoloji, doktorların geleneksel endoskopi prosedürlerinde genellikle erişim sağlamakta zorlandıkları ince bağırsağın iç kısmını görmelerine yardımcı olur. Standart endoskopi prosedüründe, video kameralı uzun ve esnek bir tüp genellikle boğazınızdan veya rektumunuzdan yerleştirilir.      ",
+      "d3":"Kapsül endoskopi, yaklaşık 10×5 mm büyüklüğünde, içinde kamera sistemine sahip saydam bir kapsül ve bir görüntüleme sistemidir. Gelişen teknoloji sayesinde, bu sistem daha net görüntüler sağlar ve geniş açılı bir görüntü sunar. Kapsüldeki kameralar sürekli fotoğraf çeker ve bu fotoğraflar bluetooth aracılığıyla cep telefonu büyüklüğünde bir cihaza iletilir.      ",
+      "d4":"Yutulduktan sonra, bu kapsül genellikle birkaç gün içinde dışkıyla birlikte vücuttan atılır. Toplanan görüntüler daha sonra bilgisayara aktarılır ve yaklaşık dört saatlik bir videoya dönüştürülür. Bu şekilde, ağızdan anüse kadar tüm sindirim sisteminin görüntüleri elde edilir.      ",
+
+      "h1":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "h1d1":"Kapsül endoskopi, bir dizi sağlık durumu ve semptomlarını teşhis etmek veya izlemek için tıbbi bir araç olarak kullanılır. İşte doktorunuzun bu prosedürü neden tavsiye edebileceği bazı durumlar:      ",
+      
+      
+      "li1":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "li2":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "li3":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "li4":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "li5":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "li6":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+      "li7":"Kapsül Endoskopi Hangi Durumlar İçin Uygulanır      ",
+
+      "h2":"İşlemin Riskleri      ",
+      "h2d1":"Kapsül endoskopi genellikle düşük riskli ve güvenli bir işlem olarak kabul edilir. Ancak, bazı durumlarda, yuttuğunuz kapsül sindirim sisteminizde takılı kalabilir ve birkaç gün içinde normal bir bağırsak hareketiyle vücuttan atılmayabilir.      ",
+      "h2d2":"Bu risk, sindirim sisteminde daralmalara (striktür) yol açabilecek belirli durumları olan kişilerde – örneğin tümör, Crohn hastalığı veya daha önce bu bölgede gerçekleştirilmiş bir cerrahi gibi – daha yüksektir. Eğer bir daralma riski varsa, doktorunuzun bu durumu teşhis etmek için sizden bir BT taraması talep etmesi mümkündür.      ",
+      "h2d3":"   Eğer kapsül, bağırsak hareketi ile vücuttan atılmamış fakat herhangi bir belirti veya semptom oluşturmamışsa, doktorunuz kapsülün vücuttan doğal yollarla çıkması için ekstra zaman tanıyabilir. Ancak, bağırsak tıkanıklığını gösteren belirtiler ve semptomlara neden olan bir kapsül, yerine bağlı olarak ya cerrahi bir işlemle ya da geleneksel bir endoskopi prosedürü ile çıkarılmalıdır.      ",
+
+      "h3":"Prosedürün Dezavantajları      ",
+      "h3d1":"Pratik ve basit olan yöntemin bazı dezavantajları da mevcuttur. Bunlardan ilki bu yöntem öncesinde de bağırsak temizliği süreci gerekir.      ",
+      "h3d2":"Kapsül bazen bağırsaklardaki sıvıların içerisinde kalır ve bu durum net olmayan görüntülere yol açabilir. Bazen bağırsakların kasılması ile birlikte kapsül hızlı hareket ettiği için bu alanlardan yeterli ve sağlıklı görüntüler de elde edilemeyebilir.      ",
+      "h3d3":"Yöntemin en büyük dezavantajı aynı sanal kolonoskopide olduğu gibi kesin tanı için gerekli biyopsi imkanının olmaması ve tedavi edici bir uygulamanın yapılamamasıdır. Bu işlem sırasında bir lezyon saptanması halinde standart endoskopik inceleme ile o alanın değerlendirilmesi, biyopsi alınması ya da tedavi yöntemlerinin uygulanmasına ihtiyaç vardır.      ",
+      "h3d4":"Yöntem klinik pratikte sıklıkla ince bağırsakların değerlendirilmesi amacı ile kullanılır. Mide ve kalın bağırsakların arasında yaklaşık 8-10 metre uzunluğunda ince bağırsaklar bulunmaktadır.      ",
+      "h3d5":"Rutin gastroskopi ve kolonoskopi işlemleri sırasında ince bağırsakların yaklaşık ilk ve son 30 cm’lik kısımları incelenebilmekte, aradaki bölüm ise izlenememektedir. Örneğin dışkıda gizli veya aşikar kan saptanan bir hastada yapılan gastroskopi ve kolonoskopide sonuç alınamaması durumunda ince bağırsakların incelenmesi amacı ile kapsül endoskopi kullanılır.      ",
+      "h3d6":"Görüldüğü üzere yöntem pratik olmakla birlikte birtakım dezavantajlara sahiptir ve rutin gastroskopi veya kolonoskopi işleminin yerine konulabilecek bir işlem değildir.      "
     }
 }

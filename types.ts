@@ -200,3 +200,41 @@ export type SigmoidoskopiContentType = {
   h6d1: string;
   h6d2: string;
 };
+
+
+export type KapsulEndoskopiHeaderType = {
+    header: string;
+    d1: string;
+    content: string;
+    c1: string;
+    c2: string;
+    c3: string;
+    c4: string;
+    d2: string;
+    d3: string;
+    d4: string;
+   
+  };
+
+  export type KapsulEndoskopiContentType = {
+    h1: string;
+    h1d1: string;
+    li1: string;
+    li2: string;
+    li3: string;
+    li4: string;
+    li5: string;
+    li6: string;
+    li7: string;
+    h2: string;
+    h2d1: string;
+    h2d2: string;
+    h2d3: string;
+    h3: string;
+    h3d1: string;
+    h3d2: string;
+    h3d3: string;
+    h3d4: string;
+    h3d5: string;
+    h3d6: string;
+  }

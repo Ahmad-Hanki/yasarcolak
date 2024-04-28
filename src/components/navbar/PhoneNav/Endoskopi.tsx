@@ -36,8 +36,8 @@ const Endoskopi = ({ t1 }: dataProps) => {
     },
     {
       name: t1.link4,
-      href: "/" + locale + "/kapsul-endoskop",
-      active: pathname.includes("/kapsul-endoskop"),
+      href: "/" + locale + "kapsul-endoskopi",
+      active: pathname.includes("kapsul-endoskopi"),
     },
   ];
   return (

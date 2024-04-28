@@ -315,5 +315,42 @@
     "h6":"How Does Sigmoidoscopy Differ From Colonoscopy?    ",
     "h6d1":"Both sigmoidoscopy and colonoscopy are screening tests to look for colorectal cancer. The difference between the two tests is the part of the colon that the doctor is allowed to see. A sigmoidoscopy is less invasive because it only looks at the lower part of your colon. A colonoscopy can look at the entire large intestine.    ",
     "h6d2":"If your doctor finds polyps during a sigmoidoscopy, you will probably need a colonoscopy. This is important because if you have polyps in the lower colon, there is a good chance they are elsewhere. Your doctor can remove the polyps before they turn into cancer.    "
+    },
+    "kapsul-endoskopi": {
+      "header": "What Is Capsule Endoscopy?      ",
+      "d1":"Capsule endoscopy uses a small wireless camera to view the digestive tract. This camera is placed in a capsule that is small enough to swallow. As the capsule travels through your digestive tract, it takes more than a thousand pictures and transfers them to a device worn around your waist.      ",
+      "content":"Content",
+      "c1":"What is Capsule Endoscopy?",
+      "c2":"For which conditions is capsule endoscopy performed?",
+      "c3":"Risks of the Transaction",
+      "c4":"Disadvantages of the Procedure",
+      "d2":"This technology helps doctors see inside the small intestine, which is often difficult to access in traditional endoscopy procedures. In a standard endoscopy procedure, a long, flexible tube with a video camera is usually inserted through your throat or rectum.      ",
+      "d3":"Capsule endoscopy is a transparent capsule, about 10×5 mm in size, with a camera system inside and an imaging system. Thanks to advances in technology, this system provides clearer images and offers a wide-angle view. The cameras in the capsule continuously take pictures, which are transmitted via bluetooth to a device the size of a cell phone.      ",
+      "d4":"Once swallowed, the capsule is usually excreted in the feces within a few days. The collected images are then transferred to a computer and converted into a video of about four hours. In this way, images of the entire digestive tract are obtained, from the mouth to the anus.      ",
+
+      "h1":"For Which Conditions Is Capsule Endoscopy Performed?      ",
+      "h1d1":"Capsule endoscopy is used as a medical tool to diagnose or monitor a range of health conditions and their symptoms. Here are some situations why your doctor may recommend this procedure",
+      
+      
+      "li1":"Capsule endoscopy is often used in the event of bleeding of unknown origin in the digestive tract. With this method, the source of bleeding in the small intestine can be identified.      ",
+      "li2":"Inflammatory bowel diseases, such as Crohn’s disease, can be detected by capsule endoscopy. This procedure reveals inflamed parts of the small intestine.      ",
+      "li3":"Cancer, especially tumors in the small intestine and other parts of the digestive tract, can be detected with the help of capsule endoscopy.      ",
+      "li4":"Celiac disease, a condition with an abnormal immune response to gluten, can be detected and monitored with capsule endoscopy.      ",
+      "li5":"Examination of the esophagus is another area where capsule endoscopy can be used. In particular, it helps to evaluate this muscular tube between the mouth and stomach, which can harbor varicose veins.      ",
+      "li6":"For those with certain genetic syndromes that can cause polyps in the small intestine, capsule endoscopy polyp screening is sometimes performed.      ",
+      "li7":"If the results from X-rays or other imaging tests are unclear or inconclusive, your doctor may refer you to capsule endoscopy for more information.      ",
+
+      "h2":"Risks Of The Transaction",
+      "h2d1":"Capsule endoscopy is generally considered a low-risk and safe procedure. However, in some cases, the capsule you swallow may become lodged in your digestive tract and may not be eliminated through a normal bowel movement within a few days.      ",
+      "h2d2":"This risk is higher in people with certain conditions that can lead to narrowing of the digestive tract (stricture) – such as a tumor, Crohn’s disease or previous surgery in this area. If there is a risk of stricture, your doctor may ask you for a CT scan to diagnose this condition.      ",
+      "h2d3":"  If the capsule has not been removed by a bowel movement but has not caused any signs or symptoms, your doctor may allow extra time for the capsule to leave the body naturally. However, a capsule that causes signs and symptoms indicative of an intestinal obstruction must be removed either by a surgical procedure or by a traditional endoscopy procedure, depending on its location.      ",
+
+      "h3":"Disadvantages Of The Procedure      ",
+      "h3d1":"This practical and simple method also has some disadvantages. First of all, this method requires a bowel cleansing process beforehand.      ",
+      "h3d2":"The capsule sometimes remains in the fluids in the intestines and this can lead to unclear images. Sometimes, as the capsule moves rapidly with the contraction of the intestines, adequate and healthy images may not be obtained from these areas.      ",
+      "h3d3":"The biggest disadvantage of the method is that, as with virtual colonoscopy, there is no biopsy opportunity for definitive diagnosis and no therapeutic application can be made. If a lesion is detected during this procedure, it is necessary to evaluate the area with standard endoscopic examination, take a biopsy or apply treatment methods.      ",
+      "h3d4":"The method is frequently used in clinical practice to evaluate the small intestine. Between the stomach and large intestine is the small intestine, which is approximately 8-10 meters long.      ",
+      "h3d5":"During routine gastroscopy and colonoscopy procedures, approximately the first and last 30 cm of the small intestine can be examined, while the section in between cannot be observed. For example, capsule endoscopy is used to examine the small intestine in a patient with occult or overt blood in the stool if gastroscopy and colonoscopy are inconclusive.      ",
+      "h3d6":"As can be seen, the procedure is practical but has a number of disadvantages and is not a substitute for routine gastroscopy or colonoscopy.      "
     }
 }
