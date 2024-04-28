@@ -30,7 +30,7 @@ const Links = () => {
           <div key={link.href}>
             <li className="flex  bg-secondary/90">
               <Link
-                className="bg-secondary hover:bg-secondary hover:brightness-75"
+                className={cn("bg-secondary hover:bg-secondary hover:brightness-75", link.active? 'text-primary':'')}
                 href={link.href}
               >
                 {link.name}

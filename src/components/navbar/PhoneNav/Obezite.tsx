@@ -38,7 +38,7 @@ const Obezite = ({ t2 }: dataProps) => {
               <Link
                 className={cn(
                   "z-10  transition-all flex-1 hover:bg-primary p-4",
-                  link.active ? "" : ""
+                  link.active ? "bg-primary" : ""
                 )}
                 href={link.href}
               >

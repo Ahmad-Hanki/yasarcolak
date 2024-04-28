@@ -111,6 +111,7 @@
     "c3c2":"Gastroskopinin Riskleri",
     "c4":"Gastroskopi Hakkında Sık Sorulan Sorular",
     "d4":"Gastroskop, küçük bir ışık ve ucuna bağlı bir video kamera bulunan esnek bir tüptür. Video kameradan alınan görüntüler bir ekrana gönderilir. Tüp, küçük kerpeten gibi aletler sokarak doku örnekleri almak için kullanılabilir. Hava ve sıvıları emmek için de kullanılabilir.",
+    
     "h1":"Gastroskopi Neden Yapılır?",
     "h1d1":"Sindirim sisteminde görülen şikayetlere neyin neden olduğunu kontrol etmek, bazı durumları tedavi etmek veya kanseri kontrol etmek için gastroskopi yapılabilir. Ancak, gastroskopi sadece bir tanı yöntemi değildir. İşlem sırasında bazı hastalıkların tedavisi yapılabilir ya da gerekli görüldüğü takdirde tedavi başka seansa da planlanabilir.",
     "h1d2":"Prosedür, ağzınızdan ilerletilen endoskop ile gerçekleştirilir. Test tipik olarak hastalar mide ekşimesi, karın ağrısı ve şişkinlik gibi semptomlar yaşadıklarında gerçekleştirilir. Gastroskopi ayrıca mide kanseri için en etkili tarama yöntemidir. Aşağıdaki durumlara sahip hastalar için gastroskopi işlemi tavsiye edilir:",
@@ -123,9 +124,7 @@
     "li17":"Şüpheli peptik ülser",
     "li18":"Yemek borusu veya mide kanseri şüphesi",
     "li19":"Mide ameliyatı sonrası kontrol",
-    
     "d5":"Gastroskopi sırasında tedavinin yapıldığı işlemlere örnek olarak şunlar sıralanabilir:",
-
     "l21":"Midedeki poliplerin çıkartılması",
     "l22":"Kanayan lezyonlara müdahale edilerek kanamanın durdurulması",
     "l23":"Yüzeyel tümör veya erken evre kanserlerin çıkartılması (endoskopik mukozal rezeksiyon – EMR veya ESD)",
@@ -134,22 +133,19 @@
     "l26":"Yemek borusundaki varislerin bağlanması (band ligasyon)",
     "l27":"Yemek borusu veya midedeki yabancı cisimlerin çıkartılması    ",
     "l28":"Mide botoksu, mide balonu ve endoskopik mide küçültme işlemleri",
-
     "h2":"Gastroskopi Uygulaması",
     "h2d1":"Gastroskopi işlemi öncesinde genel olarak yoğun bir hazırlık sürecine gerek yoktur. En az 8 saatlik açlık (herhangi bir sıvı ve su tüketimi olmamalıdır) işlemin uygulanabilmesi için yeterlidir. Sadece bazı kan sulandırıcı ilaçların işlem öncesi süreçte kesilmesi gerekebilir.",
     "h2d2":"İşlem günü endoskopi ünitesinde kişiye işlemi onayladığına dair bir onam formu imzalatılır, kişinin kayıt işlemi yapılır ve hazırlık odasına geçilir. Hazırlık odasında hasta yatırılır ve işleme hazır hale getirilir. İlgili hemşire hastaya kronik bir hastalığı olup olmadığını, kullandığı ilaçları, en son ne zaman hangi ilacı aldığını, yeme ve içme işlemini en son ne zaman yaptığını, herhangi bir alerjisinin olup olmadığı hakkında bilgi alır. Daha sonra hastaya anestezi verilir ve hasta yatağı ile birlikte işlem odasına alınır.",
     "h2d3":"İşlem odasında endoskopi hemşiresi, anestezi ekibi ve gastroenteroloji uzmanı bulunur. İşleme başlamadan önce yaklaşık 1-2 dakikalık bir hazırlık süreci olur. Bu sırada hastanın tansiyonu, nabız ve solunum sayısı ve parmak ucuna takılan mandal tarzında bir küçük cihaz ile kanındaki oksijen düzeyi ölçülür. Burun deliklerine plastik bir burun maskesi takılarak işlem sırasında buradan sürekli oksijen alması sağlanır. İşlem öncesi boğazın uyuşması için ağız ve boğaza bir sprey sıkılır. Bu sprey dil, ağız içi ve boğaz bölgesinin uyuşmasını ve işlemin daha kolay gerçekleştirilmesini sağlar. Ardından hastanın ağzına ön dişlerin arasında kalacak şekilde tek kullanımlık, ortası delik olan ve içinden endoskopi aletinin geçeceği plastik bir ağızlık yerleştirilir. Son olarak anestezi ekibi tarafından damardan ilaç verilir ve yaklaşık 10 ila 20 saniye sonra hasta uyumaya başlar.",
     "h2d4":"Anestezinin etki etmesiyle işleme başlanır. Gastroskopi işlemi yaklaşık 5 dakika süren bir işlemdir. Bu işlem sırasında hastanın boğaz kısmı, yemek borusu, mide ve ince bağırsağın yaklaşık ilk 20-30 cm’lik kısmı incelenir. İşlem bittikten sonra endoskopi aleti, burun maskesi ve ağızlık çıkartılır. Hasta yine yatağıyla birlikte dinlenme odasına alınır. Birkaç dakika içinde anestezi ilaçlarının etkisi geçmeye ve hasta uyanmaya başlar. Dinlenme odasında yaklaşık 15-20 dakikalık istirahatten sonra kişinin tam uyanması beklenir ve damar yolu çıkartılarak kişi kendini iyi hissettiğinde taburcu edilir.    ",
-
     "h3": "Gastroskopi İşlemi Sonrası",
     "h3d1":"Gastroskopi sonrası anestezi ilaçlarının etkisi geçmeye ve hasta kendine gelmeye başlar. Kişinin nabız sayısı, kandaki oksijen düzeyi ve tansiyon kontrolü yapılır. Ardından işlem ile ilgili bilgi verilir ve hasta taburcu edilir.    ",
     "h3d2":"İşlem öncesinde boğazın uyuşması için sıkılan spreyin etkisi nedeniyle oluşan yutma güçlüğü, gastroskopiden sonra yaklaşık 30-60 dakika kadar sürer. Bu nedenle işlemden bir saat sonra sıvı ve gıda tüketimine başlanılır. Rutin endoskopik işlemlerde mideden biyopsi örneği alınmaktadır. Bu nedenle işlem sonrası ilk gün hafif ve yumuşak gıdaların tercih edilmesi, çok sıcak gıda ve içeceklerin tüketilmemesi önerilir. İşlem sırasında polip veya kitle alınması gibi kanama açısından daha riskli olabilecek durumlarda ise, sıvı diyet birkaç gün daha uzatılabilir. Gastroskopi nedeniyle kullanılmaya ara verilen ilaçlar varsa (özellikle kan sulandırıcı ilaçlar) bunlara ne zaman başlanılacağı hakkında hastaya gerekli bilgiler verilir.    ",
     "h3d3":"İşlem sonrası birkaç saat anesteziden dolayı araç kullanılmaması ve dikkat gerektiren işlerin yapılmamasını önemlidir. Bu birkaç saatlik süre sonunda ise hasta günlük işlerine aynı gün içerisinde dönebilir.    ",
-
     "h4":"Gastroskopinin Riskleri    ",
     "h4d1":"Gastroskopi işlemi oldukça kolay ve rahat bir işlemdir. Ehil ellerde yapıldığı takdirde özellikle rutin endoskopik işlemler oldukça güvenli işlemlerdir ve risk hayli düşüktür.    ",
     "h4d2":"Özellikle endoskopik müdahale yapılması gereken durumlarda (polip veya kitle alınması, stent takılması, genişletme işlemleri gibi) nadiren kanama gibi risklerle karşılaşılabilir. Ehil kişiler tarafından yapılan işlemlerde bu tarz istenmeyen olaylar (komplikasyonlar) kolaylıkla yönetilebilmektedir.    ",
-
+    
     "h5":"Gastroskopi Hakkında Sık Sorulan Sorular",
 
     "h5c1":"Erken Teşhis Açısından Önemli Bir İşlem Midir?",
@@ -185,5 +181,88 @@
 
     "h5c11":"Gastroskopi Bebek Emzirmeye Engel Midir?",
     "h5d11":"İşlemin kendisi emzirmeye engel olmaz; ancak işlem için uygulanan anestezi ilaçlarının süte geçme riski nedeniyle gastroskopiden sonra yaklaşık 4-6 saat sütün sağılması ve bebeğe verilmeden atılması önerilir. Bebeğin aç kalmasını önlemek için işlem öncesi anne sütünü sağıp depolayabilir ve emziremediği saatlerde bebeğine verebilir."
+  },
+  "kolonoskopiPage": {
+    "header": "Kolonoskopi (Kalın Bağırsak Endoskopisi) Nedir?",
+    "d1":"Kolonoskopi, en basit anlamıyla kalın ve ince bağırsağın içinin incelenmesi işlemidir. Bu işlem endoskopik bir prosedürdür, yani bir endoskop aracılığı ile gerçekleştirilir. Hastanın vücuduna makatından girilerek yerleştirilen ucunda ışıklı bir kamera bulunan esnek bir tüp kullanılır. Vücudun farklı bölgeleri için farklı tipte endoskoplar vardır. Kolonoskopi işleminde, kolonoskop adı verilen alet anüsten ve rektumdan ilerletilerek hastanın kolonuna geçer. Yol boyunca kalın bağırsağın içinin resimleri yüksek çözünürlüklü bir şekilde ekranda gösterilir. İşlem sayesinde hastanın kalın bağırsak ve ince bağırsağının son 20-30 cm’lik kısmı incelenebilir.",
+    "content": "İçindekiler",
+    "c1":"Kolonoskopi (Kalın Bağırsak Endoskopisi) Nedir?",
+    "c2":"Hangi Durumlarda Kolonoskopi Yapılır?",
+    "c3":"Kimler Kolonoskopi İçin Uygundur?",
+    "c4":"Kolonoskopinin Riskleri",
+    "c5":"Kolonoskopi Nasıl Yapılır?",
+    "c5c1":"Hazırlık Aşaması",
+    "c5c2":"İşlem Sırasında",
+    "c6":"Sanal Kolonoskopi",
+    "c7":"Kolonoskopi Hakkında Sık Sorulan Sorular",
+
+    "h1":"Hangi Durumlarda Kolonoskopi Yapılır?",
+    "h1d1":"Kolonoskopi, gastroenteroloji doktorunun kolonunuzdaki sorunları tespit etmesine yardımcı olur. Karın ağrısı, ishal, kabızlık, dışkılamada patern değişikliği (günde bir kez düzenli tuvalete çıkan birisinin 2-3 günde bir tuvalete çıkmaya başlaması veya 2 günde bir tuvalete çıkan birinin günde 2-3 kez tuvalete çıkmaya başlaması), makattan kan gelmesi, sümüksü dışkılama, açıklanamayan kilo kaybı, daha önceden bağırsak ameliyatı, kanseri veya polip öyküsü olan kişilerde kolonoskopi yapılmalıdır.    ",
+    "h1d2":"Şikayeti olmayan kişilerde, ailede kolon kanseri hikayesi dışında, demir eksikliği, kansızlık (anemi) veya dışkı tahlilinde gizli kan saptanması durumunda mutlaka kolonoskopi ve gastroskopi yapılmalıdır.    ",
+    "h1d3":"Genellikle aşağıdaki durumların tespiti için kolonoskopi uygulaması önerilir:",
+
+    "lih1":"Bağırsak rahatsızlıkları:",
+    "lid1":" Kolonoskopi, doktorunuzun karın ağrısı, rektal kanama, kronik ishal ve diğer bağırsak sorunlarının olası nedenlerini keşfetmesine yardımcı olabilir.",
+    "lih2":"Kolon kanseri taraması:",
+    "lid2":" 45 yaşından büyükseniz ve ortalama kolon kanseri riskiniz varsa doktorunuz her 5 yılda bir kolonoskopi önerebilir. Başka risk faktörleriniz de varsa, doktorunuz daha erken bir tarama önerebilir. Kolonoskopi, kolon kanseri taraması için kullanılan birkaç seçenekten biridir.",
+    "lih3":"Poliplerin teşhisi:",
+    "lid3":"Daha önce almış olduğunuz bir polip tedavisiniz varsa, doktorunuz ek polipleri aramak ve çıkarmak için bir takip kolonoskopisi önerebilir. Bu, kolon kanseri riskinizi azaltmak için de yapılır.",
+    "lih4":"Bir tedavi sürecinde:",
+    "lid4":"Bazen stent yerleştirmek veya kolonunuzdaki bir nesneyi çıkarmak gibi tedavi amacıyla da kolonoskopi yapılabilir.",
+
+    "h1d4":"Kolonoskopi, sadece tanı amacıyla değil, tedavi için de uygulanabilen bir işlemdir. Bu işlem sırasında en sık karşılaşılan durumlardan birisi özellikle 40 yaş üstü kişilerde görülen kolon polipleridir. Kolonoskopi sırasında sadece bu poliplerin teşhisi değil aynı zamanda tedavisi de mümkündür. Kolon poliplerinin saptanması halinde polipler, tiplerine ya da boyutlarına bağlı olarak farklı tekniklerle çıkarılmaktadır. Böylece hem tanı hem tedavi sağlanmakta hem de ileride bu poliplerin ilerlemesi ve olası kolon kanseri riski de ortadan kaldırılmaktadır.    ",
+    "h1d5":"Kolonoskopi sırasında makat ilişkili basur (hemoroid) ve çatlak (fissür) gibi hastalıkların tedavisi de yapılabilmektedir. Bunun dışında makat kanamalarının tanısı, kanayan lezyonlara müdahale edilerek kanamanın durdurulması, yüzeyel tümör veya erken evre kanserlerin çıkartılması (endoskopik mukozal rezeksiyon-EMR veya endoskopik submukozal diseksiyon-ESD), kalın bağırsaklardaki darlıkların genişletilerek açılması (dilatasyon işlemleri) veya stent takılması gibi işlemler de yapılmaktadır.    ",
+
+    "h2":"Kimler Kolonoskopi İçin Uygundur?    ",
+    "h2d1":"Kolonoskopi, herhangi bir şikayeti olsun ya da olmasın 45 yaşını geçen herkesin yaptırması ve 5 yılda bir tekrarlanması gereken bir işlemdir. Buradaki amaç kolon kanseri taramasıdır; çünkü kolon kanseri dünyada en sık görülen üçüncü kanser türüdür. Kolonoskopi işlemi ile kanser öncülü olan polipler (et benleri) kolaylıkla tanınır ve işlem sırasında alınabilir. Böylece poliplerden gelişebilecek kanserler de önlenebilir. Görüldüğü üzere kolon kanseri aslında önlenebilir bir hastalıktır. Özellikle ailesinde kolon kanseri hikayesi olan kişilerde daha erken yaşlarda kolonoskopi önerilebilir. Örneğin, ailede bir kişi 45 yaşında kolon kanseri tanısı aldıysa, diğer aile yakınlarının 10 yıl öncesinde yani 35 yaşında kolonoskopi taramasına başlaması tavsiye edilir.    ",
+    "h2d2":"Kolonoskopi için öncelikle bağırsak temizliği yapılmış olmalıdır. Bu temizlik yapılmadan kolonoskopi işlemi gerçekleştirilemez. Ayrıca anestezi gerektiren bir işlem olduğu için kalp, böbrek ve akciğer hastalarında anestezi riski değerlendirildikten sonra işlem yapılmalıdır. Kan sulandırıcı ilaç kullanımı halinde de kişinin doktoruyla görüşerek gerekli önlemler alındıktan sonra işlem yapılmalıdır. Bağırsak tıkanıklığı şüphesi olması halinde de işlem yapılması uygun değildir. Hamilelerde de çok zaruri bir durum olmadıkça işlem yapılmamalıdır.",
+
+    "h3":"Kolonoskopinin Riskleri    ",
+    "h3d1":"Rutin kolonoskopi tecrübeli ellerde yapıldığı takdirde oldukça güvenli bir işlemdir.    ",
+    "h3d2":"Özellikle büyük polipler ve yüzeyel tümörlerin çıkartılması gibi ileri endoskopik uygulamalar gereken durumlarda, kanama ve bağırsak delinmesi teorik olarak karşılaşılabilecek riskler arasında sayılabilir. Ancak Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı Prof. Dr. Yaşar Çolak tarafından gerçekleştirilen 35.000’den fazla endoskopik ve kolonoskopik işlemde şimdiye kadar bağırsak delinmesi durumu hiç yaşanmamıştır.    ",
+
+    "h4":"Kolonoskopi Nasıl Yapılır?    ",
+    "h4d1":"Kolonoskopi öncesinde kişinin bir gün önceden mutlaka bağırsak temizliğini yapmış ve son 8 saat içinde sıvı ya da katı hiçbir gıda tüketmemiş olması gerekir.    ",
+
+    "h5":"Hazırlık Aşaması    ",
+    "h5d1":"İşlemden bir gün önce kişinin kahvaltı olarak peynirli küçük bir tost ile çay tükettikten sonra gün boyu sadece berrak sıvı içmesi istenir. Berrak sıvıdan kasıt tortusuz sıvılardır. Buradaki ölçüt bardağa konan sıvının diğer tarafı gösterecek kadar berrak olmasıdır. Örneğin; su, çay, limonata, tanesiz et suyu, tanesiz tavuk suyu, posasız süzülmüş komposto suyu, elma suyu, vişne suyu rahatlıkla tüketilebilir. Ancak çorba, şeftali suyu, kayısı suyu ya da süt gibi bulanık ve posalı sıvıların tüketimi bağırsak kirliliğine yol açacağından uygun değildir.    ",
+    "h5d2":"Kolonoskopi hazırlığının diğer önemli kısmı da ilaç kullanılarak ishal olunması ve bağırsağın temizlenmesidir. Bunun için kullanılan ilaçlar son yıllarda önemli ölçüde değişmiştir. Günümüzde tercih edilen hazırlık ilacı, bir bardak suya karıştırılarak içilen portakal aromalı bir tozdur. Bu toz işlemden bir gün önce, saat 14.00’te, bir su bardağı suya karıştırılarak içilir. Ardından yaklaşık yarım saat beklenir ve 14.30’dan itibaren bol su veya berrak sıvılar (4 saatte yaklaşık 2 litre) içilir. Akşam saat 20.00’de ikinci dozun içilmesinin ardından 20.30’dan sonra tekrar 2 litre su veya berrak sıvı tüketilmesi gerekmektedir. İşlem sabahı evdeyken son olarak makattan lavman sıkılması, 15-20 dakika kadar beklendikten sonra tuvalete çıkılması ile hazırlık süreci son bulur.    ",
+
+    "h6":"İşlem Sırasında    ",
+    "h6d1":"İşlem günü endoskopi ünitesinde kayıt işleminin yapılması ve işlem onam kağıdının imzalatılmasının ardından işlem hazırlık odasına geçilir ve kişi yatırılır. Burada ilgili hemşire; kişide kronik hastalık olup olmadığını, kişinin kullandığı ilaçları, en son ne zaman hangi ilacı aldığı, yemek yediği ve su içtiği, herhangi bir alerjisinin olup olmadığı gibi sorular sorar. İşlem öncesinde kişiye tek kullanımlık bir şort giydirilir. Sonrasında koldan anestezi ilacı vermek için bir damar yolu açılır ve kişi yatağı ile birlikte işlem odasına alınır. İşlem odasında endoskopi hemşiresi, anestezi ekibi ve doktor bulunur.    ",
+    "h6d2":"İşlem öncesi yaklaşık 1-2 dakikalık bir hazırlık süreci olur. Bu sırada kişinin tansiyonu, nabız sayısı, solunum sayısı ve parmak ucuna takılan mandal tarzında bir küçük cihaz ile kandaki oksijen düzeyi ölçülür. Burun deliklerine plastik bir burun maskesi takılır, işlem sırasında buradan sürekli oksijen verilir. Son olarak anestezi ekibi damardan ilaç verir ve yaklaşık 10-20 saniye sonra kişi uyumaya başlar. İşlem öncesinde makat muayenesi yapılır. Makat ağzında hemoroid veya çatlak açısından değerlendirme yapılır. Makat ağzına jel sürüldükten sonra işleme geçilir. İşlem; ucunda ışık ve kamera bulunan, esnek bir cihazla gerçekleştirilir. İşlem sırasında kalın bağırsak ve ince bağırsağın yaklaşık son 20-30 cm’lik kısmı incelenir. Bağırsaklarda polip, kitle, iltihap, darlık gibi durumların varlığına bakılır. Polip saptanması halinde polipler boyutuna bağlı olarak farklı tekniklerle çıkarılır. İşlem bittikten sonra kolonoskopi aleti makattan çıkartılır ve işlem sonlandırılır. Ardından kişi yatağıyla dinlenme odasına alınır. Birkaç dakika içinde anestezi ilaçlarının etkisinin geçmesiyle kişi uyanmaya başlar. Kişi yaklaşık 15-20 dakika kadar dinlenme odasında bekletilir. Tam olarak uyanmasının ardından damar yolu da çıkartılarak kişi taburcu edilir.    ",
+
+    "h7":"Sanal Kolonoskopi    ",
+    "h7d1":"Sanal kolonoskopi, BT (bilgisayarlı tomografi) veya MRI ile kalın bağırsakların incelendiği bir görüntülemedir. İşlem standart kolonoskopinin yerine geçen bir yöntem değildir.    ",
+    "h7d2":"Bu işlem öncesinde de rutin kolonoskopi işlemindeki gibi hazırlık gerekmektedir. Ardından BT veya MRI cihazı ile yapılan görüntülemeler bilgisayarda incelenir. İşlem pratik görünmekle birlikte birtakım önemli dezavantajları bulunmaktadır. Bunlardan ilki 1 cm altındaki lezyonların gözden kaçabilmesi ve mukozal yüzey değişikliklerinin net değerlendirilememesidir. Bir diğer önemli dezavantaj da işlem sırasında şüpheli bir lezyon görülmesi durumunda biyopsi alınamaması, kesin tanı konulamaması ve lezyonun tedavi edilememesidir. Şüpheli bir lezyon saptanması halinde tekrar kolonoskopi hazırlığı ile standart kolonoskopinin yapılması ve lezyonun tanınması, biyopsi alınması ya da polip gibi bir lezyonun çıkartılması gerekmektedir.    ",
+    "h7d3":"Görüldüğü üzere bu işlem pratik gibi görünse de standart kolonoskopinin yerini tutabilecek bir işlem değildir. Sanal kolonoskopi ancak rutin kolonoskopinin yapılamadığı özel bazı durumlarda kullanılan yardımcı bir görüntüleme yöntemidir.    ",
+
+    "h8":"Kolonoskopi Hakkında Sık Sorulan Sorula    ",
+    "q1":"Kolon Polibi Nedir? İşlem Sırasında Polip Saptanırsa Ne Olur?",
+    "a1":"Polip bir çeşit et benidir. Kalın bağırsaktaki polipler önemlidir; çünkü kolon kanserleri genellikle poliplerin büyümesi sonucu oluşur. Kolon polipleri, kanser riski olan ve olmayan polipler olmak üzere ikiye ayrılır. Poliplerin hangisinin kanser riski taşıdığı ancak alınan parçanın mikroskopta incelenmesi yani patoloji sonucu ile belirlenmektedir. Bundan dolayı kolonoskopi sırasında görülen polipler işlem sırasında polibin boyutuna ve şekline bağlı olarak farklı tekniklerle çıkartılır. Böylece ileride oluşabilecek kolon kanserleri de önlenmiş olur.    ",
+    "q2":"Polip Alındıysa Patoloji Sonucunu Ne Kadar Sürede Belli Olur?",
+    "a2":"Alınan polip veya endoskopik biyopsiler genellikle bir hafta içinde sonuçlanmaktadır.    ",
+    "q3":"Kalp, Kanser Ve Diyabet Gibi Kronik Hastalıkları Olanlar Kolonoskopi Yaptırabilir Mi?",
+    "a3":"Bu tür kronik hastalığı olanlar da kolonoskopik işlem yaptırabilir. Buradaki önemli nokta, hastanın işlem öncesinde ilaçlarının düzenlenmesi, hastalığa göre gerekli tedbirlerin alınması ve hem işlemi yapacak gastroenterolog hem de anestezi uzmanı tarafından hastanın dikkatle değerlendirilmesidir.    ",
+    "q4":"Kolonoskopide Anestezi Uygulanır Mı?",
+    "a4":"İşlem sırasında damardan ilaç verilmek suretiyle kısa süreli genel anestezi uygulanır. Böylece işlem olan hasta herhangi bir ağrı duymayacağı gibi işlemi hatırlamaz.    ",
+    "q5":"Kolonoskopi Ağrılı Bir Işlem Midir?",
+    "a5":"Kolonoskopi işlemi sırasında kişi anestezi altında uykuda olacağı için herhangi bir ağrı duymamakta ve işlem bitip uyandırıldığında da işlemi hatırlamamaktadır.    ",
+    "q6":"Kolonoskopiye Hazırlık Sürecinde Nelere Dikkat Etmek Gerekir?",
+    "a6":"Kolonoskopi hazırlığında yapılan en sık hatalar, ilaçları zamanında kullanmamak, yeterli su içmemek ve posalı sıvılar tüketmektir. Bağırsak temizliğinin yeterli olabilmesi için su tüketiminin fazla olması ve dışkı oluşumuna yol açabilecek posalı sıvılar (domates çorbası, mercimek çorbası, kayısı suyu gibi) tüketilmemelidir.    ",
+    "q7":"Kolonoskopiye Hazırlık Sürecinde Bulantı Yaşanır Mı, Bulantıya Karşı Neler Yapmak Gerekir?",
+    "a7":"Günümüzde kullanılan hazırlık ilaçları ile artık bulantı şikayeti çok olmamaktadır. Hazırlık sırasında bulantı olması durumunda sıvı alımına biraz ara verilmeli, ancak bulantı geçtiği zaman tekrar kalınan yerden hazırlığa devam edilmelidir.    ",
+    "q8":"Kolonoskopiye Hazırlık Sürecinde Makatta Tahriş Sorunu Yaşanır Mı? Bu Durumu Engellemek İçin Neler Yapmak Gerekir?",
+    "a8":"Ehil ellerde yapılan kolonoskopi işleminde makat ağzı tahrişi olmamaktadır. İşlem öncesi makat muayenesi yapılmakta ve makata işlem öncesi bir kayganlaştırıcı jel sürülmektedir. Bu jel sayesinde tahriş en az düzeye indirilmektedir.    ",
+    "q9":"Kolonoskopi Sonrası Nelere Dikkat Etmek Gerekir?",
+    "a9":"Rutin kolonoskopi işleminden sonra anestezi ilaçlarının etkisinin geçmesi için yaklaşık yarım saat beklenir ve ardından kişinin kendini iyi hissetmesini takiben taburcu edilir. İşlemden sonra birkaç saat araç kullanılmaması ve dikkat gerektiren bir iş yapılmaması istenir. İşlemden yaklaşık 1 saat sonra normal gıda alımına başlanabilir. Kişi işlemden birkaç saat sonra günlük işlerine dönebilir.    ",
+    "q10":"Kolonoskopi Sonrası Hasta Gaz Sorunu Yaşar Mı?",
+    "a10":"Bağırsaklar normalde büzüşük ve birbirine yapışıktır. Kolonoskopi sırasında bağırsağın içinin değerlendirilebilmesi için bağırsaklara bir miktar hava verilir. Böylece bu organın kıvrımları açılır ve kıvrımların arasında olabilecek hastalıkların da atlanmadan tanınabilmesi sağlanır. Ancak bazen işlem sırasında verilen bu hava, hastada gaz ve karın ağrısı şikayetine yol açabilir. İşlem sonunda genel olarak verilen bu havanın geri çekilmesi sayesinde hasta bu tarz ağrılar yaşamaz. Ancak gaz şikayeti varsa anestezi ilaçlarının etkisi geçtikten sonra hastanın yavaş adımlarla yürüyüş yapması gazın vücuttan atılmasını kolaylaştıracaktır.    ",
+    "q11":"Kolonoskopi Sonrası Kanama Sorunu Görülür Mü? Bu Durumda Nelere Dikkat Edilmelidir?",
+    "a11":"Rutin yapılan kolonoskopi işleminden sonra herhangi bir kanama beklenmemektedir. Ancak polip veya yüzeyel tümörlerin alınması ya da biyopsi gibi durumlarda nadiren de olsa kanama görülebilir. Öngörülen ufak kanamalar varsa bu konuda hasta bilgilendirilir. Eğer bunun dışında bir kanama varsa hemen bu durumun doktora bildirilmesi gerekmektedir.    ",
+    "q12":"Kolonoskopi Bebek Emzirmeye Engel Midir?",
+    "a12":"Anestezi alınacağı için işlemden sonraki 4-6 saat boyunca anne sütünün sağılmasını ve atılması önerilmektedir.    ",
+    "q13":"Kolonoskopi Sonrası Hangi Durumlarda Doktora Başvurulmalıdır?",
+    "a13":"İşlem sonrası gaza bağlı bir miktar karın ağrısı olabilir. Ancak şiddetli karın ağrısı, bulantı, kusma, fenalık hissi, göz kararması, baygınlık hissi veya makattan kan gelmesi gibi durumlarda mutlaka doktora başvurulması gerekir."
   }
 }

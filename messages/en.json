@@ -181,5 +181,89 @@
 
     "h5c11": "Does Gastroscopy Prevent Breastfeeding?",
     "h5d11": "The procedure itself does not prevent breastfeeding; however, due to the risk of the anesthesia drugs administered for the procedure passing into the milk, it is recommended to express milk for about 4-6 hours after gastroscopy and discard it before giving it to the baby. To prevent the baby from starving, the mother can express and store breast milk before the procedure and give it to her baby during the hours when she cannot breastfeed.    "
+  },
+
+  "kolonoskopiPage": {
+    "header": "What Is Colonoscopy (Large Intestine Endoscopy)?    ",
+    "d1":"Colonoscopy, in its simplest sense, is the process of examining the inside of the large and small intestine. It is an endoscopic procedure, meaning it is performed through an endoscope. A flexible tube with a lighted camera at the end is inserted into the patient’s body through the anus. There are different types of endoscopes for different parts of the body. In colonoscopy, the instrument called a colonoscope is passed through the anus and rectum and into the patient’s colon. Along the way, pictures of the inside of the colon are displayed in high resolution on a screen. The procedure allows the last 20-30 cm of the patient’s colon and small intestine to be examined.    ",
+    "content": "Content",
+    "c1":"What is Colonoscopy (Large Intestine Endoscopy)?",
+    "c2":"In Which Situations is Colonoscopy Performed?",
+    "c3":"Who is Suitable for Colonoscopy?",
+    "c4":"Risks of Colonoscopy",
+    "c5":"How is Colonoscopy Performed?",
+    "c5c1":"Preparation Phase",
+    "c5c2":"During Transaction",
+    "c6":"Virtual Colonoscopy",
+    "c7":"Frequently Asked Questions About Colonoscopy",
+
+    "h1":"In Which Situations Is Colonoscopy Performed?    ",
+    "h1d1":"A colonoscopy helps the gastroenterologist to detect problems in your colon. Colonoscopy should be performed in people with abdominal pain, diarrhea, constipation, change in defecation pattern (someone who regularly goes to the toilet once a day starts going to the toilet every 2-3 days or someone who goes to the toilet every 2 days starts going to the toilet 2-3 times a day), blood coming from the anus, slimy stools, unexplained weight loss, previous intestinal surgery, cancer or polyps.    ",
+    "h1d2":"Colonoscopy and gastroscopy should be performed in people who have no complaints, except for a family history of colon cancer, iron deficiency, anemia (anemia) or occult blood in stool analysis.    ",
+    "h1d3":"A colonoscopy is usually recommended for the detection of the following conditions:    ",
+
+    "lih1":"Bowel disorders:",
+    "lid1":" A colonoscopy can help your doctor discover possible causes of abdominal pain, rectal bleeding, chronic diarrhea and other bowel problems.",
+    "lih2":"Colon cancer screening:",
+    "lid2":" If you are over 45 and have an average risk of colon cancer, your doctor may recommend a colonoscopy every 5 years. If you have other risk factors, your doctor may recommend an earlier screening. Colonoscopy is one of several options for colon cancer screening",
+    "lih3":"Diagnosis of polyps: ",
+    "lid3":" If you have had a previous treatment for polyps, your doctor may recommend a follow-up colonoscopy to look for and remove additional polyps. This is also done to reduce your risk of colon cancer.",
+    "lih4":"During a course of treatment:",
+    "lid4":"Sometimes a colonoscopy may also be performed for treatment purposes, such as placing a stent or removing an object in your colon.",
+
+    "h1d4":"Colonoscopy is a procedure that can be performed not only for diagnosis but also for treatment. One of the most common conditions encountered during this procedure is colon polyps, especially in people over the age of 40. During colonoscopy, it is possible not only to diagnose but also to treat these polyps. If colon polyps are detected, they are removed with different techniques depending on their type or size. In this way, both diagnosis and treatment are provided and the risk of progression of these polyps and possible colon cancer in the future is eliminated.    ",
+    "h1d5":"During colonoscopy, rectal diseases such as hemorrhoids and fissures can also be treated. In addition, procedures such as diagnosis of rectal bleeding, stopping bleeding by intervening in bleeding lesions, removal of superficial tumors or early stage cancers (endoscopic mucosal resection-EMR or endoscopic submucosal dissection-ESD), dilatation of strictures in the large intestine (dilatation procedures) or stenting are also performed.    ",
+
+    "h2":"Who Is Suitable For Colonoscopy?    ",
+    "h2d1":"Colonoscopy is a procedure that everyone over the age of 45 should have and repeat every 5 years, whether or not they have any complaints. The aim is to screen for colon cancer, as colon cancer is the third most common type of cancer in the world. With colonoscopy, polyps (moles) that are precursors of cancer can be easily recognized and removed during the procedure. Thus, cancers that may develop from polyps can also be prevented. As you can see, colon cancer is actually a preventable disease. Colonoscopy may be recommended at an earlier age, especially for people with a family history of colon cancer. For example, if one person in the family is diagnosed with colon cancer at the age of 45, it is recommended that other family members start colonoscopy screening 10 years earlier, at the age of 35.    ",
+    "h2d2":"For colonoscopy, the intestine must first be cleansed. Colonoscopy cannot be performed without this cleaning. In addition, since it is a procedure that requires anesthesia, the procedure should be performed after evaluating the risk of anesthesia in heart, kidney and lung patients. In case of blood thinners, the procedure should be performed after the necessary precautions are taken in consultation with the doctor. The procedure is also not appropriate in case of suspected intestinal obstruction. Pregnant women should not undergo the procedure unless it is absolutely necessary.    ",
+
+    "h3":"Risks Of Colonoscopy    ",
+    "h3d1":"Routine colonoscopy is a very safe procedure when performed in experienced hands.    ",
+    "h3d2":"Bleeding and bowel perforation are theoretically possible risks, especially in cases requiring advanced endoscopic procedures such as removal of large polyps and superficial tumors. However, in more than 35,000 endoscopic and colonoscopic procedures performed by Gastroenterology and Advanced Endoscopic Applications Specialist Prof. Dr. Yaşar Çolak, there has never been a case of intestinal perforation.    ",
+
+    "h4":"How Is Colonoscopy Performed?    ",
+    "h4d1":"Before the colonoscopy, the person must have done bowel cleansing the day before and must not have consumed any liquid or solid food in the last 8 hours.    ",
+
+    "h5":"Preparation Phase    ",
+    "h5d1":"The day before the procedure, the patient is asked to have a small toast with cheese and tea for breakfast and then to drink only clear liquids throughout the day. Clear liquid means liquids without sediment. The criterion here is that the liquid placed in the glass should be clear enough to show the other side. For example; water, tea, lemonade, grain-free meat broth, grain-free chicken broth, filtered compote juice without pulp, apple juice, cherry juice can be consumed easily. However, the consumption of cloudy and pulpy liquids such as soup, peach juice, apricot juice or milk is not suitable as it may cause intestinal pollution.    ",
+    "h5d2":"Another important part of the preparation for colonoscopy is diarrhea and bowel cleansing with medication. The drugs used for this have changed considerably in recent years. Today, the preferred preparation is an orange-flavored powder that is mixed in a glass of water and drunk. This powder is mixed in a glass of water and drunk at 14.00 hours, one day before the procedure. Then wait for about half an hour and drink plenty of water or clear liquids (about 2 liters in 4 hours) from 14.30. After the second dose at 20.00 p.m., you should drink 2 liters of water or clear liquids again after 20.30. On the morning of the procedure at home, the preparation process ends with a final enema through the anus, waiting for 15-20 minutes and then going to the toilet.    ",
+
+    "h6":"During Transaction    ",
+    "h6d1":"On the day of the procedure, after registration in the endoscopy unit and signing the consent form, the patient is admitted to the procedure preparation room. Here, the relevant nurse asks questions such as whether the person has a chronic disease, the medications the person is taking, the last time he/she took which medication, the food and water he/she eats and drinks, and whether he/she has any allergies. Before the procedure, the person is dressed in a disposable shorts. Afterwards, an intravenous line is opened in the arm to administer anesthesia medication and the person is taken to the procedure room with his/her bed. There is an endoscopy nurse, anesthesia team and a doctor in the procedure room.    ",
+    "h6d2":"There is a preparation process of about 1-2 minutes before the procedure. During this time, the person’s blood pressure, pulse rate, respiratory rate and oxygen level in the blood are measured with a small device like a clothespin attached to the fingertip. A plastic nasal mask is inserted into the nostrils, through which oxygen is continuously supplied during the procedure. Finally, the anesthesia team administers intravenous medication and the person falls asleep after about 10-20 seconds. A rectal examination is performed before the procedure. The anus is evaluated for hemorrhoids or cracks. After applying gel to the anus, the procedure is started. The procedure is performed with a flexible device with a light and camera at the end. During the procedure, approximately the last 20-30 cm of the large intestine and small intestine are examined. The presence of conditions such as polyps, masses, inflammation and stenosis in the intestines is checked. If polyps are detected, they are removed with different techniques depending on their size. After the procedure is finished, the colonoscopy instrument is removed from the anus and the procedure is terminated. The person is then taken to the rest room with his/her bed. Within a few minutes, the person starts to wake up as the effect of anesthesia drugs wears off. The person is kept in the rest room for about 15-20 minutes. After the person fully wakes up, the intravenous line is removed and the person is discharged.    ",
+
+    "h7":"Virtual Colonoscopy    ",
+    "h7d1":"Virtual colonoscopy is an imaging procedure in which the large intestine is examined using CT (computed tomography) or MRI. The procedure is not a substitute for a standard colonoscopy.    ",
+    "h7d2":"This procedure requires the same preparation as a routine colonoscopy. The images are then analyzed on a computer using a CT or MRI scanner. Although the procedure seems practical, it has some important disadvantages. The first of these is that lesions under 1 cm may be missed and mucosal surface changes cannot be evaluated clearly. Another important disadvantage is that if a suspicious lesion is seen during the procedure, a biopsy cannot be taken, a definitive diagnosis cannot be made and the lesion cannot be treated. If a suspicious lesion is detected, standard colonoscopy should be performed again with colonoscopy preparation and the lesion should be recognized, a biopsy should be taken or a lesion such as a polyp should be removed.    ",
+    "h7d3":"As you can see, although this procedure may seem practical, it is not a substitute for standard colonoscopy. Virtual colonoscopy is an auxiliary imaging method used only in special cases where routine colonoscopy cannot be performed.    ",
+
+    "h8":"Frequently Asked Questions About Colonoscopy    ",
+    "q1":"What is Colon Polyp? What happens if a polyp is detected during the procedure?",
+    "a1":"A polyp is a type of mole. Polyps in the large intestine are important because colon cancers are often caused by the growth of polyps. Colon polyps are divided into polyps with and without cancer risk. Which of the polyps is at risk of cancer can only be determined by examining the removed fragment under a microscope, i.e. by pathology. Therefore, polyps seen during colonoscopy are removed with different techniques during the procedure, depending on the size and shape of the polyp. This also prevents future colon cancers.    ",
+    "q2":"How long does it take to get the pathology result if a polyp is removed?",
+    "a2":"Polyp or endoscopic biopsies are usually completed within a week. ",
+    "q3":"Can People With Chronic Diseases Such As Heart, Cancer And Diabetes Have Colonoscopy?",
+    "a3":"Patients with such chronic diseases can also undergo a colonoscopic procedure. The important point here is that the patient’s medications should be regulated before the procedure, necessary precautions should be taken according to the disease and the patient should be carefully evaluated by both the gastroenterologist who will perform the procedure and the anesthesiologist.    ",
+    "q4":"Is Anesthesia Applied in Colonoscopy?",
+    "a4":"During the procedure, a short-term general anesthesia is applied by intravenous drug administration. Thus, the patient will not feel any pain and will not remember the procedure.    ",
+    "q5":"Is Colonoscopy a Painful Procedure?",
+    "a5":"Since the person will be asleep under anesthesia during the colonoscopy procedure, he/she does not feel any pain and does not remember the procedure when the procedure is over and he/she is awakened.    ",
+    "q6":"What to Consider in Preparation for Colonoscopy?",
+    "a6":"The most common mistakes made in preparation for colonoscopy are not taking medications on time, not drinking enough water and consuming fluids with pulp. In order to ensure adequate bowel cleansing, water consumption should be high and fluids with pulp (such as tomato soup, lentil soup, apricot juice) that may cause fecal formation should not be consumed.",
+    "q7":"Does Nausea Occur During Preparation for Colonoscopy, What Should I Do Against Nausea?",
+    "a7":"With today’s preparation medications, nausea is no longer a common complaint. In case of nausea during preparation, fluid intake should be suspended for a while, but once the nausea subsides, the preparation should be resumed.    ",
+    "q8":"Is it possible to experience rectal irritation during preparation for colonoscopy? What should be done to prevent this?",
+    "a8":"Colonoscopy performed in competent hands does not cause irritation of the rectum. Before the procedure, the anus is examined and a lubricating gel is applied to the anus before the procedure. This gel minimizes irritation.    ",
+    "q9":"What Should I Pay Attention to After Colonoscopy?",
+    "a9":"After the routine colonoscopy procedure, the anesthesia drugs are allowed to wear off for about half an hour and then the patient is discharged after feeling well. It is requested not to drive or do anything that requires attention for a few hours after the procedure. Normal food intake can be started approximately 1 hour after the procedure. The person can return to daily work a few hours after the procedure.    ",
+    "q10":"Does the Patient Have Gas Problems After Colonoscopy?",
+    "a10":"The intestines are normally contracted and stuck together. During a colonoscopy, a small amount of air is introduced into the intestine so that the inside of the intestine can be evaluated. This opens the folds of this organ and allows diseases that may be present between the folds to be recognized without being missed. However, sometimes this air given during the procedure may cause gas and abdominal pain. At the end of the procedure, the patient does not experience such pains thanks to the withdrawal of this air. However, if there is a complaint of gas, the patient should walk slowly after the effect of the anesthesia drugs wears off, which will facilitate the removal of the gas from the body.    ",
+    "q11":"Is There a Bleeding Problem After Colonoscopy? What Should Be Considered In This Case?",
+    "a11":"No bleeding is expected after routine colonoscopy. However, bleeding may occur in rare cases such as removal of polyps or superficial tumors or biopsy. If there is minor bleeding, the patient is informed about this. If there is any other bleeding, this should be reported to the doctor immediately.    ",
+    "q12":"Is Colonoscopy an Obstacle to Breastfeeding?",
+    "a12":"Since anesthesia will be taken, it is recommended to express and discard breast milk for 4-6 hours after the procedure.    ",
+    "q13":"In which cases should a doctor be consulted after colonoscopy?",
+    "a13":"There may be some abdominal pain due to gas after the procedure. However, in cases such as severe abdominal pain, nausea, vomiting, feeling of weakness, darkening in the eyes, feeling faint or blood coming from the rectum, you should definitely consult a doctor.    "
   }
 }
