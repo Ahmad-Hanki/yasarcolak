@@ -265,5 +265,55 @@
     "a12":"Since anesthesia will be taken, it is recommended to express and discard breast milk for 4-6 hours after the procedure.    ",
     "q13":"In which cases should a doctor be consulted after colonoscopy?",
     "a13":"There may be some abdominal pain due to gas after the procedure. However, in cases such as severe abdominal pain, nausea, vomiting, feeling of weakness, darkening in the eyes, feeling faint or blood coming from the rectum, you should definitely consult a doctor.    "
-  }
+  },
+  "sigmoidoskopiPage": {
+    "header":"Sigmoidoscopy (Rectosigmoidoscopy)    ",
+    "d1":"A sigmoidoscopy is a test that looks at the rectum and the lower part of the large intestine. “Colon” is the medical name for the large intestine and the sigmoid colon is the lower part. The sigmoid colon ends in the rectum. Waste collects in the rectum and leaves your body when you have a bowel movement.    ",
+    "content":"Content",
+    "c1":"Sigmoidoscopy (Rectosigmoidoscopy)",
+    "c2":"In Which Situations Is Sigmoidoscopy Performed?",
+    "c3":"How is sigmoidoscopy performed?",
+    "c3c1":"Preparation Process",
+    "c3c2":"Application",
+    "c3c3":"Post-Processing Process",
+    "c4":"How does sigmoidoscopy differ from colonoscopy?",
+    "d2":"Sigmoidoscopy is a procedure in which a thin endoscopy instrument is inserted through the anus and the last 50-60 cm of the large intestine (called the rectum and sigmoid colon) is examined. In a sense, it is a shorter colonoscopy that looks at a shorter area of the large intestine.    ",
+    "d3":"Sigmoidoscopy is performed using a thin, flexible tube called a sigmoidoscope. The tube has a small light and a camera. The tube is inserted through the patient’s anus and moved slowly towards the lower part of the colon. The tube is used to blow air into your colon, which causes the colon to swell slightly to improve visibility. If necessary, tissue samples (biopsies) can be taken through the scope during the sigmoidoscopy examination.    ",
+    
+
+    "h1":"In Which Situations Is Sigmoidoscopy Performed? ",
+    "h1d1":"Sigmoidoscopy is an examination used in the diagnosis, follow-up and treatment of diseases associated with the last parts of the large intestine and the anus (anus). It is often used to evaluate rectal complaints. The most common of these are cracks in the anus (anal fissure) and hemorrhoids (hemorrhoids).    ",
+    "h1d2":"Sigmoidoscopy is also used for the control of diseases in the last part of the intestine (ulcerative colitis, polyps or tumors in the rectosigmoid region) that have been previously treated.    ",
+    "h1d3":"In general, a sigmoidoscopy examination may be recommended for the following conditions:    ",
+    
+    
+    "lih1":"Looking for signs and symptoms in the intestine:",
+    "lid1":" Looking for signs and symptoms in the intestine: A sigmoidoscopy examination can help your doctor diagnose possible causes of abdominal pain, rectal bleeding, changes in bowel habits, chronic diarrhea and other bowel problems.    ",
+    "lih2":"Colon cancer screening:",
+    "lid2":"If you are 50 years old or older and have no colon cancer risk factors other than age – which puts you at average risk – your doctor may recommend a sigmoidoscopy exam every 5 years to screen for colon cancer.",
+    "d4":"Sigmoidoscopy is one option for colon cancer screening, but there are other options, such as colonoscopy, which allows your doctor to see your entire colon. You should be examined by a gastroenterologist about your options.    ",
+
+    "h2":"How Is Sigmoidoscopy Performed?    ",
+    "h2d1":"Because preparation for sigmoidoscopy and the procedure itself may take less time, sigmoidoscopy is sometimes preferred over colonoscopy. Compared to colonoscopy, sigmoidoscopy has a lower risk of direct damage to the wall of the colon or rectum, such as perforation.    ",
+    "h2d2":"As with colonoscopy, sigmoidoscopy is not only a diagnostic procedure but also a procedure where endoscopic treatments (such as polyp and tumor removal, band ligation treatment for hemorrhoids, biopsy, stenting) can be performed.    ",
+  
+    "h3":"Preparation Process    ",
+    "h3d1":"Generally, this examination does not require intensive bowel cleansing as in a conventional colonoscopy. It is usually sufficient to clean the last parts of the intestine with an enema before the procedure. However, in some special cases, preparation for a conventional colonoscopy may also be required.    ",
+  
+    "h4":"Application    ",
+    "h4d1":"The procedure is usually performed under anesthesia. The anesthesia is superficial and not as deep as that used in surgery. In some cases, sigmoidoscopy can be performed without anesthesia because the procedure is generally not painful.    ",
+    "h4d2":"In painful cases such as the presence of fissures or hemorrhoids, the procedure is preferred under anesthesia. During the procedure, the colonoscopy instrument is inserted through the anus and approximately the last 50-60 cm of the intestine is checked and the procedure is terminated.    ",
+    "h4d3":"In general, a sigmoidoscopy procedure follows the following sequence:    ",
+
+    "li1":"Before the procedure, the doctor will perform a rectal examination to check for any blood, mucus or feces.    ",
+    "li2":"A tube is inserted into the patient’s anus and advanced into the rectum and lower part of the colon. Once the lower part of the colon has been checked, the tube will be removed.    ",
+    "li3":"Air may be injected into the colon to improve visibility. A suction device may be used to remove liquid stool.    ",
+    "d5":"The sigmoidoscopy procedure may cause mild discomfort. You may feel a strong urge to have a bowel movement when the tube is inserted. You may also experience short-term muscle spasms or lower abdominal pain during the test.    ",
+
+    "h5":"Post-Processing Process    ",
+    "h5d1":"After the procedure, the patient rests in the recovery room for about half an hour for the anesthetic effect to wear off and is then discharged. After the procedure, it is recommended not to perform tasks that require attention such as driving for a few hours due to the effect of anesthesia. In the post-procedure period, food intake can be started immediately after the anesthesia effect wears off and the patient is discharged.    ",
+    "h6":"How Does Sigmoidoscopy Differ From Colonoscopy?    ",
+    "h6d1":"Both sigmoidoscopy and colonoscopy are screening tests to look for colorectal cancer. The difference between the two tests is the part of the colon that the doctor is allowed to see. A sigmoidoscopy is less invasive because it only looks at the lower part of your colon. A colonoscopy can look at the entire large intestine.    ",
+    "h6d2":"If your doctor finds polyps during a sigmoidoscopy, you will probably need a colonoscopy. This is important because if you have polyps in the lower colon, there is a good chance they are elsewhere. Your doctor can remove the polyps before they turn into cancer.    "
+    }
 }

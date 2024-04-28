@@ -264,5 +264,55 @@
     "a12":"Anestezi alınacağı için işlemden sonraki 4-6 saat boyunca anne sütünün sağılmasını ve atılması önerilmektedir.    ",
     "q13":"Kolonoskopi Sonrası Hangi Durumlarda Doktora Başvurulmalıdır?",
     "a13":"İşlem sonrası gaza bağlı bir miktar karın ağrısı olabilir. Ancak şiddetli karın ağrısı, bulantı, kusma, fenalık hissi, göz kararması, baygınlık hissi veya makattan kan gelmesi gibi durumlarda mutlaka doktora başvurulması gerekir."
-  }
+  },
+  "sigmoidoskopiPage": {
+    "header":"Sigmoidoskopi (Rektosigmoidoskopi)",
+    "d1":"Sigmoidoskopi, rektuma ve kalın bağırsağın alt kısmına bakan bir testtir. “Kolon” kalın bağırsağın tıbbi adıdır ve sigmoid kolon alt kısımdır. Sigmoid kolon rektumda son bulur. Atık rektumda toplanır ve bağırsak hareketiniz olduğunda vücudunuzu terk eder.    ",
+    "content":"İçindekiler",
+    "c1":"Sigmoidoskopi (Rektosigmoidoskopi)",
+    "c2":"Hangi Durumlarda Sigmoidoskopi Uygulanır?",
+    "c3":"Sigmoidoskopi Nasıl Yapılır?",
+    "c3c1":"Hazırlık Süreci",
+    "c3c2":"Uygulama",
+    "c3c3":"İşlem Sonrası Süreç",
+    "c4":"Sigmoidosokopinin Kolonoskopiden Farkı Nedir?",
+    "d2":"Sigmoidoskopi, makattan ince bir endoskopi aleti ile girilerek, kalın bağırsağın son 50-60 cm’lik (rektum ve sigmoid kolon adı verilen) kısmının incelendiği işlemdir. Bir anlamda kolonoskopinin daha kısa bir kalın bağırsak alanına bakılan halidir.    ",
+    "d3":"Sigmoidoskopi, sigmoidoskop adı verilen ince, esnek bir tüp kullanılarak gerçekleştirilir. Tüpün küçük bir ışığı ve bir kamerası bulunur. Tüp hastanın anüsünden ilerletilir ve kolonun alt kısmına doğru yavaşça hareket ettirilir. Tüp, kolonunuza hava üflemek için kullanılır, bu da kolonun görünürlüğü artırmak için biraz şişmesine neden olur. Gerekirse, sigmoidoskopi muayenesi sırasında skop aracılığıyla doku örnekleri (biyopsiler) alınabilir.    ",
+    
+
+    "h1":"Hangi Durumlarda Sigmoidoskopi Uygulanır?    ",
+    "h1d1":"Sigmoidoskopi işlemi, kalın bağırsağın son kısımları ve makat (anüs) ile ilişkili hastalıkların tanı, takip ve tedavisinde kullanılan bir incelemedir. Sıklıkla makatla ilgili şikayetlerin değerlendirilmesinde kullanılır. Bunların başında makattaki çatlaklar (anal fissür) ve basur (hemoroid) gelmektedir.    ",
+    "h1d2":"Önceden işlem yapılmış olan ve bağırsağın son kısmındaki hastalıkların (ülseratif kolit, rektosigmoid bölgedeki polip veya tümörlerin) kontrollerinde de sigmoidoskopi uygulanır.    ",
+    "h1d3":"Sigmoidoskopi muayenesi genel olarak şu durumlar için önerebilir:    ",
+    
+    
+    "lih1":"Bağırsaktaki belirti ve semptomları araştırmak:",
+    "lid1":"  Bir sigmoidoskopi muayenesi, doktorunuzun karın ağrısı, rektal kanama, bağırsak alışkanlıklarındaki değişiklikler, kronik ishal ve diğer bağırsak sorunlarının olası nedenlerini teşhis etmesine yardımcı olabilir.",
+    "lih2":"Kolon kanseri taraması:",
+    "lid2":" 50 yaşında veya daha büyükseniz ve yaş dışında kolon kanseri risk faktörlerine sahip değilseniz – bu sizi ortalama riske sokar – doktorunuz kolon kanseri taraması için her 5 yılda bir sigmoidoskopi muayenesi önerebilir.",
+    "d4":"Sigmoidoskopi, kolon kanseri taraması için bir seçenektir, ancak kolonoskopi gibi doktorunuzun tüm kolonunuzu görmesine izin veren başka seçenekler de vardır. Seçenekleriniz hakkında bir gastroenteroloji uzmanına muayene olmalısınız.",
+
+    "h2":"Sigmoidoskopi Nasıl Yapılır?",
+    "h2d1":"Sigmoidoskopi için hazırlık ve işlemin kendisi daha az zaman alabileceğinden, bazen kolonoskopi yerine sigmoidoskopi tercih edilebilir. Kolonoskopi ile karşılaştırıldığında sigmoidoskopi ile kolon veya rektum duvarında yırtılma (perforasyon) gibi doğrudan zarar verme riski daha düşüktür.",
+    "h2d2":"Sigmoidoskopi işlemi de aynı kolonoskopide olduğu gibi yalnızca tanısal bir işlem değil aynı zamanda endoskopik tedavilerin de (polip ve tümör çıkartılması, hemoroidlere yönelik band ligasyon tedavisi, biyopsi alınması, stent takılması gibi) yapılabildiği bir işlemdir.    ",
+  
+    "h3":"Hazırlık Süreci",
+    "h3d1":"Sigmoidoskopi için hazırlık ve işlemin kendisi daha az zaman alabileceğinden, bazen kolonoskopi yerine sigmoidoskopi tercih edilebilir. Kolonoskopi ile karşılaştırıldığında sigmoidoskopi ile kolon veya rektum duvarında yırtılma (perforasyon) gibi doğrudan zarar verme riski daha düşüktür.",
+  
+    "h4":"Uygulama",
+    "h4d1":"İşlem genellikle anestezi altında yapılmaktadır. Burada uygulanan anestezi yüzeyel bir anestezi olup ameliyatlarda uygulanan kadar derin değildir. Bazı durumlarda sigmoidoskopi işlemi anestezi uygulamadan da yapılabilir çünkü genel anlamda işlem ağrılı değildir.     ",
+    "h4d2":"Makatta çatlak (fissür) veya hemoroid varlığı gibi ağrılı durumlarda anestezi altında işlem tercih edilmektedir. İşlem sırasında kolonoskopi aleti ile makattan girilir ve bağırsağın yaklaşık son 50-60 cm’lik kısmı kontrol edilir ve işlem sonlandırılır.    ",
+    "h4d3":"Genel olarak, bir sigmoidoskopi işleminde şu süreşler takip edilir:    ",
+
+    "li1":"İşlem öncesinde doktor herhangi bir kan, mukus veya dışkı olup olmadığını kontrol etmek için bir rektal muayene yapacaktır.    ",
+    "li2":"Hastanın anüsüne bir tüp yerleştirilerek rektum ve kolonun alt kısmına doğru ilerletilir. Kolonun alt kısmı kontrol edildikten sonra tüp çıkarılacaktır.    ",
+    "li3":"Görünürlüğü artırmak için bağırsağa hava enjekte edilebilir. Sıvı dışkıyı çıkarmak için bir emme cihazı kullanılabilir.    ",
+    "d5":"Sigmoidoskopi işlemi hafif bir rahatsızlığa neden olabilir. Tüp takıldığında bağırsak hareketine sahip olmak için güçlü bir dürtü hissedebilirsiniz. Ayrıca test sırasında kısa süreli kas spazmları veya alt karın ağrısı yaşayabilirsiniz.    ",
+
+    "h5":"İşlem Sonrası Süreç    ",
+    "h5d1":"İşlemden sonra kolonoskopi işleminde olduğu gibi anestezi etkisinin geçmesi için yaklaşık yarım saat hasta dinlenme odasında istirahat eder ve sonrasında taburcu edilir. İşlem sonrasında anestezi etkisinden dolayı araç kullanmak gibi dikkat gerektiren işlerin birkaç saat boyunca yapılmaması önerilir. İşlem sonrası süreçte anestezi etkisi geçtikten ve hasta taburcu edildikten hemen sonra gıda alımına başlanabilir.    ",
+    "h6":"Sigmoidosokopinin Kolonoskopiden Farkı Nedir?    ",
+    "h6d1":"Hem sigmoidoskopi hem de kolonoskopi, kolorektal kanseri aramak için uygulanan tarama testleridir. İki test arasındaki fark, kolonun doktorun görmesine izin verdiği kısımdır. Sigmoidoskopi daha az invazivdir çünkü kolonunuzun sadece alt kısmına bakar. Kolonoskopi tüm kalın bağırsağa bakabilir.    ",
+    "h6d2":"Sigmoidoskopi sırasında doktorunuz polip bulursa, muhtemelen kolonoskopiye ihtiyacınız olacaktır. Bu önemlidir çünkü alt kolonda polipleriniz varsa başka yerlerde de olma ihtimali yüksektir. Doktorunuz polipleri kansere dönüşmeden çıkarabilir.    "
+    }
 }
