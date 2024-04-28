@@ -1,5 +1,4 @@
 import SecHero from "@/components/SecHero";
-import { useLocale } from "next-intl";
 import Container from "@/components/ui/Container";
 import KolonoskopiClient from "./_components/KolonoskopiClient";
 
