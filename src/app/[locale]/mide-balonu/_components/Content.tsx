@@ -68,7 +68,7 @@ const Content = ({ content }: { content: MideBalonuContentType }) => {
         <h1 className="font-bold text-3xl">{content.h4}</h1>
         <iframe
           src="https://www.youtube.com/embed/aZlyURYCFM8"
-          className="lg:w-[80%]"
+          className="w-full lg:w-[80%]"
           height={400}
         ></iframe>
       </div>
