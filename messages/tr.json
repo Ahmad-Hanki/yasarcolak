@@ -351,5 +351,97 @@
       "h3d4":"Yöntem klinik pratikte sıklıkla ince bağırsakların değerlendirilmesi amacı ile kullanılır. Mide ve kalın bağırsakların arasında yaklaşık 8-10 metre uzunluğunda ince bağırsaklar bulunmaktadır.      ",
       "h3d5":"Rutin gastroskopi ve kolonoskopi işlemleri sırasında ince bağırsakların yaklaşık ilk ve son 30 cm’lik kısımları incelenebilmekte, aradaki bölüm ise izlenememektedir. Örneğin dışkıda gizli veya aşikar kan saptanan bir hastada yapılan gastroskopi ve kolonoskopide sonuç alınamaması durumunda ince bağırsakların incelenmesi amacı ile kapsül endoskopi kullanılır.      ",
       "h3d6":"Görüldüğü üzere yöntem pratik olmakla birlikte birtakım dezavantajlara sahiptir ve rutin gastroskopi veya kolonoskopi işleminin yerine konulabilecek bir işlem değildir.      "
-    }
+    },
+      "endoskopik-mide-kucultmePage" :{
+        "header":"Endoskopik Sleeve Gastroplasti (Endoskopik Mide Küçültme)",
+        "d1":"Endoskopik mide küçültme işlemi, ameliyatsız ve kesisiz bir şekilde tamamen endoskopik yolla midenin içeriden dikilerek küçültülmesi işlemidir.",
+        "content":"İçindekiler",
+        "c1":"Endoskopik Sleeve Gastroplasti (Endoskopik Mide Küçültme)",
+        "c2":"Endoskopik Mide Küçültme Uygulaması",
+        "c3":"Avantajlar ve Riskler",
+        "c4":"Endoskopik Mide Küçültme İşlemi Hakkında Sık Sorulan Sorular",
+        "d2":"Bu işlem son yıllarda geliştirilen ve dünyada sayılı merkezlerde yapılan endoskopik bir uygulamadır. Özel cihazlar ve gelişmiş endoskopik bir donanımla yapılan bu işlemde ağızdan girilip mideye ulaşılır ve mide içerisinden endoskopik dikişler atılarak mide küçültülür. Kilolu kişilerde mide hacmi yaklaşık 1500-2000 ml kadardır ve bu işlemle mide hacmi yaklaşık 300 ml’ye kadar küçültülür. İşlem sırasında midenin herhangi bir kısmı kesilmez ve herhangi bir kısmı çıkartılmaz.        ",
+
+        "h1":"Endoskopik Mide Küçültme Uygulaması        ",
+        "h1d1":"Öncelikle vücut kitle endeksi 30’un üzeri olan ve diyete rağmen kilo veremeyen kişiler için bu işlem söz konusudur. İşlem öncesi hasta ile görüşülür. Ek hastalıkları, kullandığı ilaçlar, kan tetkikleri değerlendirilir ve hastanın beklentileri öğrenilir. İşlem hakkında kişiye detaylı bilgiler verildikten sonra midede işleme engel bir durum olup olmadığı kontrol edilir. Bunun için işlem öncesi endoskopik kontrol yapılır. Özellikle mide fıtığı, gastrit, ülser ve tümör gibi durumlar açısından mide kontrolü yapılır. Gastrit ve ülser varlığında bu sorunlar tedavi edildikten sonra işlem yapılmalıdır. Tümör varlığında ise işlem yapılmaz.        ",
+        "h1d2":"Kontrol endoskopisinde bu tip sorunları olmayan kişilerde işlem öncesi mide asidini azaltan mide koruyucularına başlanması önerilir.        ",
+        "h1d3":"İşlemden önce kişiler anestezi uzmanı tarafından değerlendirilir. Çünkü bu endoskopik işlem anestezi altında uygulanan bir işlemdir. Anestezi muayenesi ve yapılan kan tetkiklerinde bir sorun saptanmaması durumunda işlem günü belirlenir.        ",
+        "h1d4":"Endoskopik mide küçültme işlemi için tam donanımlı hastane koşulları, gerekli teknolojik altyapı ve bu işte deneyimli bir ekip gereklidir. İşlem yaklaşık 90 dakika kadar sürmektedir. Bu sürede kişi anestezi altında olacağı için işlem sırasında herhangi bir ağrı, sızı, bulantı gibi şikayetleri hissetmez ve işlemi hatırlamaz. İşlem sırasında özel endoskopi cihazı ve bu cihazın ucuna yerleştirilen özel bir dikiş aparatı sayesinde midenin içinden dikişler atılarak mide büzüştürülerek küçültülür ve işlem tamamlanır.        ",
+        
+        
+        "h2":"Avantajlar Ve Riskler",
+        "h2d1":"Endoskopik Mide Küçültme işleminin avantajları aşağıda maddeler halinde sunulmuştur:        ",
+
+        "lih1":"Minimal İnvaziv Yöntem:",
+        "lid1":" Endoskopik mide küçültme, cerrahi bir prosedür yerine endoskop kullanılarak gerçekleştirilir. Bu, daha az invaziv bir işlem olması anlamına gelir.",
+        
+        "lih2":"Daha Hızlı İyileşme: ",
+        "lid2":"Cerrahi bir prosedür yerine endoskopik bir işlem olduğu için, genellikle daha hızlı bir iyileşme süreci görülür.",
+
+        "lih3":"Daha Az Komplikasyon Riski:",
+        "lid3":"Endoskopik mide küçültme işlemi, mide bypassı gibi daha büyük cerrahi işlemlere kıyasla daha az komplikasyon riski taşır.",
+        
+        "lih4":"Anesteziye Gerek Yok:",
+        "lid4":"İşlem genellikle lokal anestezi altında gerçekleştirilir, bu nedenle genel anestezi ile ilişkili risklerden kaçınılmış olur.",
+        
+        "lih5":"Etkili Kilo Kaybı:",
+        "lid5":" Endoskopik mide küçültme, etkili ve sürdürülebilir kilo kaybı sağlamak için bir araç olarak kullanılabilir.",
+        
+        "lih6":"Metabolik Hastalıkların İyileşmesi:",
+        "lid6":"İşlem, tip 2 diyabet ve hipertansiyon gibi obeziteye bağlı hastalıkların yönetilmesine yardımcı olabilir.",
+        
+        "lih7":"Kısa Hastane Süresi: ",
+        "lid7":"Hastalar genellikle işlemden birkaç saat sonra evlerine dönebilirler.",
+        
+        "d3":"İşlemin istenmeyen yan etkileri ve riskleri, deneyimli ellerde işlemin yapılması şartı ile son derece düşüktür. Yapılan uluslararası çalışma sonuçlarına göre de şimdiye kadar işleme bağlı hayati yan etki görülmemiştir. İşleme bağlı oluşabilecek istenmeyen olayların başında midedeki dikiş yerlerindeki kanamalar sayılabilir. Ancak bu kanamalar endoskopik müdahalelerle kolaylıkla kontrol edilebilmektedir.       ",
+
+        "h3":"Endoskopik Mide Küçültme İşlemi Hakkında Sık Sorulan Sorular",
+
+        "q1":"Mideye atılan dikişler daha sonra alınır mı?",
+        "a1":"Bu dikiş materyali uzunca süre midede kalabilen, mide asidine dayanıklı dikişlerdir; daha sonra alınmasına gerek yoktur.",
+
+        "q2":"İşlem geri döndürülebilir mi?",
+        "a2":"İşlemden sonraki birkaç ay içerisinde midedeki dikişlerin kesilmesiyle midenin eski haline dönebilmesi mümkündür. Ancak bu süreden sonra dikişlerin kesilmesi halinde bile dikilen kısımlar birbirine yapışmış olacağı için mide eski haline dönemez. Bu da aslında işlemin kalıcılığı konusunda bir avantaj oluşturmaktadır.        ",
+
+        "q3":"Dikilen kısımlara ne olur?",
+        "a3":"Midenin içinde dikiş atılarak büzüştürülen dokular zamanla kaynar ve bunlar büzüşük ancak canlı doku olarak mide içinde kalır. Dokuların birbirine yapışık halde durması sayesinde mide açılmaz böylece hacmi de genişlemez. İşlemde dikilen kısımlar midede kalmaya devam eder ve midenin herhangi bir kısmı kesilerek çıkartılmaz. Mideden herhangi bir kısmın çıkarılmaması, ameliyatlardakinin aksine midenin yeterli asit yapmaya devam etmesini sağlar ve sindirim şikayetini önler. Ayrıca demir ve vitamin eksikliği de olmaz.        ",
+
+        "q4":"Kimlere uygulanır?",
+        "a4":"İşlem, vücut kitle indeksi (VKİ) ya da beden kitle indeksi oranı, (vücut ağırlığının boy uzunluğunun karesine bölünmesi) 30’un üzerinde olan kişilerde uygulanır. Örneğin 90 kg ağırlığında ve boyu 1.68 metre olan bir kişide vücut kitle indeksi 90/1.68 X 1.68 (90/2.82) 31.9’dur. İşlemin uygulanabilmesi için bu indeksin 30 ve üzeri olması dışında diğer önemli bir nokta da kişinin en az 6 aylık diyet denemelerine ve yeterli fiziksel aktiviteye rağmen kilo verememiş olmasıdır. Özetle, şişman olan ve kilosunu doğal yollarla veremeyen kişilerde bu işlem yapılabilmektedir.        ",
+
+        "q5":"Daha önce mide küçültme ameliyatı olan ve tekrar kilo alan kişilerde de bu işlem yapılabilir mi?",
+        "a5":"Evet yapılabilir; ancak bu sorunun cevabını net olarak verebilmek için midenin son halinin endoskopi ile değerlendirilmesi ve buna göre karar verilmesi daha sağlıklı olur.        ",
+
+        "q6":"İşlem ne kadar sürer?",
+        "a6":"Endoskopik mide küçültme işlemi yaklaşık 1.5-2 saat arasında sürmektedir.        ",
+
+        "q7":"Hastanede yatış gerekir mi",
+        "a7":"İşlem sonrası bir gece kontrol amacı ile hastanede kalınması önerilir. İşlemden sonrası mide dikilerek küçüldüğü için bir miktar mide ağrısı, bulantı ve kusma olabilir. Bu nedenle işlem sonrası mide ilacı, bulantı ilacı ve serum verilerek hastanın geceyi daha konforlu geçirmesi sağlanır. Ertesi gün hasta taburcu edilir.        ",
+
+        "q8":"İşlemden ne kadar sonra yeme içmeye başlanır?",
+        "a8":"İşlemden yaklaşık 4 saat sonra su içmeye başlanır. İlk akşam genellikle su ve berrak sıvılar ile tüketilir.        ",
+
+        "q9":"İşlem sonrası nasıl bir diyet yapılmalıdır?",
+        "a9":"İşlem öncesinde kişi diyetisyen tarafından değerlendirilir ve kendisine özgü diyet düzenlenir. İşlemden önce detaylı vücut analiziyle, kişinin kas kütlesi, yağ oranı, iç organ yağ miktarı ve su oranı gibi ölçümleri yapılır ve işlem sonrası dönemde bu değerler yakın bir şekilde takip edilir. Diyet de bu değerlere göre dizayn edilir. Genel olarak işlem sonrası ilk hafta sadece sıvı ile beslenilmesini, ikinci hafta püre tarzında yumuşak gıdalar tüketilmesini ve sonrasında da normal gıdalara kademeli bir geçiş yapılmasını önermekteyiz.        ",
+
+        "q10":"İşlemin mide küçültme ameliyatlarından farkları nelerdir?",
+        "a101":"Mide küçültme ameliyatları son yıllarda obezite tedavisinde sık yapılan etkili tedavi yöntemlerindendir; ancak diğer ameliyatlar gibi kendi içinde bazı riskleri barındırır. Endoskopik mide küçültme işleminde, ameliyatlardan farklı olarak karın cildinde herhangi bir kesi yapılmaz ve karın boşluğuna girilmez.        ",
+        "a102":"Ayrıca ameliyatlarda midenin bir kısmı kesilerek çıkartılır ve kalan mide kısımları birbirlerine dikilir. Endoskopik mide küçültme işleminde ise midenin herhangi bir kısmı kesilmez ya da çıkartılmaz. Mide, iç kısmından endoskopik yolla dikiş atılarak küçültülür. Bu sayede ameliyata bağlı karın içi enfeksiyon ve mide kaçakları gibi riskler de en aza indirilmiş olur.        ",
+        "a103":"Ayrıca mide küçültme ve gastrik (mide) by pass ameliyatlarından sonra demir ve vitamin eksiklikleri oluşacağı için genellikle ömür boyu demir ve vitamin takviyesi gerekir. Oysa endoskopik mide küçültme işleminde midenin herhangi bir kısmı çıkartılmadığından demir ve vitamin eksiklikleri de görülmez ve bu nedenle de takviyeye ihtiyaç kalmaz.        ",
+        "a104":"Mide küçültme ameliyatlarında genellikle birkaç gün hastanede yatış ve sonrasında da evde bir haftalık yatak istirahati gerekir. Endoskopik mide küçültme işleminde ise sadece bir gece hastanede kontrol amacı ile kalınır ve ertesi gün hasta taburcu edilir. Hasta bir iki gün içinde her türlü işini yapabilir hale gelir.        ",
+        "a105":"Özetleyecek olursak; endoskopik mide küçültme işlemlerinin en büyük avantajları, ameliyata bağlı komplikasyonların yani istenmeyen yan etkilerin çok düşük olması ve iyileşme süresinin çok daha hızlı olmasıdır.        ",
+
+
+        "q11":"Endoskopik mide küçültme işleminin etkinliği ve güvenilirliği bilimsel çalışmalarla gösterilmiş midir?",
+        "a11":"Gerek uluslararası çalışmalarda gerekse birçok uluslararası çalışmanın verilerinin birleştirilerek incelendiği “meta analiz” denilen en değerli bilimsel yayınlarda, bu işlemin güvenilir ve etkin bir yöntem olduğu kanıtlanmıştır. Bu kanıtlara dayalı olarak da FDA (Amerikan Gıda ve İlaç Dairesi) tarafından da yöntem 2022 yılında onaylanmıştır.        ",
+
+        "q12":"İşlem sonrası ne kadar kilo verilir?",
+        "a12":"İşlem sonrası bir yılda beklenen kilo kaybı yaklaşık yüzde 20-30 arasındadır. Bu oran kişinin diyetine uyumu ve fiziksel aktivitesi ile de yakın ilişkilidir.        "
+      },
+      "mide-balonuPage": {
+        "header":"Mide Balonu Nedir ve Faydaları Nelerdir?        ",
+        "d1":"Mide balonu işlemi, endoskopik bir işlem ile mide içerisine bir balon yerleştirilmesi ve balonun içinin özel bir sıvı ile doldurulması işlemidir. Yaklaşık 15 dakika süren bir işlemdir. Bu işlem sırasında kişiler, aynı gastroskopi işleminde olduğu gibi, anestezi altındadır ve bu nedenle ağrı, acı, bulantı gibi şikayetleri hissetmezler ve işlemi hatırlamazlar.",
+        
+        "end":""
+      }
 }

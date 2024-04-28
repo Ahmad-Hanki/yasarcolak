@@ -352,5 +352,91 @@
       "h3d4":"The method is frequently used in clinical practice to evaluate the small intestine. Between the stomach and large intestine is the small intestine, which is approximately 8-10 meters long.      ",
       "h3d5":"During routine gastroscopy and colonoscopy procedures, approximately the first and last 30 cm of the small intestine can be examined, while the section in between cannot be observed. For example, capsule endoscopy is used to examine the small intestine in a patient with occult or overt blood in the stool if gastroscopy and colonoscopy are inconclusive.      ",
       "h3d6":"As can be seen, the procedure is practical but has a number of disadvantages and is not a substitute for routine gastroscopy or colonoscopy.      "
+    },
+    "endoskopik-mide-kucultmePage" :{
+      "header":"Endoscopic Sleeve Gastroplast.      ",
+      "d1":"Endoscopic Sleeve Gastroplasty is a non-surgical and incisionless procedure in which the stomach is sutured from the inside to reduce the size of the stomach completely endoscopically.      ",
+      "content":"Content",
+      "c1":"Endoscopic Sleeve Gastroplasty",
+      "c2":"Avantajlar ve Riskler",
+      "c3":"Advantages and Risks",
+      "d4":"Frequently Asked Questions About Endoscopic Stomach Reduction",
+
+      "d2":"This procedure is an endoscopic application developed in recent years and performed in a few centers around the world. In this procedure, which is performed with special devices and advanced endoscopic equipment, the stomach is accessed through the mouth and endoscopic sutures are applied through the stomach and the stomach is reduced. In overweight people, the stomach volume is approximately 1500-2000 ml and with this procedure, the stomach volume is reduced to approximately 300 ml. During Endoscopic Sleeve Gastroplasty, no part of the stomach is cut and no part is removed.      ",
+      "h1":"Endoscopic Sleeve Gastroplasty      ",
+      "h1d1":"This procedure is primarily for people with a body mass index above 30 and who cannot lose weight despite dieting. The patient is interviewed before the procedure. Additional diseases, medications, blood tests are evaluated and the patient’s expectations are learned. After the patient is given detailed information about the procedure, it is checked whether there is an obstacle in the stomach. For this, endoscopic control is performed before the procedure. The stomach is checked especially for conditions such as gastric hernia, gastritis, ulcers and tumors. In the presence of gastritis and ulcers, the procedure should be performed after these problems are treated. If there is a tumor, no procedure is performed.      ",
+      "h1d2":"In people who do not have such problems in the control endoscopy, it is recommended to start stomach protectors that reduce stomach acid before the procedure.      ",
+      "h1d3":"People are evaluated by an anesthesiologist before the procedure. Because this endoscopic procedure is performed under anesthesia. If no problem is detected in the anesthesia examination and blood tests, the day of the procedure is determined.      ",
+      "h1d4":"Endoscopic stomach reduction requires fully equipped hospital conditions, the necessary technological infrastructure and an experienced team. The procedure takes approximately 90 minutes. Since the person will be under anesthesia during this period, he/she will not feel any pain, ache, nausea and will not remember the procedure. During the procedure, a special endoscopy device and a special suture apparatus placed at the end of this device are used to shrink the stomach by suturing through the stomach and the procedure is completed.      ",
+      
+      
+      "h2":"Advantages And Risks      ",
+      "h2d1":"The advantages of Endoscopic Sleeve Gastroplasty are presented below:      ",
+
+      "lih1":"Minimally Invasive Method:",
+      "lid1":" Endoscopic stomach reduction is performed using an endoscope instead of a surgical procedure. This means it is a less invasive procedure.",
+      
+      "lih2":"Faster Recovery: ",
+      "lid2":"Because it is an endoscopic procedure instead of a surgical procedure, there is usually a faster recovery.",
+
+      "lih3":"Less Risk of Complications: ",
+      "lid3":"Endoscopic stomach reduction carries less risk of complications compared to larger surgical procedures such as gastric bypass.",
+      
+      "lih4":"No Need for Anesthesia:",
+      "lid4":"The procedure is usually performed under local anesthesia, thus avoiding the risks associated with general anesthesia",
+      
+      "lih5":"Effective Weight Loss:",
+      "lid5":" Endoscopic stomach reduction can be used as a tool to achieve effective and sustainable weight loss.",
+      
+      "lih6":"Improvement of Metabolic Diseases",
+      "lid6":"The procedure can help manage obesity-related diseases such as type 2 diabetes and hypertension.",
+      
+      "lih7":"Short Hospitalization Time: ",
+      "lid7":"Patients can usually return home a few hours after the procedure.",
+      
+      "d3":"The unwanted side effects and risks of the procedure are extremely low, provided that the procedure is performed in experienced hands. According to the results of international studies, no fatal side effects have been observed so far. Bleeding at the suture sites in the stomach is one of the most common adverse events that may occur due to the procedure. However, these bleeding can be easily controlled with endoscopic interventions.      ",
+
+      "h3":"Frequently Asked Questions About Endoscopic Stomach Reduction",
+
+      "q1":"Can the stitches in the stomach be removed later?",
+      "a1":"This suture material can remain in the stomach for a long time and is resistant to stomach acid; it does not need to be removed afterwards.      ",
+
+      "q2":"Is the procedure reversible?",
+      "a2":"Within a few months after the procedure, the stomach can be restored by cutting the stitches in the stomach. However, even if the stitches are cut after this period, the stomach cannot return to its former state as the stitched parts will be stuck to each other. This is actually an advantage in terms of the permanence of the procedure.      ",
+
+      "q3":"What happens to the sewn parts?",
+      "a3":"The tissues in the stomach that have been shrunk by suturing fuse over time and remain in the stomach as shrunken but living tissue. Thanks to the tissues sticking to each other, the stomach does not open and thus its volume does not expand. The sutured parts remain in the stomach and no part of the stomach is cut out. The fact that no part of the stomach is removed ensures that the stomach continues to make enough acid, unlike in surgeries, and prevents digestive complaints. There is also no iron and vitamin deficiency.      ",
+
+      "q4":"Who can undergo endoscopic sleeve gastroplasty?",
+      "a4":"The procedure is performed on people with a body mass index (BMI) or body mass index ratio (body weight divided by the square of height) above 30. For example, a person who weighs 90 kg and is 1.68 meters tall has a BMI of 90/1.68 X 1.68 (90/2.82) 31.9. In addition to the fact that this index must be 30 and above for the procedure to be applied, another important point is that the person should not be able to lose weight despite at least 6 months of diet attempts and adequate physical activity. In summary, this procedure can be performed in people who are obese and cannot lose weight naturally.      ",
+
+      "q5":"Can this procedure be performed in people who have had stomach reduction surgery before and gained weight again?",
+      "a5":"Yes, it can be done; however, in order to give a clear answer to this question, it would be healthier to evaluate the final state of the stomach with endoscopy and make a decision accordingly.      ",
+
+      "q6":"How long does the procedure take?",
+      "a6":"Endoscopic sleeve gastroplasty takes approximately 1.5-2 hours.      ",
+
+      "q7":"Do you need hospitalization?",
+      "a7":"It is recommended to stay in the hospital for one night after the procedure for control purposes. Since the stomach shrinks after the procedure, there may be some stomach pain, nausea and vomiting. For this reason, stomach medication, nausea medication and serum are given after the procedure to ensure that the patient spends the night more comfortably. The patient is discharged the next day.      ",
+
+      "q8":"How long after the procedure can you start eating and drinking?",
+      "a8":"Start drinking water about 4 hours after the procedure. The first evening is usually consumed with water and clear liquids.      ",
+
+      "q9":"What kind of diet should be followed after the procedure?",
+      "a9":"Before the procedure, the person is evaluated by a dietician and a specific diet is organized. Before the procedure, a detailed body analysis is performed to measure the person’s muscle mass, fat ratio, visceral fat and water ratio, and these values are closely monitored in the post-procedure period. Diet is also designed according to these values. In general, we recommend only liquid nutrition in the first week after the procedure, soft foods in the form of puree in the second week and then a gradual transition to normal foods.      ",
+
+      "q10":"What are the differences of the procedure from stomach reduction surgeries?",
+      "a101":"Stomach reduction surgeries are one of the effective treatment methods frequently performed in obesity treatment in recent years; however, like other surgeries, it carries some risks in itself. In endoscopic stomach reduction, unlike surgeries, no incision is made in the abdominal skin and the abdominal cavity is not entered.      ",
+      "a102":"In addition, in surgeries, a part of the stomach is cut out and the remaining stomach parts are sewn together. In endoscopic stomach reduction, no part of the stomach is cut or removed. The stomach is reduced in size by suturing it endoscopically from the inside. In this way, risks such as intra-abdominal infection and gastric leakage due to surgery are minimized.      ",
+      "a103":" In addition, iron and vitamin deficiencies may occur after stomach reduction and gastric bypass surgeries, and iron and vitamin supplements are usually required for life. However, since no part of the stomach is removed in the endoscopic stomach reduction procedure, iron and vitamin deficiencies are not seen and therefore no supplements are needed.      ",
+      "a104":"  Stomach reduction surgeries usually require hospitalization for a few days and then a week of bed rest at home. In the endoscopic stomach reduction procedure, the patient stays in the hospital for only one night for control purposes and is discharged the next day. The patient is able to do all kinds of work within a day or two.      ",
+      "a105":"  To summarize; the biggest advantages of endoscopic stomach reduction procedures are that the complications related to the surgery, i.e. unwanted side effects, are very low and the recovery time is much faster.      ",
+
+
+      "q11":"Has the effectiveness and safety of endoscopic stomach reduction been demonstrated by scientific studies?",
+      "a11":"Both international studies and the most valuable scientific publications called “meta-analysis”, in which the data of many international studies are combined and analyzed, have proven that this procedure is a reliable and effective method. Based on this evidence, the method was approved by the FDA (American Food and Drug Administration) in 2022.      ",
+
+      "q12":"How much weight is lost after the procedure?",
+      "a12":"The expected weight loss in one year after the procedure is approximately 20-30 percent. This rate is closely related to the person’s compliance with diet and physical activity.      "
     }
 }

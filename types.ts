@@ -201,40 +201,105 @@ export type SigmoidoskopiContentType = {
   h6d2: string;
 };
 
-
 export type KapsulEndoskopiHeaderType = {
-    header: string;
-    d1: string;
-    content: string;
-    c1: string;
-    c2: string;
-    c3: string;
-    c4: string;
-    d2: string;
-    d3: string;
-    d4: string;
-   
-  };
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  d2: string;
+  d3: string;
+  d4: string;
+};
 
-  export type KapsulEndoskopiContentType = {
-    h1: string;
-    h1d1: string;
-    li1: string;
-    li2: string;
-    li3: string;
-    li4: string;
-    li5: string;
-    li6: string;
-    li7: string;
-    h2: string;
-    h2d1: string;
-    h2d2: string;
-    h2d3: string;
-    h3: string;
-    h3d1: string;
-    h3d2: string;
-    h3d3: string;
-    h3d4: string;
-    h3d5: string;
-    h3d6: string;
-  }
+export type KapsulEndoskopiContentType = {
+  h1: string;
+  h1d1: string;
+  li1: string;
+  li2: string;
+  li3: string;
+  li4: string;
+  li5: string;
+  li6: string;
+  li7: string;
+  h2: string;
+  h2d1: string;
+  h2d2: string;
+  h2d3: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+  h3d3: string;
+  h3d4: string;
+  h3d5: string;
+  h3d6: string;
+};
+
+export type EndoskopikMideKucultmeHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  d2: string;
+};
+
+export type EndoskopikMideKucultmeContentType = {
+  h1: string;
+  h1d1: string;
+  h1d2: string;
+  h1d3: string;
+  h1d4: string;
+  h2: string;
+  h2d1: string;
+  lih1: string;
+  lid1: string;
+  lih2: string;
+  lid2: string;
+  lih3: string;
+  lid3: string;
+  lih4: string;
+  lid4: string;
+  lih5: string;
+  lid5: string;
+  lih6: string;
+  lid6: string;
+  lih7: string;
+  lid7: string;
+  d3: string;
+};
+export type EndoskopikMideKucultmeFooterType = {
+  h3: string;
+  q1: string;
+  a1: string;
+  q2: string;
+  a2: string;
+  q3: string;
+  a3: string;
+  q4: string;
+  a4: string;
+  q5: string;
+  a5: string;
+  q6: string;
+  a6: string;
+  q7: string;
+  a7: string;
+  q8: string;
+  a8: string;
+  q9: string;
+  a9: string;
+  q10: string;
+  a101: string;
+  a102: string;
+  a103: string;
+  a104: string;
+  a105: string;
+  q11: string;
+  a11: string;
+  q12: string;
+  a12: string;
+};
