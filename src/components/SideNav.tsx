@@ -39,10 +39,9 @@ const SideNav = () => {
   navItems.push({ title: navThree("link1Link3"), href: "/stretta" }); // Child link3
   navItems.push({ title: navThree("link1Link4"), href: "/ph-metre" }); // Child link4
   navItems.push({ title: navThree("link1Link5"), href: "/ozofagus-manometrisi" }); // Child link5
-  console.log(navItems);
 
   return (
-    <div className="lg:w-2/6 bg-secondary/50 dark:bg-secondary/70 w-full">
+    <div className="lg:w-2/6 bg-secondary/50 dark:bg-secondary/70 w-full py-20 h-fit">
       <div className="flex flex-col gap-4 w-full p-7">
         {navItems.map((nav, i) => (
           <NavCard key={i} href={nav.href} title={nav.title} />

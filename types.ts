@@ -1,4 +1,5 @@
-export type GastroskopiPageType = {
+
+export type GastroskopiHeaderType = {
     header: string;
     d1: string;
     d2?: string;
@@ -9,7 +10,10 @@ export type GastroskopiPageType = {
     c3c1: string;
     c3c2: string;
     c4: string;
-    d4: string;
+    d3: string;
+}
+
+export type GastroskopiContentType = {
     h1: string;
     h1d1: string;
     h1d2: string;
@@ -39,9 +43,13 @@ export type GastroskopiPageType = {
     h3: string;
     h3d1: string;
     h3d2: string;
+    h3d3:string;
     h4: string;
     h4d1: string;
     h4d2: string;
+}
+
+export type GastroskopiFooterType= {
     h5: string;
     h5c1: string;
     h5d1: string;
@@ -66,4 +74,4 @@ export type GastroskopiPageType = {
     h5d10: string;
     h5c11: string;
     h5d11: string;
-};
+}
