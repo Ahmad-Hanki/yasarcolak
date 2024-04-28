@@ -7,8 +7,10 @@ const page = () => {
   return (
     <div>
       <SecHero
-        title={useLocale() == "tr" ? "Kolonoskopi" : "Colonoscopy"}
-        path={useLocale() == "tr" ? "KOLONOSKOPİ" : "COLONOSCOPY"}
+        pathEn="COLONOSCOPY"
+        pathTr="KOLONOSKOPİ"
+        titleEn="Colonoscopy"
+        titleTr="Kolonoskopi"
       />
       <div className="py-20">
         <Container>

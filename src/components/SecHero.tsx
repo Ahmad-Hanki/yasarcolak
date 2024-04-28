@@ -1,13 +1,22 @@
+
+
 import Link from "next/link";
 import Container from "./ui/Container";
 import { Home } from "lucide-react";
 import { useLocale } from "next-intl";
+
 interface SecHeroProps {
-  title: string;
-  path: string;
+  titleEn: string;
+  titleTr: string;
+  pathEn: string;
+  pathTr: string;
 }
 
-const SecHero = ({ path, title }: SecHeroProps) => {
+const SecHero = ({ titleEn, pathEn, pathTr, titleTr }: SecHeroProps) => {
+  const locale = useLocale();
+
+  const path =locale=='tr' ? pathTr : pathEn;
+  const title =locale=='tr' ? titleTr : titleEn;
   return (
     <div className="bg-secondary/50 dark:bg-secondary/70  p-6">
       <Container>
@@ -17,7 +26,7 @@ const SecHero = ({ path, title }: SecHeroProps) => {
             <Link href={"/"} className="space-x-2 flex">
               <Home size={20} />
               <p className="font-light">
-                {useLocale() == "en" ? "Main Page" : "Ana Sayfa"}
+                {locale == "en" ? "Main Page" : "Ana Sayfa"}
               </p>
             </Link>
             <p className="font-light">{`>`}</p>
