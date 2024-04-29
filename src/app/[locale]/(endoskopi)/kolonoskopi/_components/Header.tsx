@@ -3,7 +3,7 @@ import {
   KolonoskopiContentType,
   KolonoskopiFooterType,
   KolonoskopiHeaderType,
-} from "../../../../../types";
+} from "../../../../../../types";
 import Image from "next/image";
 import Content from "./Content";
 import Footer from "./Footer";
