@@ -569,5 +569,73 @@
     "h6d1":"Rutin endoskopik işlemlerden çok daha komplike olan ERCP işleminin riskleri diğer işlemlere göre daha yüksektir. İşlemdeki olası riskler; kanama, pankreas iltihabı (pankreatit) ve bağırsak delinmesidir. Bu nedenle ERCP işleminin özellikle bu konuda deneyimli bir doktor ve donanımlı bir hastanede yapılması hayati öneme sahiptir.    ",
     "h7":"İşlem Sonrası Süreç Nasıldır?    ",
     "h7d1":"ERCP işleminden sonra genellikle bir gece hastanede kalınır ve ertesi gün yapılan tetkiklerde bir sorun saptanmaması durumunda hastanın taburcu edilmesi planlanır. Her hastanın tanısı ve işlem gerekçesi farklı olduğundan hastanede kalış süreci değişebilir. Hastalığa bağlı olarak değişmekle beraber genellikle taburculuk sonrasında antibiyotik tedavisi de önerilir. İşlem sonrasında sıvı ve yağsız besinlerle gıda alımına başlanır. Şiddetli karın ağrısı, sarılık, idrar renginde koyulaşma gibi şikayetler olduğunda mutlaka doktora başvurulması gerekir. İşlemden sonraki ilk kontrol zamanı, hastalığa bağlı olarak değişmekle birlikte, genelde birkaç hafta sonrasına planlanır.    "
+  },
+  "eusPage": {
+    "header":"EUS (Endoskopik Ultrasonografi)",
+    "d1":"Endoskopik Ultrasonografi (EUS), son zamanlarda gastroenteroloji pratiğinde kritik bir rol oynayan gelişmiş bir endoskopik tekniktir. Bu yöntem, endoskopi aletinin ucuna eklenmiş özel bir ultrasonografi cihazı sayesinde yemek borusu, mide ve bağırsaklardan detaylı görüntüler elde etme fırsatı sağlar.    ",
+    "content":"İçindekiler",
+    "c1":"EUS (Endoskopik Ultrasonografi)",
+    "c2":"EUS İşlemi Kimler İçin Uygundur?",
+    "c3":"Uygulama Yöntemi ve Avantajları",
+    "c3c1":"EUS İle Pankreas Görüntülenebilir Mi?",
+    "c3c2":"Hastanede Kalış Süresi",
+    "c3c3":"İşlemin Riskleri Nelerdir?",
+    "c4":"EUS ve Endoskopi Farkı",
+    "d2":"EUS, ultrasonografinin organların içinden çok yakından görüntü alabilme kapasitesi sayesinde, özellikle tümörlerin hangi tabakalardan köken aldığını belirlemekte son derece hassas bir yöntemdir. Bu bilgiler, tümörün doğasını anlamaya yardımcı olur ve tedavi planlamasında hayati bir rol oynar.    ",
+    "d3":"Bir diğer avantajı ise, mide ve bağırsakların yanı sıra pankreas ve karaciğer gibi bitişik organlardan ve lenf nodlarından biyopsi örnekleri alabilme yeteneğidir. Örneğin, daha önce bir operasyon veya karın cildini delme yoluyla elde edilebilen pankreas tümörü örnekleri, şimdi endoskopik yöntemle, mideye ağız yoluyla girilerek, ince bir iğne yardımıyla alınabilmektedir. Alınan bu biyopsi örnekleri, endoskopik aletin içinden ağız yoluyla çıkarılır.    ",
+    "d4":"Bu teknik sadece gastroenteroloji alanında değil, aynı zamanda akciğer kanseri hastalarında torasik lenf nodlarının değerlendirilmesi ve biyopsi alınması, ayrıca akciğer kanserinin evrelemesi ve teşhisinin belirlenmesi gibi durumlarda da kullanılır.    ",
+
+    "h1":"EUS İşlemi Kimler İçin Uygundur?    ",
+    "h1d1":"EUS (Endoskopik Ultrasonografi) işlemi, genellikle aşağıdaki durumlarda uygun bir seçenek olarak değerlendirilir:    ",
+
+    "li1":"Yemek borusu, mide ve bağırsak kanserlerinin derinliğinin ve evresinin belirlenmesinde    ",
+    "li2":"Bu organlardaki tümör ve benzeri kitlelerin değerlendirilmesi ve biyopsi alınarak tanılarının konmasında    ",
+    "li3":"Pankreas kitlelerinin değerlendirilmesi ve endoskopik yöntemle biyopsi alınarak tanının konulmasında    ",
+    "li4":"Göğüs boşluğu ve karın içindeki lenf bezlerinden biyopsi alınmasında    ",
+    "li5":"Karaciğer biyopsisi yapılmasında    ",
+    "li6":"Pankreas kistlerinin boşaltılmasında    ",
+    "li7":"Kanserli hastaların ağrılarını azaltmak için sinir bloğu yapılması    ",
+
+    "h2":"Uygulama Yöntemi Ve Avantajları    ",
+    "h2d1":"Tüm endoskopik işlemlerde olduğu gibi EUS da anestezi altında yapılmaktadır. Bunun için damardan ilaç verilerek hastanın uyuması ve bu sayede işlem sırasında herhangi bir ağrı veya acı hissetmemesi sağlanır. Burada uygulanan yüzeysel bir anestezidir, ameliyatlardaki kadar derin bir anestezi değildir. Ancak kişinin herhangi bir ağrı duymayacağı ve işlemi hatırlamayacağı düzeyde anestezi verilir ve işlem bitiminde hasta uyandırılır.    ",
+    "h2d2":"İşlemin normal endoskopik uygulamadan bir farkı yoktur. Damar yolu ile ilaç uygulandıktan sonra hasta uyutulur ve hasta anestezi altındayken ucunda ultrason cihazının da bulunduğu özel bir endoskopi aleti ile bakılacak yere göre ağızdan veya makattan girilir. Ağızdan girilerek yapılan işlemlerde yemek borusu, mide veya ince bağırsaktan incelenecek alan belirlenir ve bu alandan ultrason incelemesi yapılır. Bu sayede incelenen alana çok yakın komşu organlardan bakıldığı için çok net görüntüler elde edilir ve detaylı inceleme yapılır. İşlem sadece tanısal bir inceleme veya değerlendirme olabileceği gibi şüpheli bir kitle görülmesi halinde endoskopi aletinin içinden bir iğne gönderilerek kitleden biyopsi alınır ve işlem sonlandırılır.    ",
+    "h2d3":"EUS’un en önemli avantajlarından biri, sindirim sistemindeki organları çok detaylı görüntüleme ve aynı zamanda bu organlardaki şüpheli kitlelerden biyopsi alma imkanı sağlamasıdır. Pankreastaki bir kitleden biyopsi almak için önceden ameliyat gerekirken, artık ameliyata gerek kalmaksızın EUS yöntemiyle kolaylıkla biyopsi yapılabilir. Sindirim sistemindeki bir kanserin ne kadar derine yayılım gösterdiğinin saptanmasında da en duyarlı yöntemdir. Ayrıca günümüzde sadece sindirim sisteminin değil başka sistemlerin de değerlendirilmesinde kullanılmaktadır. Örneğin, göğüs veya karın boşluğundaki lenf bezlerinin kanser olup olmadığının değerlendirilmesinde en pratik yöntemlerden biridir.    ",
+    "h3":"EUS İle Pankreas Görüntülenebilir Mi?    ",
+    "h3d1":"Günümüzde pankreas hastalıklarının teşhisi için kullanılan en duyarlı yöntemlerin başında EUS gelmektedir. Bu yöntem, hem pankreasın çok net görüntülenmesi ve değerlendirilmesinde hem de pankreastaki kitlelerin tanısının konulmasında çok önemli bir yere sahiptir. Pankreas kitlelerinde daha önceden BT (bilgisayarlı tomografi) altında veya karın açılarak alınan biyopsi işlemleri artık yerlerini EUS altında biyopsi alınmasına bırakmıştır. Özel bir endoskopi aleti ile mide içine girildikten sonra midenin hemen arkasında bulunan pankreas, mide içinden yapılan ultrason incelemesi ile çok net bir şekilde değerlendirilir. Pankreas içinde şüpheli bir kitle görülmesi halinde de mide içerisinden gönderilen ince bir iğne yardımı ile pankreastaki kitleden biyopsi alma ya da kist varsa bunu boşaltma imkanı sağlar.    ",
+    "h3d2":"Ayrıca EUS prosedürü ile aşağıdakiler de dahil olmak üzere iç organlar veya yakındaki yapılar da görüntülenebilir:    ",
+    "li8":"Akciğerler    ",
+    "li9":"Göğsün ortasındaki lenf düğümleri    ",
+    "li10":"Karaciğer    ",
+    "li11":"Safra kesesi    ",
+    "li12":"Safra Yolları    ",
+    "li13":"Pankreas    ",
+
+    "h4":"Hastanede Kalış Süresi    ",
+    "h4d1":"EUS işlemi sonrası genellikle hastanede kalmaya gerek yoktur. İşlem bittikten sonra anestezi etkisinin geçmesi için yaklaşık 20 dakika hasta kendini iyi hissedinceye kadar beklenir ve ardından taburcu edilir    ",
+    "h4d2":"İşlem sırasında anestezi alınacağı için tüm endoskopik işlemlerde olduğu gibi en az 8 saatlik açlık gereklidir. Bunun dışında özel bir hazırlığa gerek yoktur. İşlem kalın bağırsaklara yönelik ise bağırsak temizliği gerekir. Bunun dışında işlem sırasında biyopsi alınması planlanıyorsa ve hasta düzenli olarak kan sulandırıcı ilaç kullanılıyorsa işlem öncesi kan sulandırıcı ilaçların kesilmesi gerekir.    ",
+
+    "h5":"İşlemin Riskleri Nelerdir?    ",
+    "h5d1":"EUS işlemi tecrübeli ellerde yapıldığı takdirde oldukça güvenli bir uygulamadır. İşlemin olası risklerinden biri biyopsi alınması sırasında kanamadır. Ancak deneyimli ellerde gerekli önlemlerin alınması ve biyopsi öncesi damarsal yapıların dikkatli incelenmesi halinde bu risk oldukça düşüktür.    ",
+
+    "h6":"EUS Ve Endoskopi Farkı    ",
+    "h6d1":"EUS (Endoskopik Ultrasonografi) ve endoskopi, gastrointestinal sistem dahil olmak üzere vücudun iç kısımlarını görüntülemek için kullanılan iki farklı tıbbi prosedürdür. Her iki yöntem de benzer araçlar kullanmasına rağmen, temel farkları ve uygulama alanları vardır.    ",
+
+    "h6h1":"Endoskopi:",
+    "h6h1d1":" Bu prosedür, özellikle bir endoskop (ince, esnek bir tüp) kullanılarak vücudun içini doğrudan gözlemlemek için yapılır. Endoskopun ucundaki kamera, mide, yemek borusu ve bağırsak gibi organların iç yüzeylerinin görüntülerini alır. Endoskopi, mukozal yüzeylerin değerlendirilmesi, örnek alınması ve bazı durumlarda küçük müdahalelerin yapılması için kullanılır.",
+
+    "h6h2":"EUS (Endoskopik Ultrasonografi): ",
+    "h6h2d2":" EUS, endoskopi ile benzer bir yöntem olmakla birlikte, ucunda ultrason probu bulunan özel bir endoskop kullanır. Bu prob, organların ve dokuların detaylı ultrason görüntülerini sağlar. EUS, özellikle organların derin katmanlarının, çevre dokuların ve lenf bezlerinin incelenmesinde kullanılır. Biyopsi almak veya belirli tedavileri uygulamak için de EUS rehberliğinde işlemler gerçekleştirilebilir.",
+
+    "d5":"Ana Farklar:",
+    "q1":"Görüntüleme Tekniği: ",
+    "a1":"Endoskopi, doğrudan görsel inceleme sağlarken, EUS ultrason dalgaları kullanarak dokuların ve organların daha derin katmanlarının görüntülenmesine olanak tanır.",
+    "q2":"Uygulama Alanları:",
+    "a2":" Endoskopi, mukozal yüzeylerin değerlendirilmesi ve tedavisi için tercih edilirken, EUS organ ve dokuların daha derin katmanlarının incelenmesi, biyopsi alınması ve çevre yapıların değerlendirilmesi için kullanılır. EUS, özellikle pankreas, safra yolları ve gastrointestinal sistem dışındaki alanlarda bulunan tümörlerin incelenmesinde önemlidir.",
+    "q3":"İşlevsellik: ",
+    "a3":"Endoskopi, mukozal lezyonların tanımlanması, polip çıkarılması ve yabancı cisimlerin alınması gibi doğrudan müdahalelere imkan tanır. EUS ise özellikle ince iğne aspirasyonu (FNA) biyopsisi gibi ultrason rehberliğinde daha hassas işlemler için kullanılır.",
+    "q4":"Hassasiyet:",
+    "a4":"EUS, endoskopiye kıyasla, özellikle lenf nodları ve küçük tümörlerin saptanması gibi durumlarda daha hassas teşhis imkanı sunar. Bu nedenle, özellikle kanser teşhisinde ve hastalığın evrelenmesinde kritik bir rol oynar.",
+
+    "d6":"Her iki prosedür de kendi avantajlarına ve özel kullanım alanlarına sahiptir. Hangi prosedürün kullanılacağı, hastanın durumuna, teşhisin amaçlarına ve doktorun uzmanlık alanına bağlıdır. Endoskopi ve EUS, birçok durumda birbirini tamamlayıcı olarak kullanılabilir. Örneğin, endoskopi ile bir lezyonun varlığı saptandığında, EUS ile daha detaylı bir inceleme yapılarak lezyonun boyutu, derinliği ve çevre dokularla ilişkisi daha net bir şekilde belirlenebilir.    "
   }
 }
