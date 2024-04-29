@@ -13,7 +13,7 @@ const Hastalikar = () => {
   const data = [
     {
       name: "Hasta",
-      href: "/" + locale + "/endoskopik-mide-kucultmeff",
+      href:  "/endoskopik-mide-kucultmeff",
       active: pathname.includes("/endoskopik-mide-kucultmeff"),
     },
   ];

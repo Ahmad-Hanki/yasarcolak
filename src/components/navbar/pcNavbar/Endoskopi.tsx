@@ -16,7 +16,6 @@ interface dataProps {
 }
 
 const Endoskopi = ({t1}: dataProps) => {
-  const { locale } = useParams();
 
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
@@ -24,22 +23,22 @@ const Endoskopi = ({t1}: dataProps) => {
   const data = [
     {
       name: t1.link1,
-      href: "/" + locale + "/gastroskopi",
+      href:  "/gastroskopi",
       active: pathname.includes("/gastroskopi"),
     },
     {
       name: t1.link2,
-      href: "/" + locale + "/kolonoskopi",
+      href:  "/kolonoskopi",
       active: pathname.includes("/kolonoskopi"),
     },
     {
       name: t1.link3,
-      href: "/" + locale + "/sigmoidoskopi",
+      href:  "/sigmoidoskopi",
       active: pathname.includes("/sigmoidoskopi"),
     },
     {
       name: t1.link4,
-      href: "/" + locale + "/kapsul-endoskopi",
+      href:  "/kapsul-endoskopi",
       active: pathname.includes("/kapsul-endoskopi"),
     },
   ];

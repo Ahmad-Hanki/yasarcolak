@@ -17,17 +17,16 @@ interface dataProps {
 const Obezite = ({t2}:dataProps) => {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const { locale } = useParams();
 
   const data = [
     {
       name: t2.link1,
-      href:"/"+locale+ "/endoskopik-mide-kucultme",
+      href:"/endoskopik-mide-kucultme",
       active: pathname.includes("/endoskopik-mide-kucultme"),
     },
     {
       name: t2.link2,
-      href: "/"+locale+ "/mide-balonu",
+      href: "/mide-balonu",
       active: pathname.includes("/mide-balonu"),
     },
   ];

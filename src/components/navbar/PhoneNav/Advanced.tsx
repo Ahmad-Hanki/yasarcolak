@@ -1,7 +1,7 @@
 "use client";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
-import { useParams, usePathname } from "next/navigation";
+import { usePathname } from "next/navigation";
 interface AdvancedProps {
   t3: {
     title: string;
@@ -27,52 +27,51 @@ interface AdvancedProps {
 
 const Advanced = ({ t3 }: AdvancedProps) => {
   const pathname = usePathname();
-  const { locale } = useParams();
 
   const data = [
     {
       name: "Poem",
-      href: "/" + locale + "/poem",
+      href: "/poem",
       active: pathname.includes("/poem"),
     },
     {
       name: "Ercp",
-      href: "/" + locale + "/ercp",
+      href: "/ercp",
       active: pathname.includes("/ercp"),
     },
     {
       name: "Eus",
-      href: "/" + locale + "/eus",
+      href: "/eus",
       active: pathname.includes("/eus"),
     },
     {
       name: "Emr",
-      href: "/" + locale + "/emr",
+      href: "/emr",
       active: pathname.includes("/emr"),
     },
     {
       name: "Poem",
-      href: "/" + locale + "/esd",
+      href: "/esd",
       active: pathname.includes("/esd"),
     },
     {
       name: "Eftr",
-      href: "/" + locale + "/eftr",
+      href: "/eftr",
       active: pathname.includes("/eftr"),
     },
     {
       name: t3.link8,
-      href: "/" + locale + "/endoskopik-stent-uygulamalari",
+      href: "/endoskopik-stent-uygulamalari",
       active: pathname.includes("/endoskopik-stent-uygulamalari"),
     },
     {
       name: t3.link9,
-      href: "/" + locale + "/peg",
+      href: "/peg",
       active: pathname.includes("/peg"),
     },
     {
       name: t3.link10,
-      href: "/" + locale + "/argon-plazma-koagulasyon",
+      href: "/argon-plazma-koagulasyon",
       active: pathname.includes("/argon-plazma-koagulasyon"),
     },
   ];
@@ -80,27 +79,27 @@ const Advanced = ({ t3 }: AdvancedProps) => {
   const link1Data = [
     {
       name: t3.link1.link1,
-      href: "/" + locale + "/arma",
+      href: "/arma",
       active: pathname.includes("/arma"),
     },
     {
       name: t3.link1.link2,
-      href: "/" + locale + "/endoskopik-fundoplikasyon",
+      href: "/endoskopik-fundoplikasyon",
       active: pathname.includes("/endoskopik-fundoplikasyon"),
     },
     {
       name: t3.link1.link3,
-      href: "/" + locale + "/stretta",
+      href: "/stretta",
       active: pathname.includes("/stretta"),
     },
     {
       name: t3.link1.link4,
-      href: "/" + locale + "/ph-metre",
+      href: "/ph-metre",
       active: pathname.includes("/ph-metre"),
     },
     {
       name: t3.link1.link5,
-      href: "/" + locale + "/ozofagus-manometrisi",
+      href: "/ozofagus-manometrisi",
       active: pathname.includes("/ozofagus-manometrisi"),
     },
   ];

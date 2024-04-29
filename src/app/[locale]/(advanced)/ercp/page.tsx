@@ -1,19 +1,19 @@
 import SecHero from "@/components/SecHero";
 import Container from "@/components/ui/Container";
-import PoemClient from "./_components/PoemClient";
+import ErcpClient from "./_components/ErcpClient";
 
 const page = () => {
   return (
     <div>
       <SecHero
-        pathEn="POEM"
-        pathTr="POEM"
-        titleEn="Poem"
-        titleTr="Poem"
+        pathEn="ERCP"
+        pathTr="ERCP"
+        titleEn="Ercp"
+        titleTr="Ercp"
       />
       <div className="py-20">
         <Container>
-          <PoemClient />
+          <ErcpClient />
         </Container>
       </div>
     </div>

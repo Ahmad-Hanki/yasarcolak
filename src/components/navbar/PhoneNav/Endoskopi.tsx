@@ -2,7 +2,7 @@
 
 import { cn } from "@/lib/utils";
 import Link from "next/link";
-import { useParams, usePathname } from "next/navigation";
+import {  usePathname } from "next/navigation";
 
 interface dataProps {
   t1: {
@@ -16,27 +16,26 @@ interface dataProps {
 
 const Endoskopi = ({ t1 }: dataProps) => {
   const pathname = usePathname();
-  const { locale } = useParams();
 
   const data = [
     {
       name: t1.link1,
-      href: "/" + locale + "/gastroskopi",
+      href: "/gastroskopi",
       active: pathname.includes("/gastroskopi"),
     },
     {
       name: t1.link2,
-      href: "/" + locale + "/kolonoskopi",
+      href: "/kolonoskopi",
       active: pathname.includes("/kolonoskopi"),
     },
     {
       name: t1.link3,
-      href: "/" + locale + "/sigmoidoskopi",
+      href: "/sigmoidoskopi",
       active: pathname.includes("/sigmoidoskopi"),
     },
     {
       name: t1.link4,
-      href: "/" + locale + "kapsul-endoskopi",
+      href: "kapsul-endoskopi",
       active: pathname.includes("kapsul-endoskopi"),
     },
   ];

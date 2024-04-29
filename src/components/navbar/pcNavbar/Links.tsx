@@ -9,12 +9,12 @@ const Links = () => {
 
   const Links = [
     {
-      href: "/" + locale + "/blogs",
+      href: "/blogs",
       name: "Blog",
       active: pathname.includes("/blogs"),
     },
     {
-      href: "/" + locale + "/iletisim",
+      href: "/iletisim",
       name: locale == "en" ? "Contact" : "Iletisim",
       active: pathname.includes("/iletisim"),
     },

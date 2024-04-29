@@ -401,3 +401,37 @@ export type PoemContentType = {
   h5: string;
   h5d1: string;
 };
+
+export type ErcpHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c3c1: string;
+  c3c2: string;
+  c3c3: string;
+  c3c4: string;
+  c3c5: string;
+};
+
+export type ErcpContentType = {
+  h1: string;
+  h1d1: string;
+  h1d2: string;
+  h2: string;
+  h2d1: string;
+  h2d2: string;
+  h3: string;
+  h3d1: string;
+  h4: string;
+  h4d1: string;
+  h4d2: string;
+  h5: string;
+  h5d1: string;
+  h6: string;
+  h6d1: string;
+  h7: string;
+  h7d1: string;
+};
