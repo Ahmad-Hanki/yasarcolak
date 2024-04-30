@@ -6,10 +6,10 @@ const page = () => {
   return (
     <div>
       <SecHero
-        pathEn="EUS"
-        pathTr="EUS"
-        titleEn="Eus"
-        titleTr="Eus"
+        pathEn="ARGON PLASMA COAGULATION        "
+        pathTr="ARGON PLAZMA KOAGÜLASYON        "
+        titleEn="Argon Plasma Coagulation        "
+        titleTr="Argon Plazma Koagülasyon        "
       />
       <div className="py-20">
         <Container>

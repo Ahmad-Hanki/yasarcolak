@@ -777,7 +777,7 @@
     "h3d2": "Percutaneous Endoscopic Gastrostomy (PEG) is a valuable tool for meeting the long-term enteral feeding needs of specific patients. This technique can significantly improve the quality of life for patients requiring this type of nutrition method. However, the risks and benefits of the PEG procedure should be carefully evaluated for each patient, and this assessment should be done through detailed discussion with your doctor."
   },
 
-  "endoskopikStentUygulamalariPage": {
+  "argonPlazmaKoagulasyonPage": {
     "header": "Argon Plasma Coagulation (APC)",
     "d1": "Argon Plasma Coagulation (APC) is a medical endoscopic procedure used to control bleeding caused by certain lesions in the gastrointestinal system and to shrink tumors for which surgery is not recommended. APC involves the use of ionized argon gas (plasma) jet directed through a probe passed through an endoscope.",
     "content": "Contents",
@@ -830,5 +830,61 @@
     "lid8": "When electrical current is applied, the argon gas turns into plasma. This plasma delivers energy to the tissue, resulting in coagulation (searing) of the tissue. Coagulation occurs only on the surface, minimizing deep tissue damage.",
     "lih9": "Completion of the Procedure",
     "lid9": "When the necessary coagulation is completed, the device is turned off, and the endoscope is carefully removed."
+  },
+
+  "armaPage": {
+    "header": "ARMA (Anti Reflux Mucosal Ablation)",
+    "d1": "Gastroesophageal reflux disease (GERD) is a common health problem that significantly affects the quality of life for many people today. Proton pump inhibitors (PPIs) are considered the first-line treatment for GERD. However, new treatment methods are being researched for patients who do not respond to treatment or want to avoid the risks associated with medication use. One of these methods is ARMA, or Anti Reflux Mucosal Ablation.",
+    "content": "Content",
+    "c1": "ARMA (Anti Reflux Mucosal Ablation)",
+    "c2": "Who is ARMA Method Applied to?",
+    "c3": "ARMA Procedure",
+    "c4": "Advantages of ARMA Treatment",
+
+    "d2": "ARMA method is a highly effective and safe endoscopic procedure that has been used in recent years. During gastroscopy, it involves burning the circular surface of the adjacent stomach to the junction of the stomach and esophagus using a method called 'argon plasma coagulation'. Over time, the edges of the burned area will come together during wound healing, thereby eliminating the looseness in that area within a month. Thus, patients with reflux complaints can get rid of their complaints with a permanent solution without the need for surgery.",
+
+    "h1": "Who is ARMA Method Applied to?",
+    "h1d1": "ARMA provides an alternative for patients who are not satisfied with proton pump inhibitor therapy or who cannot accept continuous medication use. It is particularly ideal for patients resistant to PPIs and individuals with mild to moderate impaired gastroesophageal junction structures. Compared to more invasive methods such as laparoscopic anti-reflux surgery, ARMA, which is an endoscopic procedure, is also an attractive option for those who fear surgery.",
+
+    "h2": "ARMA Procedure",
+    "h2d1": "Gastroesophageal reflux disease (GERD) is the condition where stomach contents reflux into the esophagus, causing irritation to its inner surface. Long-term GERD can lead to erosions in the esophagus and eventually serious complications such as Barrett's esophagus.",
+    "h2d2": "The ARMA (Anti Reflux Mucosal Ablation) procedure is developed to treat the damage caused by GERD. Essentially, this procedure aims to reduce reflux symptoms by burning the damaged tissue layer on the inner surface of the esophagus and promoting the growth of healthy new cells.",
+    "h2d3": "The ARMA procedure is usually performed under endoscopy. In this procedure, the patient is placed under general anesthesia or sedation, and an endoscope is inserted through the mouth into the esophagus. The inner surface of the esophagus is examined with the endoscope, and the damaged tissue layer is intervened. The procedure is applied when the patient has fasted for at least 6 hours. The procedure is usually completed within 30 minutes. Mucosal ablation is performed using argon plasma coagulation, which leads to the narrowing of the stomach valve and thus reduces reflux symptoms.",
+    "h2d4": "After the ablation procedure, the inner surface of the esophagus usually heals within a few weeks. During this time, most patients report a significant decrease in reflux symptoms. Patients may be advised to make changes in their eating habits for the effects of ARMA treatment to be permanent.",
+
+    "h3": "Advantages of ARMA Treatment",
+    "liq1": "Minimally Invasive:",
+    "liqd1": "ARMA is a minimally invasive procedure since it is an endoscopic procedure. This allows for rapid patient recovery and short hospital stays.",
+    "liq2": "Short Recovery Time:",
+    "liqd2": "The ARMA procedure typically has a fast recovery time. Most patients can return to normal activities within a few weeks after the procedure.",
+    "liq3": "Reduction in Symptoms:",
+    "liqd3": "The ARMA procedure reduces irritation in the esophagus, thereby alleviating reflux symptoms. This significantly improves the patient's quality of life.",
+    "liq4": "Quick Return to Social Life:",
+    "liqd4": "The return to social life after treatment is quick. Patients can resume normal activities after overcoming the effects of anesthesia and resting for a few hours. In the long term, ARMA treatment can provide permanent improvement in GERD symptoms, and no recurrence of reflux has been reported after surgery."
+  },
+
+  "endoskopikFundoplikasyonPage": {
+    "header": "Endoscopic Fundoplication",
+    "d1": "Endoscopic fundoplication is an endoscopic method applied to patients with reflux complaints who do not respond sufficiently to medication treatment. Using special equipment, a type of endoscopic suturing is performed to narrow the area where the esophagus and stomach meet. The endoscopic fundoplication method is the endoscopic application of a type of surgery called 'Nissen fundoplication'.",
+    "content": "Contents",
+    "c1": "Endoscopic Fundoplication",
+    "c2": "Effective Treatment for Gastroesophageal Reflux",
+    "c3": "What is Endoscopic Fundoplication and How Does It Work?",
+    "c4": "Advantages and Disadvantages",
+
+    "h1": "Effective Treatment for Gastroesophageal Reflux",
+    "h1d1": "This procedure is a minimally invasive procedure used in reflux treatment. In this procedure performed under general anesthesia, a small suturing procedure is performed at the lower part of the esophagus. This makes it difficult for stomach contents to reflux into the esophagus, thus alleviating reflux symptoms.",
+    "h1d2": "During the procedure, an endoscope (thin, flexible tube) is inserted through the patient's mouth into the stomach. The lower part of the esophagus is visible with the endoscope, and a suturing procedure is performed here. This procedure is usually completed within a few hours, and patients can return home the same day.",
+
+    "h2": "Advantages and Disadvantages",
+    "h2d1": "Endoscopic fundoplication is an effective method to alleviate GERD symptoms. Since the procedure is minimally invasive, there is usually a fast recovery time. Additionally, it has fewer side effects compared to other surgical options.",
+    "h2d2": "Like any medical procedure, endoscopic fundoplication also has some potential disadvantages. For example, although rare, complications may occur during the procedure. Additionally, some patients may experience reflux symptoms for a period after the procedure.",
+    "h2d3": "In conclusion, endoscopic fundoplication may be an effective option for the treatment of GERD. However, to determine the best treatment option for each patient, it is most accurate for the doctor and patient to evaluate the options together.",
+
+    "q1": "Who is Endoscopic Fundoplication Suitable for?",
+    "a1": "This procedure may be a good option for reflux patients who do not respond to medications or do not want to use medications. Additionally, patients who are not suitable for a more invasive surgical procedure such as laparoscopic fundoplication may consider this procedure.",
+    "q2": "Recovery Process After Endoscopic Fundoplication",
+    "q2a1": "The recovery process after the procedure is generally fast. Patients can return to normal activities within a few days after the procedure. However, full recovery usually takes a few weeks. During this time, it is important for patients to follow a specific diet and comply with their doctor's instructions.",
+    "d3": "In conclusion, gastroesophageal reflux disease can significantly affect quality of life. However, advanced treatment options such as endoscopic fundoplication can help alleviate these symptoms."
   }
 }

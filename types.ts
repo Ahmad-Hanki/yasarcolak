@@ -689,5 +689,32 @@ export type ArgonPlazmaKoagulasyonContentType =  {
   lid9: string;
 }
 
+export type ArmaHeaderType =  {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  d2: string;
+}
 
-
+export type ArmaContentType =  {
+  h1: string;
+  h1d1: string;
+  h2: string;
+  h2d1: string;
+  h2d2: string;
+  h2d3: string;
+  h2d4: string;
+  h3: string;
+  liq1: string;
+  liqd1: string;
+  liq2: string;
+  liqd2: string;
+  liq3: string;
+  liqd3: string;
+  liq4: string;
+  liqd4: string;
+}
