@@ -7,7 +7,7 @@ import Navbar from "@/components/navbar/Navbar";
 import { useLocale } from "next-intl";
 import { unstable_setRequestLocale } from "next-intl/server";
 import Footer from "@/components/footer/Footer";
-
+import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -28,6 +28,7 @@ export default function RootLayout({
   return (
     <html lang={params.locale}>
       <body className={inter.className}>
+        <Toaster position="top-center" reverseOrder={true} />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"

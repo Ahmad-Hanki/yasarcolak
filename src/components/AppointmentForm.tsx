@@ -13,6 +13,8 @@ import { useEffect, useState } from "react";
 import PhoneInput from "react-phone-input-2";
 import { Textarea } from "./ui/textarea";
 import { Button } from "./ui/button";
+import SubmitButton from "./ui/SubmitButton";
+import toast from "react-hot-toast";
 
 type AppointmentForm = {
   form: {
@@ -42,6 +44,36 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
     console.log(formattedValue);
   };
 
+  const handleSubmit = (formData: FormData) => {
+    const name = formData.get("name")?.toString();
+    if (!name || name == "") {
+      toast.error("No Name was added!");
+      return;
+    }
+
+    const phoneValidated = phone.replace(/\D/g, "");
+    console.log(phoneValidated);
+    if (phoneValidated.length < 9) {
+      toast.error("Please provide a valid phone number!");
+      return;
+    }
+
+    const email = formData.get("email")?.toString();
+
+    if (!email || email == "") {
+      toast.error("No Email was added!");
+      return;
+    }
+
+    const message = formData.get("message")?.toString();
+
+    if (!message || message == "") {
+      toast.error("No Message was added!");
+      return;
+    }
+
+    toast.success("Sended Successfully");
+  };
   return (
     <div className="text-secondary-foreground flex-1 ">
       <Card className="h-full space-y-16">
@@ -57,7 +89,10 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
           </CardDescription>
         </CardHeader>
         <CardContent className="h-full">
-          <form className="w-full flex flex-col justify-start gap-6">
+          <form
+            action={handleSubmit}
+            className="w-full flex flex-col justify-start gap-6"
+          >
             <div className="flex-1">
               <Input
                 type="text"
@@ -102,7 +137,7 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
                 placeholder={form.message}
               />
             </div>
-            <Button>submir</Button>
+            <SubmitButton message={form.message} />
           </form>
         </CardContent>
       </Card>
