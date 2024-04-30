@@ -1031,5 +1031,17 @@
     "h4": "Risks of Esophageal Manometry Test",
     "h4d1": "Esophageal manometry is generally a safe procedure, but like any medical procedure, it carries some risks. Mild discomfort may be experienced during catheter insertion. Additionally, there is a very rare risk of infection.",
     "h4d2": "Esophageal manometry is an important tool in understanding swallowing disorders and reflux. This procedure is essential for making an accurate diagnosis and creating an effective treatment plan. Consult your doctor for detailed information."
+  },
+
+  "contantPage": {
+    "h1":"Adres",
+    "h1d1":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul    ",
+
+    "h2":"Telefon",
+    "h2d1":"+90 546 110 91 12    ",
+
+    "h3":"E-Mail",
+    "h3d1":"info@yasarcolak.com"
+
   }
 }

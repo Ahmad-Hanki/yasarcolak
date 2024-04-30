@@ -1025,5 +1025,16 @@
     "h4":"Özofagus Manometri Testinin Riskleri Nelerdir?    ",
     "h4d1":"Özofagus manometrisi genellikle güvenli bir prosedürdür ancak her tıbbi işlem gibi bazı riskleri vardır. Kateterin yerleştirilmesi sırasında hafif rahatsızlık hissi yaşanabilir. Ayrıca, çok nadir durumlarda enfeksiyon riski vardır.    ",
     "h4d2":"Özofagus manometrisi, yutma bozukluklarını ve reflüyü anlamada önemli bir araçtır. Bu işlem, doğru teşhisi koymak ve etkili bir tedavi planı oluşturmak için önemli bir araçtır. Detaylı bilgi için doktorunuzla konuşunuz.    "
+  },
+  "contantPage": {
+    "h1":"Address",
+    "h1d1":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul    ",
+
+    "h2":"Phone",
+    "h2d1":"+90 546 110 91 12    ",
+
+    "h3":"E-Mail",
+    "h3d1":"info@yasarcolak.com"
+
   }
 }
