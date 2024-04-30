@@ -6,10 +6,10 @@ const page = () => {
   return (
     <div>
       <SecHero
-        titleEn=" Arma"
-        pathEn="ARMA"
-        pathTr=" ARMA"
-        titleTr=" Arma"
+        titleEn=" PH Meter        "
+        pathEn="PH METER        "
+        pathTr=" PH METRE        "
+        titleTr=" PH Metre        "
       />
       <div className="py-20">
         <Container>

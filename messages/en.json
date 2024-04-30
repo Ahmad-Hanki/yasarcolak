@@ -878,7 +878,7 @@
     "h2": "What is Endoscopic Fundoplication and How Does It Work?",
     "h2d1": "This procedure is a minimally invasive procedure used in reflux treatment. In this procedure performed under general anesthesia, a small suturing procedure is performed at the lower part of the esophagus. This makes it difficult for stomach contents to reflux into the esophagus, thus alleviating reflux symptoms.",
     "h2d2": "During the procedure, an endoscope (thin, flexible tube) is inserted through the patient's mouth into the stomach. The lower part of the esophagus is visible with the endoscope, and a suturing procedure is performed here. This procedure is usually completed within a few hours, and patients can return home the same day.",
-    
+
     "h3": "Advantages and Disadvantages",
     "h3d1": "Endoscopic fundoplication is an effective method to alleviate GERD symptoms. Since the procedure is minimally invasive, there is usually a fast recovery time. Additionally, it has fewer side effects compared to other surgical options.",
     "h3d2": "Like any medical procedure, endoscopic fundoplication also has some potential disadvantages. For example, although rare, complications may occur during the procedure. Additionally, some patients may experience reflux symptoms for a period after the procedure.",
@@ -903,7 +903,7 @@
 
     "d2": "The Stretta method uses radiofrequency energy to increase the functionality of the sphincter between the esophagus and the stomach. During the Stretta procedure, a gastroenterologist places a catheter into the patient's esophagus and emits radiofrequency waves at the entry point to the stomach. These waves tighten the muscles around the sphincter, making it difficult for stomach acid to reflux into the esophagus.",
     "d3": "Gastroesophageal reflux disease (GERD) is a common condition experienced by many people. In this condition, stomach acid refluxes into the esophagus, causing discomforting symptoms. There are several options for treating GERD, and the Stretta procedure is one of these options.",
-    
+
     "h1": "How is the Stretta Procedure Performed?",
     "h1d1": "The Stretta procedure is usually performed under light sedation. During the procedure, the doctor advances an endoscope (thin, flexible tube) from the patient's mouth to the esophagus. Then, radiofrequency energy is applied at the lower part of the esophagus. This energy strengthens the muscles at the lower part of the esophagus, thereby preventing the reflux of stomach acid.",
     "h1d2": "Failure to treat gastroesophageal reflux disease can lead to various complications in the long term. Prolonged exposure to acid in the esophagus increases the risk of Barrett's esophagus and esophageal cancer, highlighting the importance of treatment. Minimal invasive treatment methods such as Stretta can play a significant role in preventing such serious health issues.",
@@ -953,23 +953,83 @@
     "h3": "PH Metre Testinin Avantajları Nelerdir?",
     "h3d1": "Diagnosing reflux with PH Meter allows for a precise diagnosis even in patients with no apparent symptoms. 24-hour continuous measurement allows patients to monitor their acid levels under different activities and foods. This can help personalize the treatment approach.",
     "h3d2": "Reflux testing with PH meter plays a significant role in the diagnosis of gastroesophageal reflux disease (GERD). There are many advantages to using this test:",
-    
+
     "lih1": "Precise Diagnosis:",
     "lid1": "PH Meter reflux test allows for a precise diagnosis of reflux even in patients with no apparent symptoms or typical symptoms. This is valuable for determining the correct treatment approach in the early stages of the disease.",
-    
+
     "lih2": "Continuous Monitoring:",
     "lid2": "PH meter monitors acidity levels in the esophagus for 24 hours. This helps determine when and how often acid reflux occurs during the patient's eating, sleeping, and other daily activities.",
-    
+
     "lih3": "Personalized Treatment:",
     "lid3": "24-hour continuous measurement allows patients to monitor their acid levels under different activities and foods. This information helps the doctor create a personalized treatment plan. Identifying which foods or activities exacerbate reflux symptoms provides valuable information about lifestyle changes the patient needs to make.",
-    
+
     "lih4": "Evaluation of Medication Efficacy:",
     "lid4": "PH meter test can also be used to evaluate the effectiveness of current medication therapy. If medication therapy does not reduce acidity levels, the treatment approach may need to be reviewed.",
-    
+
     "d2": "For these reasons, reflux testing with PH meter allows doctors to accurately diagnose reflux disease, determine an effective treatment plan, and monitor the treatment process.",
-    
+
     "h4": "PH Metre Testinin Riskleri Nelerdir?",
     "h4d1": "Reflux testing with PH meter is generally a safe procedure, but like any medical procedure, it has some risks. Mild discomfort may be experienced during tube insertion. In rare cases, insertion of the tube may cause mild irritation in the esophagus.",
     "h4d2": "The use of PH meter in reflux diagnosis helps in making a correct diagnosis and determining the most effective treatment plan. Consult a gastroenterologist for detailed information."
+  },
+
+  "EsophagealManometry": {
+    "header": "Esophageal Manometry: Reliable Method for Diagnosing Reflux and Swallowing Difficulty",
+    "d1": "Esophageal manometry is a test that measures the movements and pressure changes of the esophagus. This test is used to understand how the esophagus works, especially in people experiencing difficulty swallowing or symptoms of reflux.",
+    "content": "Table of Contents",
+    "c1": "Esophageal Manometry: Reliable Method for Diagnosing Reflux and Swallowing Difficulty",
+    "c2": "What is the Purpose of Esophageal Manometry and Why is it Done?",
+    "c3": "How is Esophageal Manometry Performed?",
+    "c4": "Advantages of Esophageal Manometry Test",
+    "c5": "Risks of Esophageal Manometry Test",
+
+    "h1": "What is the Purpose of Esophageal Manometry and Why is it Done?",
+    "h1d1": "Esophageal manometry is a test that measures the contraction and relaxation movements of the esophagus. The esophagus is a tube that extends from the mouth to the stomach and has peristaltic movements that carry the food and liquids you swallow to the stomach. Esophageal manometry is used to check whether these movements are normal.",
+    "h1d2": "This test is typically recommended for the following conditions:",
+
+    "lih1": "Esophageal Spasm:",
+    "lid1": "This swallowing problem is characterized by numerous, strong, poorly coordinated muscle contractions of the esophagus.",
+
+    "lih2": "Achalasia",
+    "lid2": "This rare condition occurs when the lower esophageal sphincter muscle does not relax to allow food to enter the stomach. This can cause difficulty swallowing and food regurgitation into the throat.",
+
+    "lih3": "Scleroderma:",
+    "lid3": "In many people with this rare disease, the muscles in the lower esophagus stop moving, causing severe gastroesophageal reflux.",
+
+    "d2": "If your doctor has recommended anti-reflux surgery to treat gastroesophageal reflux disease (GERD), you may need esophageal manometry to ensure that anti-reflux surgery cannot help if you have achalasia or scleroderma.",
+
+    "h2": "How is Esophageal Manometry Performed?",
+    "h2d1": "Esophageal manometry is usually performed using a thin, flexible tube (catheter) passed through your nose and into the esophagus. This tube takes pressure readings at various parts of the esophagus. During swallowing, it is examined whether the esophagus contracts properly and how it carries food to the stomach.",
+    "h2d2": "The following steps are followed during esophageal manometry:",
+
+    "lih4": "Preparation:",
+    "lid4": "Before the procedure, the patient's stomach must be completely empty. Therefore, patients are usually asked not to eat or drink water for at least 6 hours before the procedure.",
+
+    "lih5": "Anesthesia: ",
+    "lid5": "Local anesthesia is typically used. This is necessary to provide patient comfort and minimize discomfort during the procedure. Anesthesia is usually applied in spray form to the nose.",
+
+    "lih6": "Catheter Insertion: ",
+    "lid6": "After anesthesia, a special catheter is advanced from your nose to your esophagus and stomach. This catheter has multiple sensors that can take pressure measurements at various parts of the esophagus.",
+
+    "lih7": "Pressure Measurements:",
+    "lid7": "After the catheter is inserted, it measures the muscle movements and pressure changes in the esophagus. This stage usually involves swallowing movements; measurements are taken while the patient swallows specific amounts of water.",
+
+    "lih8": "Data Collection and Evaluation:",
+    "lid8": "The data obtained during the measurements are then recorded on a computer for analysis and evaluation. This data is used to assess the functioning of the esophagus and identify potential problems.",
+
+    "lih9": "Catheter Removal: ",
+    "lid9": "After the procedure is completed, the catheter is carefully removed.",
+
+    "d3": "Esophageal manometry usually takes between 30 minutes to 1 hour and is typically performed on an outpatient basis. After the procedure, the patient can usually resume normal activities. However, some patients may experience mild throat discomfort after the procedure.",
+
+    "h3": "Advantages of Esophageal Manometry Test",
+    "h3h1":"Precise Diagnosis:",
+    "h3d1": " Esophageal manometry is an effective tool in understanding the functioning of the esophagus in individuals with swallowing disorders and reflux symptoms. By measuring the movements and pressure changes of the esophagus, it allows determination of the source of swallowing problems or reflux.",
+    "h3h2":"Treatment Planning:",
+    "h3d2": " Esophageal manometry helps identify problems in esophageal function. This information is crucial in planning and personalizing the treatment approach.",
+
+    "h4": "Risks of Esophageal Manometry Test",
+    "h4d1": "Esophageal manometry is generally a safe procedure, but like any medical procedure, it carries some risks. Mild discomfort may be experienced during catheter insertion. Additionally, there is a very rare risk of infection.",
+    "h4d2": "Esophageal manometry is an important tool in understanding swallowing disorders and reflux. This procedure is essential for making an accurate diagnosis and creating an effective treatment plan. Consult your doctor for detailed information."
   }
 }

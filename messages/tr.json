@@ -962,5 +962,68 @@
     "h4":"PH Metre Testinin Riskleri Nelerdir?    ",
     "h4d1":"PH metre ile reflü testi genellikle güvenli bir prosedürdür ancak her tıbbi işlem gibi bazı riskleri vardır. Tüpün yerleştirilmesi sırasında hafif rahatsızlık hissi yaşanabilir. Nadir durumlarda, tüpün yerleştirilmesi yemek borusunda hafif tahrişe yol açabilir.    ",
     "h4d2":"Reflü tanısında PH metre kullanımı, doğru teşhisi koyarak en etkili tedavi planının belirlenmesine yardımcı olur. Detaylı bilgi için bir gastroenteroloji uzmanı ile konuşunuz.    "
+  }, 
+
+  "EsophagealManometry": {
+    "header":"Özofagus Manometrisi: Reflü Ve Yutma Güçlüğü Tanısında Güvenilir Yöntem    ",
+    "d1":"Özofagus manometrisi, yemek borusunun (özofagus) hareketlerini ve basınç değişikliklerini ölçen bir testtir. Bu test, yemek borusunun nasıl çalıştığını anlamak için kullanılır ve özellikle yutma güçlüğü yaşayan veya reflü belirtileri olan kişilerde uygulanır.    ",
+    "content":"İçindekiler",
+    "c1":"Özofagus Manometrisi: Reflü ve Yutma Güçlüğü Tanısında Güvenilir Yöntem",
+    "c2":"Özofagus Manometrisi Testinin Amacı Nedir ve Neden Yapılır?",
+    "c3":"Özofagus Manometrisi Nasıl Yapılır?",
+    "c4":"Özofagus Manometri Testinin Avantajları Nelerdir?",
+    "c5":"Özofagus Manometri Testinin Riskleri Nelerdir?",
+
+    "h1":"Özofagus Manometrisi Testinin Amacı Nedir Ve Neden Yapılır?    ",
+    "h1d1":"Özofagus manometrisi, yemek borusunun kasılma ve gevşeme hareketlerini ölçen bir testtir. Yemek borusu (özofagus), ağızdan midenize kadar uzanan bir tüptür ve yuttuğunuz gıdaları ve sıvıları mideye taşıyan kasılma hareketlerine (peristaltik hareketler) sahiptir. Özofagus manometrisi, bu hareketlerin düzgün olup olmadığını kontrol etmek için kullanılır.    ",
+    "h1d2":"Bu test genellikle, aşağıdaki durumlar için önerilir:    ",
+
+    "lih1":"Yemek Borusu Spazmı:",
+    "lid1":"Bu yutma problemi, özofagusun çok sayıda, kuvvetli, kötü koordineli kas kasılmaları ile karakterize edilir.",
+
+    "lih2":"Akalazya",
+    "lid2":"Bu nadir durum, alt yemek borusu sfinkter kasının yiyeceğin mideye girmesine izin verecek şekilde gevşemediğinde ortaya çıkar. Bu, yutma güçlüğüne ve yiyeceğin boğaza geri gelmesine neden olabilir.",
+
+    "lih3":"Skleroderma:",
+    "lid3":"Bu nadir görülen hastalığı olan birçok insanda, alt yemek borusundaki kaslar hareket etmeyi bırakarak ciddi derecede gastroözofageal reflüye yol açar.",
+
+    "d2":"Doktorunuz gastroözofageal reflü hastalığını (GÖRH) tedavi etmek için anti-reflü cerrahisi önerdiyse, GÖRH cerrahisinin yardımcı olamayacağı akalazya veya skleroderma olmadığından emin olmak için özofagus manometrisine ihtiyacınız olabilir.    ",
+
+    "h2":"Özofagus Manometrisi Nasıl Yapılır?    ",
+    "h2d1":"  Özofagus manometrisi, genellikle burnunuzdan geçirilen ve yemek borusuna ulaşan ince, esnek bir tüp (kateter) kullanılarak yapılır. Bu tüp, yemek borusunun çeşitli bölgelerinde basınç okumaları yapar. Yutma eylemi sırasında, yemek borusunun düzgün bir şekilde kasılıp kasılmadığı ve yemekleri mideye doğru nasıl taşıdığı incelenir.    ",
+    "h2d2":"Özofagus manometrisi yapılırken aşağıdaki adımlar izlenir:    ",
+
+    "lih4":"Hazırlık:",
+    "lid4":" İşlem öncesi, hastanın midesi tamamen boş olmalıdır. Bu nedenle genellikle hastalardan işlemden en az 6 saat önce yemek yememeleri ve su içmemeleri istenir.",
+
+    "lih5":"Anestezi: ",
+    "lid5":"Genellikle lokal anestezi kullanılır. Bu, hasta konforunu sağlamak ve işlem sırasında rahatsızlık hissini en aza indirmek için gereklidir. Anestezi genellikle buruna sprey şeklinde uygulanır.",
+
+    "lih6":"Kateter Yerleştirme: ",
+    "lid6":" Anesteziden sonra, özel bir kateter burnunuzdan yemek borusuna ve midenize doğru ilerletilir. Bu kateter, yemek borusunun çeşitli bölgelerinde basınç ölçümleri yapabilen çoklu sensörlere sahiptir.",
+
+    "lih7":"Basınç Ölçümleri:",
+    "lid7":"Kateter yerleştirildikten sonra, yemek borusundaki kas hareketlerini ve basınç değişikliklerini ölçer. Bu aşama genellikle yutma hareketlerini içerir; hasta belirli miktarlarda su yutarken ölçümler yapılır.",
+
+    "lih8":"Veri Toplama ve Değerlendirme:",
+    "lid8":"Ölçümler sırasında elde edilen veriler, daha sonra analiz ve değerlendirme için bir bilgisayara kaydedilir. Bu veriler, yemek borusunun işleyişini değerlendirmek ve potansiyel sorunları belirlemek için kullanılır.",
+
+    "lih9":"Kateterin Çıkarılması: ",
+    "lid9":" İşlem tamamlandıktan sonra, kateter dikkatlice çıkarılır.",
+
+    "d3":"Özofagus manometrisi genellikle 30 dakika ile 1 saat arasında sürer ve genellikle ayaktan gerçekleştirilir. İşlem sonrasında, hasta genellikle normal aktivitelerine devam edebilir. Ancak, bazı hastalar işlem sonrası hafif bir boğaz ağrısı yaşayabilirler.    ",
+
+    "h3":"Özofagus Manometri Testinin Avantajları Nelerdir?    ",
+
+    "h3h1" :"Kesin Teşhis:",
+    
+    "h3d1":" Yutma bozuklukları ve reflü belirtileri olan kişilerde özofagus manometrisi, yemek borusunun işleyişini anlamada etkili bir araçtır. Yemek borusunun hareketlerini ve basınç değişikliklerini ölçerek, yutma sorunlarının veya reflünün kaynağını belirleme imkanı sağlar.    ",
+    "h3h2" :"Tedavi Planlaması:",
+
+    "h3d2":" Özofagus manometrisi, yemek borusunun işleyişindeki sorunları belirlemeye yardımcı olur. Bu bilgi, tedavi yaklaşımını planlamada ve kişiselleştirmede çok önemlidir.    ",
+
+    "h4":"Özofagus Manometri Testinin Riskleri Nelerdir?    ",
+    "h4d1":"Özofagus manometrisi genellikle güvenli bir prosedürdür ancak her tıbbi işlem gibi bazı riskleri vardır. Kateterin yerleştirilmesi sırasında hafif rahatsızlık hissi yaşanabilir. Ayrıca, çok nadir durumlarda enfeksiyon riski vardır.    ",
+    "h4d2":"Özofagus manometrisi, yutma bozukluklarını ve reflüyü anlamada önemli bir araçtır. Bu işlem, doğru teşhisi koymak ve etkili bir tedavi planı oluşturmak için önemli bir araçtır. Detaylı bilgi için doktorunuzla konuşunuz.    "
   }
 }
