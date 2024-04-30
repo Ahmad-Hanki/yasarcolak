@@ -11,7 +11,7 @@ export default function NotFoundPage() {
           </h1>
           <h1 className="text-bold text-3xl">404 - PAGE NOT FOUND</h1>
           <p className="py-6 max-w-md text-center mx-auto">
-            We're sorry, but the page you're looking for doesn't seem to exist.
+            We&apos;re sorry, but the page you&apos;re looking for doesn&apos;t seem to exist.
             It may have been moved or deleted.
           </p>
           <Link href={"/"} className="btn btn-primary">
