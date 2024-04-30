@@ -932,5 +932,44 @@
     "h4d1": "Stretta treatment is an endoscopic method offered to reflux patients as an alternative to surgery. Research on this procedure generally shows positive results. Particularly, two large studies published in 2007 demonstrated the long-term effectiveness of Stretta. In a study conducted in Puerto Rico, successful outcomes were observed in 87% of patients even four years after the procedure, while in a study in America, this success rate was recorded as 75%.",
     "h4d2": "The fully endoscopic nature of the Stretta procedure, its absence of abdominal incisions, and the ability to perform it under sedation, which enhances patient comfort, are among the reasons for choosing this method. The procedure involves restructuring the sphincter between the esophagus and stomach with radiofrequency waves and often allows the patient to return home after a 4-6 hour observation period. The recovery process usually completes within 6-8 weeks, and in some cases, patients may be able to avoid lifelong medication use.",
     "h4d3": "On the other hand, the applicability of Stretta has also been studied in patients who have undergone reflux surgery and subsequently experienced recurrent reflux symptoms. A study published in the Surgical Endoscopy journal reported successful outcomes of Stretta treatment for patients with post-operative recurring reflux symptoms for up to 10 years. This indicates that Stretta can be safely applied and effective even after more invasive procedures such as Nissen fundoplication. These findings suggest a significant role for Stretta in the treatment of reflux."
+  },
+  "phMetre": {
+    "header": "PH Metre ile Reflü Tanısı: Kesin ve Güvenilir Yöntem",
+    "d1": "PH Metre is a test device used to diagnose reflux. Gastroesophageal reflux disease (GERD) is a condition that occurs when stomach acid refluxes into the esophagus. One of the reliable methods used in the diagnosis of reflux is PH meter measurement. So, what is PH meter, how is it used, and what are the advantages and risks of this procedure?",
+    "content": "Table of Contents",
+    "c1": "PH Metre ile Reflü Tanısı: Kesin ve Güvenilir Yöntem",
+    "c2": "PH Metre Nedir?",
+    "c3": "PH Metre ile Reflü Testi Nasıl Yapılır?",
+    "c4": "PH Metre Testinin Avantajları Nelerdir?",
+    "c5": "PH Metre Testinin Riskleri Nelerdir?",
+
+    "h1": "PH Metre Nedir?",
+    "h1d1": "PH Metre is a device used to measure the PH level of an acidic or alkaline solution. Basically, in the diagnosis of reflux with PH Meter, it is determined whether stomach acid refluxes into the esophagus by measuring how long the acid level in the esophagus remains high.",
+    "h1d2": "PH Meter is a device that measures the acidic or basic (alkaline) properties of a solution. PH represents the concentration of hydrogen ions (H+) in a solution, and this concentration determines the acidic or basic nature of the solution. PH measurement is done on a scale of 0-14. 7 is considered neutral on this scale, meaning it is neither acidic nor basic. Values ​​below 7 are acidic, and values ​​above 7 are basic.",
+    "h1d3": "PH Meter generally consists of a measurement electrode, a reference electrode, and a thermometer. The measurement electrode detects the hydrogen ion concentration of the solution and converts this information into an electrical signal. The reference electrode provides a constant potential. The thermometer measures the temperature of the solution since PH measurement can be affected by temperature.",
+    "h1d4": "The PH Meter device used in reflux diagnosis measures whether stomach acid refluxes into the esophagus through a sensor inserted into the esophagus with the help of a tube. This helps determine if there is acid reflux in the esophagus and the duration of reflux. This measurement typically lasts for 24 hours, during which the patient can continue their normal activities.",
+    "h2": "PH Metre Ile Reflü Testi Nasıl Yapılır?",
+    "h2d1": "Reflux test with PH Meter is usually performed by inserting a PH sensor into the esophagus through a thin tube. This allows the patient's acid levels to be monitored for 24 hours. Patients can continue their normal activities during the test period.",
+    "h3": "PH Metre Testinin Avantajları Nelerdir?",
+    "h3d1": "Diagnosing reflux with PH Meter allows for a precise diagnosis even in patients with no apparent symptoms. 24-hour continuous measurement allows patients to monitor their acid levels under different activities and foods. This can help personalize the treatment approach.",
+    "h3d2": "Reflux testing with PH meter plays a significant role in the diagnosis of gastroesophageal reflux disease (GERD). There are many advantages to using this test:",
+    
+    "lih1": "Precise Diagnosis:",
+    "lid1": "PH Meter reflux test allows for a precise diagnosis of reflux even in patients with no apparent symptoms or typical symptoms. This is valuable for determining the correct treatment approach in the early stages of the disease.",
+    
+    "lih2": "Continuous Monitoring:",
+    "lid2": "PH meter monitors acidity levels in the esophagus for 24 hours. This helps determine when and how often acid reflux occurs during the patient's eating, sleeping, and other daily activities.",
+    
+    "lih3": "Personalized Treatment:",
+    "lid3": "24-hour continuous measurement allows patients to monitor their acid levels under different activities and foods. This information helps the doctor create a personalized treatment plan. Identifying which foods or activities exacerbate reflux symptoms provides valuable information about lifestyle changes the patient needs to make.",
+    
+    "lih4": "Evaluation of Medication Efficacy:",
+    "lid4": "PH meter test can also be used to evaluate the effectiveness of current medication therapy. If medication therapy does not reduce acidity levels, the treatment approach may need to be reviewed.",
+    
+    "d2": "For these reasons, reflux testing with PH meter allows doctors to accurately diagnose reflux disease, determine an effective treatment plan, and monitor the treatment process.",
+    
+    "h4": "PH Metre Testinin Riskleri Nelerdir?",
+    "h4d1": "Reflux testing with PH meter is generally a safe procedure, but like any medical procedure, it has some risks. Mild discomfort may be experienced during tube insertion. In rare cases, insertion of the tube may cause mild irritation in the esophagus.",
+    "h4d2": "The use of PH meter in reflux diagnosis helps in making a correct diagnosis and determining the most effective treatment plan. Consult a gastroenterologist for detailed information."
   }
 }

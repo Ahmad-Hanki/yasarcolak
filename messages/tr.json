@@ -922,5 +922,45 @@
     "h4d1":"Stretta tedavisi, cerrahiye alternatif olarak reflü hastalarına sunulan endoskopik bir yöntemdir. Bu işlemle ilgili araştırmalar, genellikle olumlu sonuçlar ortaya koymaktadır. Özellikle 2007 yılında yayınlanan iki büyük çalışma, Stretta’nın uzun vadeli etkinliğini göstermiştir. Porto Rico’daki çalışmada hastaların %87’sinde dört yıl sonra bile başarılı sonuçlar elde edildiği gözlemlenirken, Amerika’daki çalışmada bu başarı oranı %75 olarak kaydedilmiştir.",
     "h4d2":"Stretta prosedürünün tamamen endoskopik olması, karında kesi gerektirmemesi ve hasta konforunu artıran sedasyon altında uygulanabilmesi gibi özellikleri, bu yöntemin tercih edilme sebepleri arasında yer alır. İşlem, yemek borusu ile mide arasındaki kapakçığın radyofrekans dalgaları ile yeniden yapılandırılmasını içerir ve çoğunlukla 4-6 saatlik bir izlem sürecinden sonra hastanın evine dönmesine olanak tanır. İyileşme süreci genellikle 6-8 hafta içinde tamamlanır ve bazı durumlarda hastaların ömür boyu ilaç kullanımından kurtulmaları mümkün olabilir.",
     "h4d3":"Öte yandan, reflü ameliyatı geçirmiş ve sonrasında tekrarlayan reflü belirtileri yaşayan hastalarda Stretta’nın uygulanabilirliği de araştırılmıştır. Surgical Endoscopy dergisinde yayınlanan bir çalışma, Stretta tedavisinin ameliyat sonrası nükseden reflü şikayetleri olan hastalar için 10 yıl süren başarılı sonuçlar sağlayabildiğini bildirmiştir. Bu, Nissen fundoplikasyon ameliyatı gibi daha invazif prosedürlerden sonra bile Stretta’nın güvenle uygulanabildiğini ve etkili olabileceğini göstermektedir. Bu bilgiler, Stretta’nın reflü tedavisinde önemli bir rol oynayabileceğine işaret etmektedir.    "
+  },
+
+  "phMetre": {
+    "header":"PH Metre ile Reflü Tanısı: Kesin ve Güvenilir Yöntem    ",
+    "d1":"‘PH Metre’ reflü tanısı koymak için uygulanan bir test cihazıdır. Gastroözofageal reflü hastalığı (GERD), mide asidinin yemek borusuna geri kaçması sonucu oluşan bir durumdur. Reflü tanısında kullanılan güvenilir yöntemlerden biri PH metre ölçümüdür. Peki, PH metre nedir, nasıl kullanılır, bu işlem hangi avantajları ve riskleri beraberinde getirir?    ",
+    "content":"İçindekiler",
+    "c1":"PH Metre ile Reflü Tanısı: Kesin ve Güvenilir Yöntem",
+    "c2":"PH Metre Nedir?",
+    "c3":"PH Metre ile Reflü Testi Nasıl Yapılır?",
+    "c4":"PH Metre Testinin Avantajları Nelerdir?",
+    "c5":"PH Metre Testinin Riskleri Nelerdir?",
+
+    "h1":"PH Metre Nedir?    ",
+    "h1d1":"PH Metre, asidik veya alkalin bir sıvının PH seviyesini ölçmek için kullanılan bir cihazdır. Temel olarak PH Metre ile reflü tanısında, yemek borusundaki asit seviyesinin ne kadar süreyle yüksek kaldığını ölçerek mide asidinin yemek borusuna geri kaçıp kaçmadığı belirlenir.    ",
+    "h1d2":"PH Metre, bir çözeltinin asidik veya bazik (alkalin) özelliğini ölçen bir cihazdır. PH, bir çözeltinin hidrojen iyonu (H+) konsantrasyonunu ifade eder ve bu konsantrasyon, çözeltinin asidik veya bazik karakterini belirler. PH ölçümü 0-14 arasında bir skalada yapılır. Bu skalada 7 nötr olarak kabul edilir, yani ne asidik ne de baziktir. 7’nin altındaki değerler asidik, 7’nin üzerindeki değerler ise bazik özellik gösterir.    ",
+    "h1d3":"PH Metresi, genellikle bir ölçüm elektrodu, referans elektrodu ve bir termometreden oluşur. Ölçüm elektrodu, çözeltinin hidrojen iyon konsantrasyonunu algılar ve bu bilgiyi elektrik sinyaline dönüştürür. Referans elektrodu ise sabit bir potansiyel sağlar. Termometre ise, PH ölçümünün sıcaklıktan etkilenebileceği için, doğru ölçüm yapılabilmesi adına çözeltinin sıcaklığını ölçer.    ",
+    "h1d4":"Reflü teşhisinde kullanılan PH Metre cihazı, genellikle bir tüp yardımıyla yemek borusuna yerleştirilen bir sensör aracılığıyla, mide asidinin yemek borusuna geri kaçıp kaçmadığını ölçer. Bu, yemek borusunda asit reflüsünün olup olmadığını ve reflünün süresini belirlemeye yardımcı olur. Bu ölçüm genellikle 24 saat boyunca sürer ve bu süre zarfında hasta normal aktivitelerini devam ettirebilir.    ",
+    "h2":"PH Metre Ile Reflü Testi Nasıl Yapılır?    ",
+    "h2d1":"PH Metre ile reflü testi genellikle yemek borusuna ince bir tüp yardımıyla PH sensörü yerleştirilerek yapılır. Bu işlem, hastanın asit seviyesinin 24 saat boyunca izlenmesini sağlar. Test süresince hastalar normal aktivitelerini sürdürebilirler.    ",
+    "h3":"PH Metre Testinin Avantajları Nelerdir?    ",
+    "h3d1":"PH Metre ile reflü tanısı, belirgin semptomları olmayan hastalarda bile kesin bir teşhis koymayı sağlar. 24 saatlik sürekli ölçüm, hastaların farklı aktiviteler ve yiyecekler altında asit seviyelerini izleme fırsatı sağlar. Bu, tedavi yaklaşımının kişiselleştirilmesine yardımcı olabilir.    ",
+    "h3d2":"PH metre ile reflü testi, gastroözofageal reflü hastalığının (GERD) tanısında önemli bir rol oynar. Bu testin kullanılmasının birçok avantajı bulunmaktadır:    ",
+    
+    "lih1":"Kesin Teşhis:",
+    "lid1":"PH Metre ile reflü testi, belirgin semptomları olmayan ya da tipik semptomları göstermeyen hastalarda bile reflüyü kesin olarak teşhis etme imkanı sağlar. Bu, hastalığın erken evrelerinde doğru tedavi yaklaşımını belirlemek için çok değerlidir.",
+    
+    "lih2":"Sürekli İzleme: ",
+    "lid2":"PH metre, yemek borusundaki asidite seviyelerini 24 saat boyunca izler. Bu, hastanın yemek yemesi, uyuması ve diğer günlük aktiviteleri sırasında asit reflüsünün ne zaman ve ne sıklıkta olduğunu belirlemeye yardımcı olur.",
+    
+    "lih3":"Kişiselleştirilmiş Tedavi:",
+    "lid3":" 24 saatlik sürekli ölçüm, hastaların farklı aktiviteler ve yiyecekler altında asit seviyelerini izleme fırsatı sağlar. Bu bilgi, doktorun kişiye özgü bir tedavi planı oluşturmasına yardımcı olur. Bazı yiyecekler veya aktivitelerin reflü semptomlarını artırdığını belirlemek, hastanın yaşam tarzında yapması gereken değişiklikler hakkında değerli bilgiler sunar.",
+    
+    "lih4":"İlaç Tedavisinin Etkinliğinin Değerlendirilmesi: ",
+    "lid4":"PH metre testi, mevcut ilaç tedavisinin etkinliğini değerlendirmek için de kullanılabilir. Eğer ilaç tedavisi asidite seviyelerini düşürmüyorsa, tedavi yaklaşımının gözden geçirilmesi gerekebilir.",
+    
+    "d2":"Bu nedenlerle, PH metre ile reflü testi, doktorların reflü hastalığını doğru bir şekilde teşhis etmelerine, etkili bir tedavi planı belirlemelerine ve tedavi sürecini takip etmelerine olanak sağlar.",
+
+    "h4":"PH Metre Testinin Riskleri Nelerdir?    ",
+    "h4d1":"PH metre ile reflü testi genellikle güvenli bir prosedürdür ancak her tıbbi işlem gibi bazı riskleri vardır. Tüpün yerleştirilmesi sırasında hafif rahatsızlık hissi yaşanabilir. Nadir durumlarda, tüpün yerleştirilmesi yemek borusunda hafif tahrişe yol açabilir.    ",
+    "h4d2":"Reflü tanısında PH metre kullanımı, doğru teşhisi koyarak en etkili tedavi planının belirlenmesine yardımcı olur. Detaylı bilgi için bir gastroenteroloji uzmanı ile konuşunuz.    "
   }
 }

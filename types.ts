@@ -782,3 +782,39 @@ export type StrettaContentType = {
   h4d2: string;
   h4d3: string;
 };
+
+export type PhMetreHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  c5: string;
+}
+
+export type PhMetreContentType = {
+  h1: string;
+  h1d1: string;
+  h1d2: string;
+  h1d3: string;
+  h1d4: string;
+  h2: string;
+  h2d1: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+  lih1: string;
+  lid1: string;
+  lih2: string;
+  lid2: string;
+  lih3: string;
+  lid3: string;
+  lih4: string;
+  lid4: string;
+  d2: string;
+  h4: string;
+  h4d1: string;
+  h4d2: string;
+}
