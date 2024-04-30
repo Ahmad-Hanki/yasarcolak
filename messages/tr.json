@@ -660,31 +660,170 @@
     "q3": "İşlem sonrası hastanın nelere dikkat etmesi gerekir?    ",
     "a3": "EMR işlemi yemek borusu veya midede uygulandıysa genellikle o gün sıvı veya cıvık gıdaların tüketilmesi ve çok sıcak içeceklerden uzak durulması önerilir. Daha büyük lezyonların çıkartılması halinde bu sıvı diyet birkaç güne uzayabilir. Bu konuda tüm ayrıntılı bilgiler ve öneriler doktor tarafından hastaya verilir.    "
   },
-  
+
   "esdPage": {
-    "header":"ESD (Endoskopik Submukozal Diseksiyon)    ",
-    "d1":"Endoskopik submukozal diseksiyon (ESD), derin yerleşimli veya 1 cm’den büyük lezyonların çıkartılması için kullanılan bir yöntemdir. Genellikle yüzeyel yayılımlı büyük tümörler veya derin yerleşimli lezyonların çıkartılması için kullanılan bir tekniktir. Bu yöntemle öncelikli olarak lezyonun sınırları belirlenir ve işaretlenir. Ardından lezyonun tabanına özel bir madde enjeksiyonu yapılarak şişirilir ve bir yastıkçık oluşturulur. Sonrasında, lezyon ile normal doku arasına endoskop ve özel ekipmanlar kullanılarak girilir ve lezyonun altından yavaş yavaş kesi uygulanarak lezyonlu kısım normal dokudan sıyırılarak çıkartılır. Ardından genellikle geniş bir açıklık oluşur ve bu açıklık lezyona göre bazı durumlarda endoskopik dikişler kullanılarak kapatılır.    ",
+    "header": "ESD (Endoskopik Submukozal Diseksiyon)    ",
+    "d1": "Endoskopik submukozal diseksiyon (ESD), derin yerleşimli veya 1 cm’den büyük lezyonların çıkartılması için kullanılan bir yöntemdir. Genellikle yüzeyel yayılımlı büyük tümörler veya derin yerleşimli lezyonların çıkartılması için kullanılan bir tekniktir. Bu yöntemle öncelikli olarak lezyonun sınırları belirlenir ve işaretlenir. Ardından lezyonun tabanına özel bir madde enjeksiyonu yapılarak şişirilir ve bir yastıkçık oluşturulur. Sonrasında, lezyon ile normal doku arasına endoskop ve özel ekipmanlar kullanılarak girilir ve lezyonun altından yavaş yavaş kesi uygulanarak lezyonlu kısım normal dokudan sıyırılarak çıkartılır. Ardından genellikle geniş bir açıklık oluşur ve bu açıklık lezyona göre bazı durumlarda endoskopik dikişler kullanılarak kapatılır.    ",
+    "content": "İçindekiler",
+    "c1": "ESD (Endoskopik Submukozal Diseksiyon)",
+    "c2": "ESD İşlemi Nasıl Yapılır?",
+    "c3": "Kimler İçin Uygundur?",
+    "c4": "ESD İşleminin Riskleri Nelerdir?",
+    "c5": "Uygulama Sonrası Süreç",
+    "d2": "Tradyonel Endoskopik Mukozal Rezeksiyon (EMR) tekniklerinin yerine giderek daha fazla kullanılan ESD, birçok hastanın ameliyat gerektirmeden tedavi edilebilmesini sağlar. Bu yöntem, lezyonların tek parça halinde çıkarılmasını mümkün kılar, böylece daha doğru bir histolojik değerlendirme sağlar ve hastaların daha hızlı iyileşmesine yardımcı olur.    ",
+
+    "h1": "ESD İşlemi Nasıl Yapılır?    ",
+    "h1d1": "ESD işlemi sırasında, ilk olarak lezyonun çevresi bir elektrokoter (elektrik enerjisi kullanarak doku kesme veya yakma cihazı) ile işaretlenir. Ardından, bir elektrokoter veya benzeri bir alet kullanılarak lezyonun çevresi kesilir ve mukoza tabakası kaldırılır. Lezyonun tabanında bulunan submukozal tabaka, özel bir sıvının enjekte edilmesiyle şişirilir ve bu sayede lezyon, sağlıklı dokudan ayrılır. Son olarak, submukozal tabakadan lezyon tamamen çıkarılır.    ",
+
+    "h2": "Kimler İçin Uygundur?    ",
+    "h2d1": "ESD, genellikle invaziv olmayan gastrointestinal kanserlerin (örneğin, mide kanseri veya kolorektal kanser) erken evrelerinde ve daha büyük benign lezyonlarda (örneğin, adenomatöz polipler) tercih edilir.    ",
+    "h3": "ESD İşleminin Riskleri Nelerdir?    ",
+
+    "h3d1": "ESD işlemi özellikle kanama ve delinme riski bulunan ve mutlaka tecrübeli ellerde yapılması gereken bir işlemdir. Özellikle riskli ve çıkartılması zor olan lezyonlarda kullanılan bir yöntem olması, işlemin dokunun derinlerine inilerek yapılması nedeniyle çeşitli riskler içermesine rağmen birçok hasta ameliyata gerek kalmadan bu yöntem ile sağlığına kavuşmaktadır.    ",
+
+    "h4": "Uygulama Sonrası Süreç    ",
+    "h4d1": "Hastalar, işlemden sonra genellikle aynı gün taburcu edilir. Ancak büyük ve riskli lezyonlara yapılan işlemlerde nadiren takip amacı ile bir gece hastanede kalış gerekebilir.    ",
+    "h4d2": "İşlem sonrası nelere dikkat edilmesi gerekir?    ",
+    "h4d3": "Özellikle yemek borusu ve mideye yönelik işlemlerde bir süre ağızdan gıda alınmaması ve sıvı diyetle gıda alımına başlanması önerilir. Ancak beslenmeye geçiş süreci her hastanın özelinde ve yapılan işlem bazında değerlendirilmelidir. Yapılan işlem sonrası takip ve gıda alımına başlama konusunda bilgiler, doktor tarafından hastaya iletilecektir. İşlem sonrasında kanama ve şiddetli ağrı olması durumunda mutlaka doktora başvurmak gerekmektedir.    ",
+    "h4d4": "Endoskopik Submukozal Diseksiyon (ESD), invaziv olmayan erken evre gastrointestinal kanserlerin tedavisinde ve büyük benign lezyonların çıkarılmasında çığır açan bir yöntemdir. Bu teknik, daha hızlı iyileşme süreleri ve daha az komplikasyon riski ile birlikte daha doğru histolojik değerlendirmeler sağlar. Ancak, ESD’nin uygulanması karmaşıktır ve deneyimli bir endoskopist tarafından yapılmalıdır. Bu nedenle, bu tür bir işlemi düşünüyorsanız, sizin için en iyi seçeneği belirlemek üzere bir gastroenteroloji uzmanı ile görüşmeniz önemlidir.    "
+  },
+  "eftrPage": {
+    "header": "EFTR (Endoskopik Tam Kat Rezeksiyon)    ",
+    "d1": "Endoskopik tam kat rezeksiyon (EFTR) işlemi, ileri endoskopik uygulamalardan bir tanesidir. Bu işlem özellikle mide veya bağırsakların tüm katmanlarını içeren tümöral lezyonların çıkartılması için kullanılan bir yöntemdir. Kolon polipleriniz veya gastrointestinal (GI) stromal tümörler gibi tümörleriniz varsa, doktorunuz bu büyümelerin endoskopik tam kat rezeksiyonu (EFTR) adı verilen bir prosedür kullanılarak çıkarılmasını önerebilir.    ",
+    "content": "İçindekiler",
+    "c1": "EFTR (Endoskopik Tam Kat Rezeksiyon)",
+    "c2": "EFTR Nedir?",
+    "c3": "EFTR: Kimler İçin Uygundur?",
+    "c4": "EFTR Uygulaması ve Avantajları",
+    "c5": "Riskleri ve Komplikasyonları",
+    "d2": "Gastrointestinal sistemdeki lezyonların tedavisi sürekli olarak gelişmektedir. Artık cerrahi müdahale gerektirmeyen yöntemlerle bile oldukça karmaşık durumlar tedavi edilebilmektedir. Endoskopik Tam Kat Rezeksiyon (EFTR), bu alandaki en yeni ve etkili tekniklerden biridir.    ",
+
+    "h1": "EFTR Nedir?    ",
+    "h1d1": "Endoskopik tam kat rezeksiyon veya EFTR, esnek, tüp benzeri bir alet olan endoskop kullanılarak gastrointestinal sistemden iyi huylu veya kanserli tümörleri çıkarmak (rezeke etmek) için kullanılan minimal invaziv bir prosedürdür.    ",
+    "h1d2": "“Tam kat” gastrointestinal duvarın ne kadarının çıkarıldığını ifade eder. Diğer prosedürlerde yalnızca yüzeysel katmanlar (mukoza ve submukoza) çıkarılabilirken, EFTR prosedürü tümörün tamamen çıkarılmasını sağlamak için daha derin dokuları çıkarmayı amaçlar.    ",
+    "h1d3": "EFTR tipik olarak bir ayakta tedavi prosedürüdür. Birçok hasta ertesi gün taburcu olarak evine gidebilir. EFTR’yi özel olarak eğitilmiş gastroenterologlar (GI kanalını tedavi eden doktorlar) gerçekleştirir. EFTR uygulanan hastalar, daha invaziv cerrahi uygulanan hastalara göre daha kısa tedavi süresine ve daha hızlı iyileşmeye sahip olabilirler.    ",
+
+    "h2": "EFTR: Kimler İçin Uygundur?    ",
+    "h2d1": "EFTR, gastrointestinal sistemin herhangi bir bölgesindeki lezyonları tedavi etmek için kullanılabilir. Özellikle, mukoza veya submukoza tabakalarını aşan veya mukozanın tamamını işgal eden lezyonlar, bu işlemle etkin bir şekilde çıkarılabilir.    ",
+    "h2d2": "EFTR, GI duvarının derinliklerinde bulunan tümörlerin çıkarılmasında çok etkilidir. Bu büyümelerin konumu nedeniyle, diğer prosedürler dokunun yırtılması veya delinmesi gibi komplikasyonların riskini artırır.    ",
+    "h2d3": "Derin tümörlere ek olarak, doktorlar EFTR’yi aşağıdakiler için de kullanabilir:    ",
+
+    "li1": "Mide, ince bağırsak veya kolon poliplerinin çıkarılması (polipektomi)    ",
+    "li2": "organlar veya dokular arasındaki deliklerin veya açıklıkların kapatılması    ",
+    "li3": "gastroenteroloğun ağrı veya kanama gibi bir sorunun kaynağını belirlemesine yardımcı olmak. EFTR, doktorların hastalık belirtileri için mikroskop altında incelenmek üzere bir doku örneği toplamasına yardımcı olabilir (biyopsi).    ",
+    "d3": "EFTR, GI duvarının kas tabakasına yapışan sığ katmanlarındaki tümörleri güvenli bir şekilde çıkarmak için endoskopik mukozal rezeksiyon veya endoskopik submukozal diseksiyondan daha iyi olabilir. Bu durumlarda EFTR, tümörü kastan ayırmada daha hassastır.    ",
+
+    "h3": "EFTR Uygulaması Ve Avantajları    ",
+    "h3d1": "EFTR işlemi sırasında özel bir ekipman kullanılmaktadır. Öncelikli olarak lezyonun yeri ve sınırları belirlenir. Ardından lezyon ve bu alanın çevresindeki bir miktar normal dokuyu da içine alacak büyüklükte bir alan, kapan tarzı bir endoskopik aparat ile kavranır ve sonrasında lezyonlu alan tüm mide veya bağırsak duvarını içine alacak şekilde çıkartılır. Bu yöntem ile daha önce ameliyat gerektiren bazı lezyonlar artık ameliyata gerek kalmaksızın endoskopik bir işlemle çıkartılabilmektedir.    ",
+    "h3d2": "EFTR’nin en büyük avantajı, gastrointestinal sistemdeki lezyonların tamamen çıkarılabilmesidir. Bu, hastaların daha hızlı iyileşmesini sağlar ve daha az komplikasyon riski ile birlikte gelir. Ayrıca, EFTR ile çıkarılan lezyonlar, daha doğru bir histolojik değerlendirme sağlar. Bu, doktorun hastanın durumunu daha iyi anlamasına ve gerektiğinde daha doğru bir tedavi planı oluşturmasına yardımcı olur.    ",
+    "h3d3": "Endoskopik Tam Kat Rezeksiyon (EFTR), gastrointestinal sistemdeki lezyonların tedavisinde son derece etkili bir yöntemdir. Bu teknik, lezyonların tamamen çıkarılmasını ve hastaların daha hızlı iyileşmesini sağlar. Ancak, EFTR karmaşık bir işlem olabilir ve bu nedenle deneyimli bir endoskopist tarafından yapılmalıdır. Eğer bu tür bir işlemi düşünüyorsanız, doktorunuzla konuşmanız ve sizin için en iyi seçeneği belirlemeniz önemlidir.    ",
+    "h4": "Riskleri Ve Komplikasyonları    ",
+    "h4d1": "EFTR minimal invaziv prosedür olduğu için, GI kanalınızdan lezyonları çıkarmak için uygulanan laparoskopik veya açık prosedürlere göre daha az komplikasyonlar içerir.    ",
+    "h4d2": "EFTR’nin taşıdığı bazı küçük bir riskler şunlardır:    ",
+
+    "li4": "Kanserli bir lezyonun tam olarak çıkarılamaması    ",
+    "li5": "Divertikülit    ",
+    "li6": "Perforasyon",
+    "li7": "Kanama",
+    "li8": "Enfeksiyon",
+
+    "d4": "İşlem sırasında apandisit açıklığına yakın bir bölgeden doku alınırsa, EFTR’den sonra akut apandisit riski artar.    "
+  },
+  "endoskopikStentUygulamalariPage": {
+    "header": "Endoskopik Stent Uygulamaları: Yeni Nesil Tıbbi Tedavi Yöntemleri",
+    "d1": "Endoskopik stent uygulaması, sindirim sistemindeki tıkanıklıkları gidermek ve normal işlevi geri kazandırmak için bir tedavidir. Bir stent, bir tıbbi cihazdır ve genellikle paslanmaz çelik, plastik veya diğer biyolojik uyumlu malzemelerden yapılmış esnek bir tüptür.",
+    "content": "İçindekiler",
+    "c1": "Endoskopik Stent Uygulamaları: Yeni Nesil Tıbbi Tedavi Yöntemleri",
+    "c2": "Endoskopik Stent Uygulamalarının Kullanım Alanları Nelerdir?",
+    "c3": "Endoskopik Stent Uygulaması Nasıl Yapılır?",
+    "c4": "Endoskopik Stent Uygulamalarının Avantajları Nelerdir?",
+
+    "h1": "Endoskopik Stent Uygulamalarının Kullanım Alanları Nelerdir?",
+    "d2": "Endoskopik stent uygulaması genellikle aşağıdaki durumlarda kullanılır:",
+
+    "q1": "Yemek Borusu Kanseri:",
+    "a1": "Yemek borusu (özofagus) kanseri durumunda, tümör nedeniyle yemek borusu tıkanabilir. Bu durumda, stent yemek borusunu açık tutmak ve hastanın normal şekilde yemek yemesine izin vermek için kullanılır.",
+    "q2": "Kolon Kanseri:",
+    "a2": "Kolon kanseri durumunda, tümör kolonun (büyük bağırsak) bir kısmını tıkayabilir. Bir stent, kolonu açık tutmak ve normal sindirim fonksiyonunu sürdürmek için kullanılır.",
+    "q3": "Pankreas ve Safra Yolları Kanserleri:",
+    "a3": "Bu tür kanserlerde, tümörler pankreas kanallarını veya safra kanallarını tıkayabilir. Bu durumda, bir stent tıkanıklığı gidermek ve normal safra akışını geri kazandırmak için kullanılır.",
+
+    "h2": "Endoskopik Stent Uygulaması Nasıl Yapılır?",
+    "h2d1": "Endoskopik stent uygulaması genellikle endoskopik olarak gerçekleştirilir. İlk olarak, bir endoskop adı verilen ince, esnek bir tüp hastanın ağzından veya anüsünden sindirim sistemine ilerletilir. Endoskop, iç organları net bir şekilde görebilmek için bir kamera ve ışık kaynağına sahiptir.",
+    "h2d2": "Stentin yerleştirileceği alan belirlendikten sonra, stent bir kılavuz tel üzerinde ilerletilir ve tıkanıklığın olduğu yere yerleştirilir. Stent yerine yerleştirildiğinde, genellikle sıkıştırılmış bir durumdadır. Takıldıktan sonra, stent genişler ve tıkanmış kanalı açar.",
+
+    "h3": "Endoskopik Stent Uygulamalarının Avantajları Nelerdir?",
+    "h3d1": "Endoskopik stent uygulamasının birçok avantajı vardır. İlk olarak, stentler tıkanıklıkları hızlı bir şekilde giderir ve hasta konforunu artırır. İkincisi, bu prosedür genellikle minimal invazivdir, yani büyük ameliyat gerektirmez. Üçüncüsü, stentleme prosedürleri genellikle hastaneye yatış gerektirmez ve hızlı bir iyileşme süresine sahiptir.",
+    "h3d2": "Sonuç olarak, endoskopik stent uygulaması sindirim sistemi tıkanıklıklarının etkili ve hızlı bir şekilde giderilmesini sağlar. Bu yöntem hasta konforunu artırır ve hızlı bir iyileşme süreci sağlar. Endoskopik stent uygulaması hakkında daha fazla bilgi için lütfen doktorunuza başvurun."
+  },
+  "pegPage": {
+    "header":"PEG (Perkutan Endoskopik Gastrostomi)    ",
+    "d1":"Gastroenteroloji alanında, belirli durumlar uzun süreli enteral beslenmeyi gerektirebilir. Bu ihtiyaçlar için, Perkütan Endoskopik Gastrostomi (PEG) bir çözüm olarak ortaya çıkmaktadır.",
     "content":"İçindekiler",
-    "c1":"ESD (Endoskopik Submukozal Diseksiyon)",
-    "c2":"ESD İşlemi Nasıl Yapılır?",
-    "c3":"Kimler İçin Uygundur?",
-    "c4":"ESD İşleminin Riskleri Nelerdir?",
-    "c5":"Uygulama Sonrası Süreç",
-    "d2":"Tradyonel Endoskopik Mukozal Rezeksiyon (EMR) tekniklerinin yerine giderek daha fazla kullanılan ESD, birçok hastanın ameliyat gerektirmeden tedavi edilebilmesini sağlar. Bu yöntem, lezyonların tek parça halinde çıkarılmasını mümkün kılar, böylece daha doğru bir histolojik değerlendirme sağlar ve hastaların daha hızlı iyileşmesine yardımcı olur.    ",
+    "c1":"PEG (Perkutan Endoskopik Gastrostomi)",
+    "c2":"PEG: Ne İçin Kullanılır?",
+    "c3":"PEG İşlemi Nasıl Yapılır?",
+    "c4":"PEG’nin Avantajları ve Riskleri",
+    "h1":"PEG: Ne İçin Kullanılır?    ",
+    "h1d1":"PEG, ağızdan veya yemek borusundan beslenme yeteneğini kaybetmiş hastalar için uzun süreli enteral beslenme sağlar. Bu, baş ve boyun kanseri, nörolojik bozukluklar (örneğin, amiyotrofik lateral skleroz veya felç) veya ağır yutma bozuklukları olan hastaları içerir.    ",
+    "h2":"PEG İşlemi Nasıl Yapılır?    ",
+    "h2d2":"PEG işlemi genellikle genel anestezi altında gerçekleştirilir. Endoskop, hastanın ağzına yerleştirilir ve mideye yönlendirilir. Cilt üzerinden mideye doğru bir iğne ile bir delik açılır ve bu deliğe bir beslenme tüpü yerleştirilir. Tüp yerine oturduktan sonra, beslenme solüsyonları bu tüp aracılığıyla doğrudan mideye verilir.  ",
+    "h3":"  PEG’nin Avantajları Ve Riskleri    ",
+    "h3d1":"PEG, hastaların beslenmesini sağlar ve bu da beslenme durumlarının ve genel sağlıklarının korunmasına yardımcı olur. Ancak, her tıbbi işlem gibi, PEG’nin de potansiyel riskleri vardır. Enfeksiyon, cilt tahrişi, mide delinmesi ve aspirasyon pnömonisi gibi komplikasyonlar oluşabilir. Ancak bu riskler, işlemi gerçekleştiren deneyimli bir hekim ve uygun takip ile en aza indirilebilir.",
+    "h3d2":"Perkütan Endoskopik Gastrostomi (PEG), belirli hastalar için uzun süreli enteral beslenme ihtiyacını karşılayan değerli bir araçtır. Bu teknik, bu tür bir beslenme yöntemine ihtiyaç duyan hastaların yaşam kalitesini önemli ölçüde iyileştirebilir. Ancak, PEG işleminin riskleri ve faydaları her hasta için dikkatlice değerlendirilmeli ve bu değerlendirme, doktorunuzla yapılan detaylı bir görüşme ile gerçekleştirilmelidir."
+  },
+"argonPlazmaKoagulasyonPage" : {
+  "header":"Argon Plazma Koagülasyon (APC)  ",
+  "d1":"Argon Plazma Koagülasyon (APC), gastrointestinal sistemdeki belirli lezyonlardan kaynaklanan kanamayı kontrol etmek ve ameliyatın önerilmediği tümörleri küçültmek için kullanılan tıbbi bir endoskopik prosedürdür. APC, endoskoptan geçirilen bir prob yoluyla yönlendirilen iyonize argon gazı (plazma) jetinin kullanılmasını içerir.  ",
+  "content":"İçindekiler",
+  "c1":"Argon Plazma Koagülasyon (APC)",
+  "c2":"Argon Plazma Koagülasyon Neden Yapılır?",
+  "c3":"Argon Plazma Koagülasyon İşleminin Kullanım Alanları",
+  "c4":"Prosedürün Avantajları  ",
+  "c5":"Yan Etkiler ve Komplikasyonlar",
+  "c6":"Argon Plazma Koagülasyon Nasıl Yapılır?",
+  "d2":"Argon plazma koagülasyon, gastrointestinal endoskopik prosedürlerde kullanılan bir koagülasyon yöntemidir. Hemostaz (kanamayı durdurma) sağlamak ve lezyonları tedavi etmek için kullanılır.  ",
+  "d3":"APC, argon gazını kullanarak elektrik enerjisinin hedef dokuya iletilmesi prensibi üzerine kuruludur. Bu, dokudaki suyun buharlaşmasına ve sonrasında koagülasyona neden olur, böylece kanamayı durdurur veya lezyonları tedavi eder.  ",
 
-    "h1":"ESD İşlemi Nasıl Yapılır?    ",
-    "h1d1":"ESD işlemi sırasında, ilk olarak lezyonun çevresi bir elektrokoter (elektrik enerjisi kullanarak doku kesme veya yakma cihazı) ile işaretlenir. Ardından, bir elektrokoter veya benzeri bir alet kullanılarak lezyonun çevresi kesilir ve mukoza tabakası kaldırılır. Lezyonun tabanında bulunan submukozal tabaka, özel bir sıvının enjekte edilmesiyle şişirilir ve bu sayede lezyon, sağlıklı dokudan ayrılır. Son olarak, submukozal tabakadan lezyon tamamen çıkarılır.    ",
+  "h1":"Argon Plazma Koagülasyon Neden Yapılır?  ",
+  "h1d1":"Prosedür, gastrointestinal sistemdeki çeşitli durumları tedavi etmek için kullanılır:  ",
 
-    "h2":"Kimler İçin Uygundur?    ",
-    "h2d1":"ESD, genellikle invaziv olmayan gastrointestinal kanserlerin (örneğin, mide kanseri veya kolorektal kanser) erken evrelerinde ve daha büyük benign lezyonlarda (örneğin, adenomatöz polipler) tercih edilir.    ",
-    "h3":"ESD İşleminin Riskleri Nelerdir?    ",
+  "lih1":"Kanama Kontrolü:",
+  "lid1":"APK, gastrointestinal kanamaları hızla durdurabilir. Özellikle ülserler, anjiyomlar gibi vasküler lezyonlardan kaynaklanan kanamalarda oldukça etkilidir",
+  "lih2":"Lezyonların Tedavisi:",
+  "lid2":"APK, polip rezidüleri, barret özofagusu gibi bazı lezyonların ablasyonunda (yok edilmesinde) kullanılır.",
+  "lih3":"Rezidüel Dokunun Tedavisi: ",
+  "lid3":"Endoskopik rezeksiyon sonrası kalan dokunun tedavisinde etkili bir yöntemdir.",
+  "lih4":"Profilaksi:",
+  "lid4":"APK, kanama riski olan lezyonların profilaktik tedavisinde de kullanılabilir. Bu, özellikle riskli bölgelerdeki küçük vasküler lezyonlar için geçerlidir.",
 
-    "h3d1":"ESD işlemi özellikle kanama ve delinme riski bulunan ve mutlaka tecrübeli ellerde yapılması gereken bir işlemdir. Özellikle riskli ve çıkartılması zor olan lezyonlarda kullanılan bir yöntem olması, işlemin dokunun derinlerine inilerek yapılması nedeniyle çeşitli riskler içermesine rağmen birçok hasta ameliyata gerek kalmadan bu yöntem ile sağlığına kavuşmaktadır.    ",
+  "h2":"Argon Plazma Koagülasyon İşleminin Kullanım Alanları  ",
+  "li1":"Aktif gastrointestinal kanamaların tedavisi  ",
+  "li2":"Vasküler lezyonların koagülasyonu  ",
+  "li3":"Rezidüel adenoma dokusunun tedavisi  ",
+  "li4":"Barret özofagusunun ablasyon tedavisi  ",
 
-    "h4":"Uygulama Sonrası Süreç    ",
-    "h4d1":"Hastalar, işlemden sonra genellikle aynı gün taburcu edilir. Ancak büyük ve riskli lezyonlara yapılan işlemlerde nadiren takip amacı ile bir gece hastanede kalış gerekebilir.    ",
-    "h4d2":"İşlem sonrası nelere dikkat edilmesi gerekir?    ",
-    "h4d3":"Özellikle yemek borusu ve mideye yönelik işlemlerde bir süre ağızdan gıda alınmaması ve sıvı diyetle gıda alımına başlanması önerilir. Ancak beslenmeye geçiş süreci her hastanın özelinde ve yapılan işlem bazında değerlendirilmelidir. Yapılan işlem sonrası takip ve gıda alımına başlama konusunda bilgiler, doktor tarafından hastaya iletilecektir. İşlem sonrasında kanama ve şiddetli ağrı olması durumunda mutlaka doktora başvurmak gerekmektedir.    ",
-    "h4d4":"Endoskopik Submukozal Diseksiyon (ESD), invaziv olmayan erken evre gastrointestinal kanserlerin tedavisinde ve büyük benign lezyonların çıkarılmasında çığır açan bir yöntemdir. Bu teknik, daha hızlı iyileşme süreleri ve daha az komplikasyon riski ile birlikte daha doğru histolojik değerlendirmeler sağlar. Ancak, ESD’nin uygulanması karmaşıktır ve deneyimli bir endoskopist tarafından yapılmalıdır. Bu nedenle, bu tür bir işlemi düşünüyorsanız, sizin için en iyi seçeneği belirlemek üzere bir gastroenteroloji uzmanı ile görüşmeniz önemlidir.    " 
-  }
+  "h3":"Prosedürün Avantajları  ",
+  "li5":"Derin dokulara nüfuz etmez, bu nedenle komplikasyon riski daha düşüktür.  ",
+  "li6":"Hemostaz için hızlı ve etkilidir.  ",
+  "li7":"Diğer koagülasyon yöntemlerine göre daha kontrollü bir tedavi sunar.  ",
+  "h4":"Yan Etkiler Ve Komplikasyonlar  ",
+  "h4d1":"Herhangi bir medikal prosedürde olduğu gibi, APK’nin de potansiyel yan etkileri vardır. Bunlar arasında perforasyon, kanama, enfeksiyon ve yanık oluşumu sayılabilir. Ancak doğru teknikle ve deneyimli ellerde bu riskler minimaldir.  ",
+  "h4d2":"Argon Plazma Koagülasyon, gastroenterolojide kanamaların ve bazı lezyonların tedavisinde etkili bir yöntemdir. Ancak, prosedürün başarılı ve güvenli bir şekilde uygulanması için deneyimli bir endoskopistin gözetiminde yapılması esastır.  ",
+
+  "h5":"Argon Plazma Koagülasyon Nasıl Yapılır?  ",
+  "h5d1":"Argon Plazma Koagülasyon (APK) işlemi, özel bir cihaz ve endoskop kullanılarak gerçekleştirilir. İşlemin temel adımları şunlardır:  ",
+
+  "lih5":"Hazırlık:",
+  "lid5":"Hastanın durumuna bağlı olarak lokal anestezi veya sedasyon uygulanabilir. Bu, hastanın rahat ve hareketsiz kalmasını sağlar.",
+  "lih6":"Endoskopun İlerletilmesi:",
+  "lid6":"Endoskop, APK cihazına bağlı bir prob yardımıyla istenen bölgeye ilerletilir.",
+  "lih7":"Argon Gazının Uygulanması: ",
+  "lid7":" APK cihazı, ince bir argon gazı akışını endoskopun ucundan dışarıya verir. Bu gaz, elektrot ve dokunun arasını doldurarak elektriksel bir iletkenlik oluşturur.",
+  "lih8":"Koagülasyon:",
+  "lid8":"Elektrik akımı uygulandığında, argon gazı plazmaya dönüşür. Bu plazma, dokuya enerji iletir, bu da dokunun koagülasyonuna (pişmesine) neden olur. Koagülasyon, derin doku hasarını en aza indirerek sadece yüzeyde meydana gelir.",
+  "lih9":"İşlemin Sonlandırılması",
+  "lid9":"Gerekli koagülasyon tamamlandığında, cihaz kapatılır ve endoskop dikkatlice çıkarılır."
+
+}
 }

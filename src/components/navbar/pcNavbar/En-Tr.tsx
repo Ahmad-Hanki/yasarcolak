@@ -16,7 +16,9 @@ const EnTr = () => {
   let content;
   const pathname = usePathname();
   let link;
+  
   if (loclae == "en") {
+
     link = pathname.split("/en")[1];
     content = (
       <div className="flex gap-3 items-center">

@@ -548,3 +548,146 @@ export type EsdContentType = {
   h4d3: string;
   h4d4: string;
 };
+
+export type EftrHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  c5: string;
+  d2: string;
+};
+
+export type EftrContentType = {
+  h1: string;
+  h1d1: string;
+  h1d2: string;
+  h1d3: string;
+  h2: string;
+  h2d1: string;
+  h2d2: string;
+  h2d3: string;
+  li1: string;
+  li2: string;
+  li3: string;
+  d3: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+  h3d3: string;
+  h4: string;
+  h4d1: string;
+  h4d2: string;
+  li4: string;
+  li5: string;
+  li6: string;
+  li7: string;
+  li8: string;
+  d4: string;
+};
+
+export type EndoskopikStentUygulamalariHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+};
+
+export type EndoskopikStentUygulamalariContentType = {
+  h1: string;
+  d2: string;
+  q1: string;
+  a1: string;
+  q2: string;
+  a2: string;
+  q3: string;
+  a3: string;
+  h2: string;
+  h2d1: string;
+  h2d2: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+};
+
+
+export type PegHeaderType =  {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+}
+
+export type PegContentType =  {
+  h1: string;
+  h1d1: string;
+  h2: string;
+  h2d2: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+}
+
+export type ArgonPlazmaKoagulasyonHeaderType =  {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  c5: string;
+  c6: string;
+  d2: string;
+  d3: string;
+}
+
+
+export type ArgonPlazmaKoagulasyonContentType =  {
+  h1: string;
+  h1d1: string;
+  lih1: string;
+  lid1: string;
+  lih2: string;
+  lid2: string;
+  lih3: string;
+  lid3: string;
+  lih4: string;
+  lid4: string;
+  h2: string;
+  li1: string;
+  li2: string;
+  li3: string;
+  li4: string;
+  h3: string;
+  li5: string;
+  li6: string;
+  li7: string;
+  h4: string;
+  h4d1: string;
+  h4d2: string;
+  h5: string;
+  h5d1: string;
+  lih5: string;
+  lid5: string;
+  lih6: string;
+  lid6: string;
+  lih7: string;
+  lid7: string;
+  lih8: string;
+  lid8: string;
+  lih9: string;
+  lid9: string;
+}
+
+
+
