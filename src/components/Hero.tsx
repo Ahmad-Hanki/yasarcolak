@@ -8,7 +8,7 @@ const Hero = () => {
   const t = useTranslations("hero");
 
   return (
-    <div className="relative w-full h-[80vh] xl:h-[100vh] overflow-hidden flex flex-col bg-transparent items-center justify-center -z-0 text-white">
+    <div className="relative w-full h-[60vh] lg:h-[80vh] xl:h-[100vh] overflow-hidden flex flex-col bg-transparent items-center justify-center -z-0 text-white">
       <Image
         priority
         fill
