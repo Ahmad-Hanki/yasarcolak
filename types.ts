@@ -717,7 +717,7 @@ export type ArmaContentType = {
   liqd4: string;
 };
 
-export type  EndoscopicFundoplicationHeaderType = {
+export type EndoscopicFundoplicationHeaderType = {
   header: string;
   d1: string;
   content: string;
@@ -725,9 +725,9 @@ export type  EndoscopicFundoplicationHeaderType = {
   c2: string;
   c3: string;
   c4: string;
-}
+};
 
-export type  EndoscopicFundoplicationContentType ={
+export type EndoscopicFundoplicationContentType = {
   h1: string;
   h1d1: string;
   h2: string;
@@ -742,4 +742,43 @@ export type  EndoscopicFundoplicationContentType ={
   q2: string;
   q2a1: string;
   d3: string;
-}
+};
+
+export type StrettaHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  c5: string;
+  d2: string;
+  d3: string;
+};
+
+export type StrettaContentType = {
+  h1: string;
+  h1d1: string;
+  h1d2: string;
+  h1d3: string;
+  h2: string;
+  h2d1: string;
+  d4: string;
+  li1: string;
+  li2: string;
+  li3: string;
+  li4: string;
+  li5: string;
+  d5: string;
+  li6: string;
+  li7: string;
+  li8: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+  h4: string;
+  h4d1: string;
+  h4d2: string;
+  h4d3: string;
+};

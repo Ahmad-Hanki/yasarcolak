@@ -889,5 +889,48 @@
     "q2": "Recovery Process After Endoscopic Fundoplication",
     "q2a1": "The recovery process after the procedure is generally fast. Patients can return to normal activities within a few days after the procedure. However, full recovery usually takes a few weeks. During this time, it is important for patients to follow a specific diet and comply with their doctor's instructions.",
     "d3": "In conclusion, gastroesophageal reflux disease can significantly affect quality of life. However, advanced treatment options such as endoscopic fundoplication can help alleviate these symptoms."
+  },
+
+  "strettaPage": {
+    "header": "Stretta",
+    "d1": "Stretta method is an endoscopic technique based on the principle of narrowing this area by sending radiofrequency waves to the lower end of the esophagus, used in the treatment of reflux.",
+    "content": "Contents",
+    "c1": "Stretta",
+    "c2": "How is the Stretta Procedure Performed?",
+    "c3": "Advantages and Disadvantages of Stretta Method",
+    "c4": "Possible Side Effects of Stretta Procedure",
+    "c5": "Success of the Method and Post-Surgical Application Potential",
+
+    "d2": "The Stretta method uses radiofrequency energy to increase the functionality of the sphincter between the esophagus and the stomach. During the Stretta procedure, a gastroenterologist places a catheter into the patient's esophagus and emits radiofrequency waves at the entry point to the stomach. These waves tighten the muscles around the sphincter, making it difficult for stomach acid to reflux into the esophagus.",
+    "d3": "Gastroesophageal reflux disease (GERD) is a common condition experienced by many people. In this condition, stomach acid refluxes into the esophagus, causing discomforting symptoms. There are several options for treating GERD, and the Stretta procedure is one of these options.",
+    
+    "h1": "How is the Stretta Procedure Performed?",
+    "h1d1": "The Stretta procedure is usually performed under light sedation. During the procedure, the doctor advances an endoscope (thin, flexible tube) from the patient's mouth to the esophagus. Then, radiofrequency energy is applied at the lower part of the esophagus. This energy strengthens the muscles at the lower part of the esophagus, thereby preventing the reflux of stomach acid.",
+    "h1d2": "Failure to treat gastroesophageal reflux disease can lead to various complications in the long term. Prolonged exposure to acid in the esophagus increases the risk of Barrett's esophagus and esophageal cancer, highlighting the importance of treatment. Minimal invasive treatment methods such as Stretta can play a significant role in preventing such serious health issues.",
+    "h1d3": "The Stretta procedure can be an effective method for alleviating reflux symptoms. Studies have shown a significant reduction in symptoms for most patients undergoing this procedure. Additionally, the Stretta procedure usually comes with a fast recovery time, and patients can typically return to normal activities within a few days after the procedure.",
+
+    "h2": "Advantages and Disadvantages of Stretta Method",
+    "h2d1": "While the Stretta method offers an alternative approach in the treatment of gastroesophageal reflux disease, the unique advantages and potential disadvantages of this minimally invasive procedure should be carefully evaluated.",
+    "d4": "Advantages",
+
+    "li1": "Does not require general anesthesia, performed under sedation.",
+    "li2": "Recovery time is generally much shorter as there is no surgical intervention.",
+    "li3": "Does not require an operating room, can be performed in endoscopic units.",
+    "li4": "Most patients can return to normal activities quickly after the procedure.",
+    "li5": "Post-procedure dietary restrictions are generally fewer.",
+
+    "d5": "Disadvantages",
+    "li6": "The method may not be suitable for everyone, especially those with severe hiatal hernia or individuals who have previously undergone gastric surgery may have limitations.",
+    "li7": "The effectiveness and duration of the procedure may vary on a patient-by-patient basis.",
+    "li8": "As with all treatment methods, complications may rarely occur.",
+
+    "h3": "Possible Side Effects of Stretta Procedure",
+    "h3d1": "Like any medical procedure, the Stretta procedure may have some side effects. These may include throat discomfort, temporary esophageal narrowing, and temporary difficulty swallowing. However, these side effects are generally mild and temporary.",
+    "h3d2": "In conclusion, the Stretta procedure is an effective option in the treatment of reflux. This minimally invasive procedure can help alleviate symptoms and typically provides a fast recovery time. However, it is important to determine the most suitable treatment option for each patient, which requires a detailed consultation with your doctor.",
+
+    "h4": "Success of the Method and Post-Surgical Application Potential",
+    "h4d1": "Stretta treatment is an endoscopic method offered to reflux patients as an alternative to surgery. Research on this procedure generally shows positive results. Particularly, two large studies published in 2007 demonstrated the long-term effectiveness of Stretta. In a study conducted in Puerto Rico, successful outcomes were observed in 87% of patients even four years after the procedure, while in a study in America, this success rate was recorded as 75%.",
+    "h4d2": "The fully endoscopic nature of the Stretta procedure, its absence of abdominal incisions, and the ability to perform it under sedation, which enhances patient comfort, are among the reasons for choosing this method. The procedure involves restructuring the sphincter between the esophagus and stomach with radiofrequency waves and often allows the patient to return home after a 4-6 hour observation period. The recovery process usually completes within 6-8 weeks, and in some cases, patients may be able to avoid lifelong medication use.",
+    "h4d3": "On the other hand, the applicability of Stretta has also been studied in patients who have undergone reflux surgery and subsequently experienced recurrent reflux symptoms. A study published in the Surgical Endoscopy journal reported successful outcomes of Stretta treatment for patients with post-operative recurring reflux symptoms for up to 10 years. This indicates that Stretta can be safely applied and effective even after more invasive procedures such as Nissen fundoplication. These findings suggest a significant role for Stretta in the treatment of reflux."
   }
 }

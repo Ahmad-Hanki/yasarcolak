@@ -882,5 +882,45 @@
     "q2": "Endoskopik Fundoplikasyon İşlemi Sonrası İyileşme Süreci    ",
     "q2a1": "İşlem sonrası iyileşme süreci genellikle hızlıdır. Hastalar, işlem sonrası birkaç gün içinde normal aktivitelere dönebilirler. Ancak, tam iyileşme genellikle birkaç hafta sürebilir. Bu süre zarfında, hastaların belirli bir diyeti takip etmeleri ve doktorlarının talimatlarına uymaları önemlidir.    ",
     "d3": "Sonuç olarak, gastroözofageal reflü hastalığı, yaşam kalitesini önemli ölçüde etkileyebilir. Ancak, endoskopik fundoplikasyon gibi ilerleyen tedavi seçenekleri, bu belirtilerin hafifletilmesinde yardımcı olabilir.    "
+  },
+  "strettaPage":{
+    "header":"Stretta",
+    "d1":"Stretta yöntemi, reflü tedavisinde kullanılan, yemek borusunun alt ucuna radyofrekans dalgalarının gönderilmesi suretiyle bu alanın daraltılması prensibine dayalı endoskopik bir yöntemdir.    ",
+    "content":"İçindekiler",
+    "c1":"Stretta",
+    "c2":"Stretta İşlemi Nasıl Gerçekleştirilir?",
+    "c3":"Stretta Yönteminin Avantajları ve Dezavantajları",
+    "c4":"Stretta İşleminin Olası Yan Etkileri",
+    "c5":"Yöntemin Başarısı ve Cerrahi Sonrası Uygulama Potansiyeli",
+
+    "d2":"Stretta yöntemi, yemek borusu ile mide arasındaki sfinkterin işlevselliğini artırmak amacıyla radyofrekans enerjisi kullanır. Stretta işlemi sırasında, gastroenteroloji uzmanı bir kateteri hastanın yemek borusuna yerleştirir ve mideye giriş noktasında radyofrekans dalgaları yayarlar. Bu dalgalar, sfinkterin etrafındaki kasları sıkılaştırarak mide asidinin yemek borusuna geri kaçmasını zorlaştırır.    ",
+    "d3":"Gastroözofageal reflü hastalığı (GÖRH), birçok kişinin yaşadığı yaygın bir rahatsızlıktır. Bu durumda, mide asidi özofagus (yemek borusu) içine geri kaçar ve rahatsızlık verici belirtilere neden olur. GÖRH tedavisinde bir dizi seçenek bulunmaktadır ve Stretta işlemi bu seçeneklerden biridir.    ",
+    "h1":"Stretta İşlemi Nasıl Gerçekleştirilir?    ",
+    "h1d1":"Stretta işlemi genellikle hafif bir sedasyon altında yapılır. İşlem sırasında, doktor bir endoskopu (ince, esnek bir tüp) hastanın ağzından özofagusuna kadar ilerletir. Daha sonra, özofagusun alt kısmında radyofrekans enerjisi uygulanır. Bu enerji, özofagusun alt kısmında bulunan kasları güçlendirir ve böylece mide asidinin geri kaçmasını önler.    ",
+    "h1d2":"Gastroözofajiyal reflü hastalığının tedavi edilmemesi durumunda uzun vadede çeşitli komplikasyonlar gelişebilir. Yemek borusunda uzun süreli asit maruziyeti sonucu Barrett özofagusu ve özofagus kanseri riski artar, bu da tedavinin önemini artırır. Stretta gibi minimal invaziv tedavi yöntemleri, bu tür ciddi sağlık sorunlarının önlenmesinde önemli bir role sahip olabilir.    ",
+    "h1d3":"Stretta işlemi, reflü belirtilerini hafifletmek için etkili bir yöntem olabilir. Araştırmalar, bu işlemi geçiren hastaların çoğunun belirtilerinde önemli bir azalma olduğunu göstermiştir. Ayrıca, Stretta işlemi genellikle hızlı bir iyileşme süresi ile birlikte gelir ve hastalar genellikle işlem sonrası birkaç gün içinde normal aktivitelere dönebilirler.    ",
+
+    "h2":"Stretta Yönteminin Avantajları Ve Dezavantajları",
+    "h2d1":"Stretta yöntemi, gastroözofajiyal reflü hastalığının tedavisinde alternatif bir yol sunarken, bu minimal invaziv işlemin kendine has avantajları ve potansiyel dezavantajları dikkatle değerlendirilmelidir.",
+    "d4":"Avantajlar",
+
+    "li1":"Genel anestezi gerektirmez, sedasyon altında yapılır.",
+    "li2":"Cerrahi bir müdahale olmadığı için iyileşme süreci genellikle çok daha kısadır.    ",
+    "li3":"Ameliyathane gerektirmez, endoskopik ünitelerde yapılabilir.    ",
+    "li4":"İşlem sonrası hastaların çoğu hızlı bir şekilde normal aktivitelerine geri dönebilir.    ",
+    "li5":"İşlem sonrası diyet kısıtlamaları genellikle daha azdır.    ",
+
+    "d5":"Dezavantajlar    ",
+    "li6":"Yöntem herkes için uygun olmayabilir, özellikle ciddi mide fıtığı olan veya önceden mide-bağırsak cerrahisi geçirmiş kişilerde sınırlamalar olabilir.",
+    "li7":"İşlemin etkinliği ve süresi hasta bazında değişebilir.    ",
+    "li8":"Tüm tedavi yöntemlerinde olduğu gibi, nadiren komplikasyonlar gelişebilir.    ",
+    "h3":"Stretta İşleminin Olası Yan Etkileri    ",
+    "h3d1":"Her tıbbi işlemde olduğu gibi, Stretta işleminin de bazı yan etkileri olabilir. Bunlar arasında boğaz ağrısı, geçici yemek borusu daralması ve geçici yemek yeme zorlukları bulunabilir. Ancak, bu yan etkiler genellikle hafif ve geçicidir.",
+    "h3d2":"Sonuç olarak, Stretta işlemi, reflü tedavisinde etkili bir seçenektir. Bu minimal invaziv işlem, belirtileri hafifletmeye yardımcı olabilir ve genellikle hızlı bir iyileşme süresi sağlar. Ancak, her hasta için en uygun tedavi seçeneğini belirlemek önemlidir ve bu, doktorunuzla yapılacak ayrıntılı bir randevu süreci gerektirir.",
+
+    "h4":"Yöntemin Başarısı Ve Cerrahi Sonrası Uygulama Potansiyeli",
+    "h4d1":"Stretta tedavisi, cerrahiye alternatif olarak reflü hastalarına sunulan endoskopik bir yöntemdir. Bu işlemle ilgili araştırmalar, genellikle olumlu sonuçlar ortaya koymaktadır. Özellikle 2007 yılında yayınlanan iki büyük çalışma, Stretta’nın uzun vadeli etkinliğini göstermiştir. Porto Rico’daki çalışmada hastaların %87’sinde dört yıl sonra bile başarılı sonuçlar elde edildiği gözlemlenirken, Amerika’daki çalışmada bu başarı oranı %75 olarak kaydedilmiştir.",
+    "h4d2":"Stretta prosedürünün tamamen endoskopik olması, karında kesi gerektirmemesi ve hasta konforunu artıran sedasyon altında uygulanabilmesi gibi özellikleri, bu yöntemin tercih edilme sebepleri arasında yer alır. İşlem, yemek borusu ile mide arasındaki kapakçığın radyofrekans dalgaları ile yeniden yapılandırılmasını içerir ve çoğunlukla 4-6 saatlik bir izlem sürecinden sonra hastanın evine dönmesine olanak tanır. İyileşme süreci genellikle 6-8 hafta içinde tamamlanır ve bazı durumlarda hastaların ömür boyu ilaç kullanımından kurtulmaları mümkün olabilir.",
+    "h4d3":"Öte yandan, reflü ameliyatı geçirmiş ve sonrasında tekrarlayan reflü belirtileri yaşayan hastalarda Stretta’nın uygulanabilirliği de araştırılmıştır. Surgical Endoscopy dergisinde yayınlanan bir çalışma, Stretta tedavisinin ameliyat sonrası nükseden reflü şikayetleri olan hastalar için 10 yıl süren başarılı sonuçlar sağlayabildiğini bildirmiştir. Bu, Nissen fundoplikasyon ameliyatı gibi daha invazif prosedürlerden sonra bile Stretta’nın güvenle uygulanabildiğini ve etkili olabileceğini göstermektedir. Bu bilgiler, Stretta’nın reflü tedavisinde önemli bir rol oynayabileceğine işaret etmektedir.    "
   }
 }
