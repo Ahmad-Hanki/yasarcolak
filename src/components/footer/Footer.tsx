@@ -21,20 +21,20 @@ const Footer = () => {
           <Link href={"/"} className="link link-hover">
             {t("link1")}
           </Link>
-          <Link href={"/randevu-al"} className="link link-hover">
+          {/* <Link href={"/Hakkinda"} className="link link-hover">
             {t("link2")}
-          </Link>
-          <Link href={"/iletisim"} className="link link-hover">
+          </Link> */}
+          <Link href={"/randevu-al"} className="link link-hover">
             {t("link3")}
           </Link>
-          <Link href={"/prof-dr-yasar-colak"} className="link link-hover">
+          <Link href={"/iletisim"} className="link link-hover">
             {t("link4")}
           </Link>
-          {useLocale() == "tr" && (
+          {/* {useLocale() == "tr" && (
             <Link href={"/blog"} className="link link-hover">
               {t("link5")}
             </Link>
-          )}
+          )} */}
         </nav>
         <nav className="space-y-3 md:max-w-[350px] md:mx-auto">
           <h6 className="footer-title">{t('contact')}</h6>
