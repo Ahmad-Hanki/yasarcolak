@@ -616,8 +616,7 @@ export type EndoskopikStentUygulamalariContentType = {
   h3d2: string;
 };
 
-
-export type PegHeaderType =  {
+export type PegHeaderType = {
   header: string;
   d1: string;
   content: string;
@@ -625,9 +624,9 @@ export type PegHeaderType =  {
   c2: string;
   c3: string;
   c4: string;
-}
+};
 
-export type PegContentType =  {
+export type PegContentType = {
   h1: string;
   h1d1: string;
   h2: string;
@@ -635,9 +634,9 @@ export type PegContentType =  {
   h3: string;
   h3d1: string;
   h3d2: string;
-}
+};
 
-export type ArgonPlazmaKoagulasyonHeaderType =  {
+export type ArgonPlazmaKoagulasyonHeaderType = {
   header: string;
   d1: string;
   content: string;
@@ -649,10 +648,9 @@ export type ArgonPlazmaKoagulasyonHeaderType =  {
   c6: string;
   d2: string;
   d3: string;
-}
+};
 
-
-export type ArgonPlazmaKoagulasyonContentType =  {
+export type ArgonPlazmaKoagulasyonContentType = {
   h1: string;
   h1d1: string;
   lih1: string;
@@ -687,9 +685,9 @@ export type ArgonPlazmaKoagulasyonContentType =  {
   lid8: string;
   lih9: string;
   lid9: string;
-}
+};
 
-export type ArmaHeaderType =  {
+export type ArmaHeaderType = {
   header: string;
   d1: string;
   content: string;
@@ -698,9 +696,9 @@ export type ArmaHeaderType =  {
   c3: string;
   c4: string;
   d2: string;
-}
+};
 
-export type ArmaContentType =  {
+export type ArmaContentType = {
   h1: string;
   h1d1: string;
   h2: string;
@@ -717,4 +715,31 @@ export type ArmaContentType =  {
   liqd3: string;
   liq4: string;
   liqd4: string;
+};
+
+export type  EndoscopicFundoplicationHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+}
+
+export type  EndoscopicFundoplicationContentType ={
+  h1: string;
+  h1d1: string;
+  h2: string;
+  h2d1: string;
+  h2d2: string;
+  h3: string;
+  h3d1: string;
+  h3d2: string;
+  h3d3: string;
+  q1: string;
+  a1: string;
+  q2: string;
+  q2a1: string;
+  d3: string;
 }

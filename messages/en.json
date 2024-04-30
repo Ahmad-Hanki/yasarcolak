@@ -866,20 +866,23 @@
   "endoskopikFundoplikasyonPage": {
     "header": "Endoscopic Fundoplication",
     "d1": "Endoscopic fundoplication is an endoscopic method applied to patients with reflux complaints who do not respond sufficiently to medication treatment. Using special equipment, a type of endoscopic suturing is performed to narrow the area where the esophagus and stomach meet. The endoscopic fundoplication method is the endoscopic application of a type of surgery called 'Nissen fundoplication'.",
-    "content": "Contents",
+    "content": "Table of Contents",
     "c1": "Endoscopic Fundoplication",
     "c2": "Effective Treatment for Gastroesophageal Reflux",
     "c3": "What is Endoscopic Fundoplication and How Does It Work?",
     "c4": "Advantages and Disadvantages",
 
     "h1": "Effective Treatment for Gastroesophageal Reflux",
-    "h1d1": "This procedure is a minimally invasive procedure used in reflux treatment. In this procedure performed under general anesthesia, a small suturing procedure is performed at the lower part of the esophagus. This makes it difficult for stomach contents to reflux into the esophagus, thus alleviating reflux symptoms.",
-    "h1d2": "During the procedure, an endoscope (thin, flexible tube) is inserted through the patient's mouth into the stomach. The lower part of the esophagus is visible with the endoscope, and a suturing procedure is performed here. This procedure is usually completed within a few hours, and patients can return home the same day.",
+    "h1d1": "Gastroesophageal reflux disease (GERD) is a troubling condition for many individuals. The sensation of burning and other symptoms resulting from the backflow of stomach contents into the esophagus can negatively impact quality of life. Advanced treatment options such as endoscopic fundoplication can be effective in alleviating these symptoms.",
 
-    "h2": "Advantages and Disadvantages",
-    "h2d1": "Endoscopic fundoplication is an effective method to alleviate GERD symptoms. Since the procedure is minimally invasive, there is usually a fast recovery time. Additionally, it has fewer side effects compared to other surgical options.",
-    "h2d2": "Like any medical procedure, endoscopic fundoplication also has some potential disadvantages. For example, although rare, complications may occur during the procedure. Additionally, some patients may experience reflux symptoms for a period after the procedure.",
-    "h2d3": "In conclusion, endoscopic fundoplication may be an effective option for the treatment of GERD. However, to determine the best treatment option for each patient, it is most accurate for the doctor and patient to evaluate the options together.",
+    "h2": "What is Endoscopic Fundoplication and How Does It Work?",
+    "h2d1": "This procedure is a minimally invasive procedure used in reflux treatment. In this procedure performed under general anesthesia, a small suturing procedure is performed at the lower part of the esophagus. This makes it difficult for stomach contents to reflux into the esophagus, thus alleviating reflux symptoms.",
+    "h2d2": "During the procedure, an endoscope (thin, flexible tube) is inserted through the patient's mouth into the stomach. The lower part of the esophagus is visible with the endoscope, and a suturing procedure is performed here. This procedure is usually completed within a few hours, and patients can return home the same day.",
+    
+    "h3": "Advantages and Disadvantages",
+    "h3d1": "Endoscopic fundoplication is an effective method to alleviate GERD symptoms. Since the procedure is minimally invasive, there is usually a fast recovery time. Additionally, it has fewer side effects compared to other surgical options.",
+    "h3d2": "Like any medical procedure, endoscopic fundoplication also has some potential disadvantages. For example, although rare, complications may occur during the procedure. Additionally, some patients may experience reflux symptoms for a period after the procedure.",
+    "h3d3": "In conclusion, endoscopic fundoplication may be an effective option for the treatment of GERD. However, to determine the best treatment option for each patient, it is most accurate for the doctor and patient to evaluate the options together.",
 
     "q1": "Who is Endoscopic Fundoplication Suitable for?",
     "a1": "This procedure may be a good option for reflux patients who do not respond to medications or do not want to use medications. Additionally, patients who are not suitable for a more invasive surgical procedure such as laparoscopic fundoplication may consider this procedure.",
