@@ -10,7 +10,7 @@ const Hastaliklar = () => {
   const { locale } = useParams();
   const [open, setOpen] = useState(false);
 
-  if (locale == "en") return null;
+  return null;
 
   const data = [
     {

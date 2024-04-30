@@ -9,11 +9,11 @@ const Links = () => {
   const { locale } = useParams();
 
   const Links = [
-    {
-      href: "/blogs",
-      name: "Blog",
-      active: pathname.includes("/blogs"),
-    },
+    // {
+    //   href: "/blogs",
+    //   name: "Blog",
+    //   active: pathname.includes("/blogs"),
+    // },
     {
       href: "/iletisim",
       name: locale == "en" ? "Contact" : "Iletisim",

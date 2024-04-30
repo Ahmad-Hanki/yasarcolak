@@ -8,7 +8,7 @@ import { useParams, usePathname } from "next/navigation";
 const Hastalikar = () => {
   const pathname = usePathname();
   const { locale } = useParams();
-  if (locale == "en") return null;
+  return null;
 
   const data = [
     {
