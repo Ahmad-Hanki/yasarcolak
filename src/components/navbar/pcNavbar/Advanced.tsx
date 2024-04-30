@@ -55,7 +55,7 @@ const Advanced = ({ t3 }: AdvancedProps) => {
       active: pathname.includes("/emr"),
     },
     {
-      name: "Poem",
+      name: "Esd",
       href: "/esd",
       active: pathname.includes("/esd"),
     },

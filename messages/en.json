@@ -640,5 +640,54 @@
     "a4":"Compared to endoscopy, EUS offers more sensitive diagnosis, especially in cases such as detecting lymph nodes and small tumors. Therefore, it plays a critical role especially in cancer diagnosis and staging of the disease.",
 
     "d6":"Both procedures have their own advantages and specific uses. Which procedure is used depends on the patient's condition, the goals of the diagnosis, and the doctor's area of expertise. Endoscopy and EUS can be used complementary to each other in many situations. For example, when the presence of a lesion is detected by endoscopy, a more detailed examination can be performed with EUS to determine the size, depth and relationship of the lesion with surrounding tissues more clearly."
+  },
+  "emrPage":{
+    "header":"EMR (Endoscopic Mucosal Resection)    ",
+    "d1":"EMR, Endoscopic Mucosal Resection, is the endoscopic removal of lesions such as large polyps or superficial tumors in the esophagus, stomach or intestines. This technique is generally preferred for the removal of lesions that are risky to cut out directly. The thickness of the stomach wall is about 5 mm, while the intestinal wall is about 2-3 mm thick. Therefore, endoscopic removal of lesions larger than 5 mm and especially larger than 10 mm carries the risk of bleeding and perforation.    ",
+    "content":"İçindekiler",
+    "c1":"EMR (Endoscopic Mucosal Resection)",
+    "c2":"How is EMR Applied?",
+
+    "d2":"To minimize these risks, we use the EMR method. In this method, a special fluid is injected into the base of the lesion. This fluid increases the wall thickness, creating a “cushion” between the normal tissue and the lesion. A wire is then laid around the lesion and the lesion is cut out using electric current. This approach significantly reduces the risks of bleeding and perforation.    ",
+    "h1":"How Is EMR Applied?    ",
+    "h1d1":"Endoscopic mucosal resection is performed with a long, narrow tube equipped with a light, video camera and other instruments. During EMR of the upper digestive tract, the tube (endoscope) is passed through the patient’s throat to reach an abnormality in the esophagus, stomach or small intestine (duodenum).    ",
+    "h1d2":"To remove lesions from the colon, the tube is guided through the anus.    ",
+    "h1d3":"Primarily a treatment procedure, EMR is also used to collect tissue for diagnosis. If cancer is present, EMR can help determine if the cancer has invaded the tissues under the lining of the digestive tract.    ",
+
+    "h1d4":"Endoscopic mucosal resection is usually performed by a specialist in diseases of the digestive system (gastroenterologist) who is an expert in this technique.    ",
+    "q1":"How long is the hospital stay?    ",
+    "a1":"Patients undergoing EMR are discharged approximately half an hour after the anesthetic effect wears off.    ",
+    "q2":"Is EMR a risky procedure? What are the possible risks? In which cases should a doctor be consulted after the procedure?    ",
+    "a2":"EMR is a very safe procedure if performed in experienced hands. Possible risks include bleeding or very rarely perforation. It is therefore vital that the physician performing the procedure is experienced in this area. In case of bleeding or severe pain after the procedure, a doctor should be consulted.    ",
+    "q3":"What should the patient pay attention to after the procedure?    ",
+    "a3":"If the EMR procedure was performed in the esophagus or stomach, it is generally recommended to consume liquid or liquid foods that day and to avoid very hot drinks. If larger lesions are removed, this liquid diet may be extended to several days. All detailed information and recommendations are given to the patient by the doctor.    "
+  },
+ 
+  "esdPage": {
+    "header":"ESD (Endoscopic Submucosal Dissection)",
+    "d1":"Endoscopic submucosal dissection (ESD) is a technique for the removal of deep-seated lesions or lesions larger than 1 cm. It is generally used for the removal of large tumors with superficial invasion or deeply located lesions. With this method, the borders of the lesion are first identified and marked. Then a special substance is injected into the base of the lesion, inflating it and creating a cushion. Afterwards, an endoscope and special equipment are inserted between the lesion and normal tissue and the lesioned part is removed from the normal tissue by making a slow incision under the lesion. This usually leaves a large opening, which is closed using endoscopic sutures in some cases, depending on the lesion.",
+    "content":"Content",
+    "c1":"ESD (Endoscopic Submucosal Dissection)",
+    "c2":"How is ESD Process Performed?",
+    "c3":"Who is it suitable for?",
+    "c4":"Post Implementation Process",
+    "c5":"What are the Risks of ESD Procedure?",
+    "d2":"Increasingly used to replace traditional Endoscopic Mucosal Resection (EMR) techniques, ESD allows many patients to be treated without the need for surgery. This method allows lesions to be removed in one piece, thus providing a more accurate histologic evaluation and helping patients to recover faster.    ",
+
+    "h1":"How Is ESD Process Performed?    ",
+    "h1d1":"During the ESD procedure, the perimeter of the lesion is first marked with an electrocautery (a device for cutting or burning tissue using electrical energy). Then, using an electrocautery or similar instrument, the perimeter of the lesion is cut and the mucosal layer is removed. The submucosal layer at the base of the lesion is inflated by injecting a special fluid, which separates the lesion from the healthy tissue. Finally, the lesion is completely removed from the submucosal layer.    ",
+
+    "h2":"Who Is It Suitable For?    ",
+    "h2d1":"ESD is generally preferred in the early stages of non-invasive gastrointestinal cancers (for example, gastric cancer or colorectal cancer) and larger benign lesions (for example, adenomatous polyps).    ",
+    "h3":"What Are The Risks Of ESD Procedure?    ",
+
+    "h3d1":"ESD is a procedure that has a risk of bleeding and perforation and must be performed by experienced hands. Although it is a method used especially in risky and difficult to remove lesions and involves various risks due to the fact that the procedure is performed by going deep into the tissue, many patients regain their health with this method without the need for surgery.    ",
+
+    "h4":"Post Implementation Process    ",
+    "h4d1":"Patients are usually discharged the same day after the procedure. However, for procedures performed on large and risky lesions, an overnight hospital stay may rarely be required for follow-up.    ",
+    "h4d2":"What should be considered after the procedure?    ",
+    "h4d3":"Especially in esophageal and gastric procedures, it is recommended not to take food by mouth for a while and to start taking food with a liquid diet. However, the transition to nutrition should be evaluated on the basis of each patient and the procedure performed. Information about follow-up and starting food intake after the procedure will be communicated to the patient by the doctor. In case of bleeding and severe pain after the procedure, it is absolutely necessary to consult a doctor.    ",
+    "h4d4":"Endoscopic Submucosal Dissection (ESD) is a breakthrough method in the treatment of non-invasive early stage gastrointestinal cancers and removal of large benign lesions. This technique provides more accurate histologic evaluations with faster recovery times and less risk of complications. However, ESD is complex to perform and should be performed by an experienced endoscopist. Therefore, if you are considering this type of procedure, it is important to consult with a gastroenterologist to determine the best option for you.    "
+    
   }
 }

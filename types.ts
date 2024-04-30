@@ -497,3 +497,54 @@ export type EusContentType = {
   a4: string;
   d6: string;
 };
+
+export type EmrHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  d2: string;
+};
+
+export type EmrContentType = {
+  h1: string;
+  h1d1: string;
+  h1d2: string;
+  h1d3: string;
+  h1d4: string;
+};
+
+export type EmrFooterType = {
+  q1: string;
+  a1: string;
+  q2: string;
+  a2: string;
+  q3: string;
+  a3: string;
+};
+
+export type EsdHeaderType = {
+  header: string;
+  d1: string;
+  content: string;
+  c1: string;
+  c2: string;
+  c3: string;
+  c4: string;
+  c5: string;
+  d2: string;
+};
+export type EsdContentType = {
+  h1: string;
+  h1d1: string;
+  h2: string;
+  h2d1: string;
+  h3: string;
+  h3d1: string;
+  h4: string;
+  h4d1: string;
+  h4d2: string;
+  h4d3: string;
+  h4d4: string;
+};
