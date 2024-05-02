@@ -3,7 +3,7 @@ import AppointmentForm from "@/components/AppointmentForm";
 import MotionDiv from "@/components/ui/MotionDiv";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import FormImage from "@/assets/FormImage.jpg";
+import FormImage from "@/assets/FormImage.jpeg";
 
 const AppointmentPage = () => {
     const t = useTranslations("appointment");
