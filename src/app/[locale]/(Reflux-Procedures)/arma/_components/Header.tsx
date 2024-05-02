@@ -14,14 +14,7 @@ const Header = ({ header, content }: HeaderProps) => {
     <div className="flex flex-col gap-20">
       <div className="flex flex-col gap-5">
         <h1 className="text-4xl text-primary/80 ">{header.header}</h1>
-        <div className="relative overflow-hidden aspect-[1/0.7] rounded-md w-full lg:w-[80%]">
-          <Image
-            src={img}
-            fill
-            className="object-center object-contain "
-            alt=""
-          />
-        </div>
+       
       </div>
 
       <div className="flex flex-col gap-5 font-light">

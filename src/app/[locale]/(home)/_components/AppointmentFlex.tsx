@@ -1,6 +1,6 @@
 import AppointmentForm from "@/components/AppointmentForm";
 import { useTranslations } from "next-intl";
-import FormImage from "@/assets/FormImage.jpg";
+import FormImage from "@/assets/FormImage.jpeg";
 import Image from "next/image";
 import MotionDiv from "@/components/ui/MotionDiv";
 import Grid1 from "@/app/[locale]/(home)/_components/Grid1";

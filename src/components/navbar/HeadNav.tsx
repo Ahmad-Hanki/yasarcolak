@@ -40,12 +40,12 @@ const HeadNav = () => {
           <div className="flex gap-5">
             <div className="flex items-center gap-1">
               <Phone />
-              <Link href="tel:+905461109112">+90 546 110 91 12</Link>
+              <Link href="tel:+905012804002">+90 501 280 40 02</Link>
             </div>
             <div className="flex items-center gap-1">
               <Mail />
-              <Link href={"mailto:info@yasarcolak.com"}>
-                info@yasarcolak.com
+              <Link href={"mailto:info@drbarisyilmaz.com"}>
+              info@drbarisyilmaz.com
               </Link>
             </div>
           </div>

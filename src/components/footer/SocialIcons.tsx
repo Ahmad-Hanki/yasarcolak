@@ -7,32 +7,32 @@ import Linkedin from "@/assets/Linkedin";
 const socialMedia = [
   {
     img: <Facebook height={30} width={30} />,
-    href: "https://www.facebook.com/people/profdryasarcolak/100072068921760",
+    href: "https://www.facebook.com",
   },
   {
     img: <Instagram height={30} width={30} />,
-    href: "https://www.instagram.com/prof.dr.yasarcolak",
+    href: "https://www.instagram.com",
   },
   {
     img: <Pinterest height={30} width={30} />,
-    href: "https://tr.pinterest.com/profdryasarcolak",
+    href: "https://tr.pinterest.com",
   },
   {
     img: <Youtube height={30} width={30} />,
-    href: "https://www.youtube.com/@prof.dr.yasarcolak",
+    href: "https://www.youtube.com",
   },
   {
     img: <Linkedin height={30} width={30} />,
-    href: "https://www.linkedin.com/in/prof-dr-yasar-colak-478a3818a",
+    href: "https://www.linkedin.com",
   },
 ];
 const SocialIcons = () => {
   return (
     <div className="flex gap-3 items-center">
-      {socialMedia.map((link,i) => {
+      {socialMedia.map((link, i) => {
         return (
           <Link
-          key={i}
+            key={i}
             href={link.href}
             className="p-2  bg-primary/70 brightness-90 hover:brightness-125 m-auto"
           >

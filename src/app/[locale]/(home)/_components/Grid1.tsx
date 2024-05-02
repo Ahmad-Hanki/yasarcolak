@@ -1,12 +1,9 @@
-import grid1 from "@/assets/grid1.webp";
-import grid2 from "@/assets/grid1Photo2.webp";
-import grid3 from "@/assets/grid1Photo3.webp";
+import grid1 from "@/assets/grid1Photo1.jpeg";
+import grid2 from "@/assets/grid1Photo2.jpeg";
+import grid3 from "@/assets/grid1Photo3.jpeg";
 import {
   Card,
-  CardHeader,
   CardFooter,
-  CardTitle,
-  CardDescription,
   CardContent,
 } from "@/components/ui/card";
 import Image from "next/image";
@@ -33,12 +30,12 @@ const Grid1 = ({ t }: Grid1) => {
     },
     {
       name: t.photo2,
-      img: grid2,
+      img:  grid3,
       href: "/gastric-balloon",
     },
     {
       name: t.photo3,
-      img: grid3,
+      img: grid2,
       href: "/endoscopic-sleeve-gastroplasty",
     },
   ];

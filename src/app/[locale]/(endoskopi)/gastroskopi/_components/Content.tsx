@@ -58,11 +58,7 @@ const Content = ({ content }: { content: GastroskopiContentType }) => {
           <p>{content.h4d1}</p>
           <p>{content.h4d2}</p>
         </div>
-        <iframe
-          src="https://www.youtube.com/embed/OYjQoVVczXQ"
-          className="w-full lg:w-[80%]"
-          height={400}
-        ></iframe>
+       
       </div>
     </div>
   );

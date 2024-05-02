@@ -16,11 +16,7 @@ const Header = ({ header, content, footer }: HeaderProps) => {
     <div className="flex flex-col gap-20">
       <div className="flex flex-col gap-5">
         <h1 className="text-4xl text-primary/80 ">{header.header}</h1>
-        <iframe
-          src="https://www.youtube.com/embed/2_E5ktSVZW8"
-          className="lg:w-[80%]"
-          height={400}
-        ></iframe>
+        
       </div>
 
       <div className="flex flex-col gap-5 font-light">

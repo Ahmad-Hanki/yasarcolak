@@ -37,15 +37,6 @@ const Content = ({ content }: { content: ArmaContentType }) => {
           </li>
         </ul>
       </div>
-
-      <div className="space-y-4">
-        <iframe
-          src="https://www.youtube.com/embed/hke93N1KJDU"
-          className="w-full lg:w-[80%]"
-          height={400}
-          
-        ></iframe>
-      </div>
     </div>
   );
 };

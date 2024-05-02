@@ -1,10 +1,10 @@
 import { useLocale } from "next-intl";
-import photo1 from "@/assets/homeGrid3Photo1.webp";
-import photo2 from "@/assets/homeGrid3Photo2.webp";
-import photo3 from "@/assets/homeGrid3Photo3.webp";
-import photo4 from "@/assets/homeGrid3Photo4.webp";
-import photo5 from "@/assets/homeGrid3Photo5.webp";
-import photo6 from "@/assets/homeGrid3Photo6.webp";
+import photo1 from "@/assets/homeGrid3Photo1.jpeg";
+import photo2 from "@/assets/homeGrid3Photo2.jpeg";
+import photo3 from "@/assets/homeGrid3Photo3.jpeg";
+import photo4 from "@/assets/homeGrid3Photo4.jpeg";
+import photo5 from "@/assets/homeGrid3Photo5.jpeg";
+import photo6 from "@/assets/homeGrid3Photo6.jpeg";
 import Image from "next/image";
 
 const HomeGrid3 = () => {

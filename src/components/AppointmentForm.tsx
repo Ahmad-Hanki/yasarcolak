@@ -79,7 +79,7 @@ const AppointmentForm = ({ form }: AppointmentForm) => {
       <Card className="h-full space-y-16">
         <CardHeader>
           <CardTitle className="text-primary bg-primary/35 text-xl w-fit">
-            PROF. DR. YAŞAR ÇOLAK
+            PROF. DR.  Barış YILMAZ
           </CardTitle>
 
           <h1 className="text-3xl ">{form.header}</h1>

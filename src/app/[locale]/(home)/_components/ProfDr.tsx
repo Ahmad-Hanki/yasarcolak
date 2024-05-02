@@ -1,5 +1,5 @@
 import Whatsapp from "@/assets/Whatsapp";
-import profDr from "@/assets/profDr.webp";
+import profDr from "@/assets/profDr.jpeg";
 import MotionDiv from "@/components/ui/MotionDiv";
 import { useLocale } from "next-intl";
 import Image from "next/image";
@@ -20,7 +20,7 @@ const ProfDr = () => {
               ? "GASTROENTEROLOGY SPECIALIST"
               : "GASTROENTEROLOJİ UZMANI"}
           </h2>
-          <h1 className="text-3xl">Prof. Dr. Yaşar Çolak</h1>
+          <h1 className="text-3xl">Prof. Dr.  Barış YILMAZ</h1>
           <p className="font-light">{header}</p>
         </div>
         <div className="flex flex-col gap-4 items-center">
@@ -41,7 +41,7 @@ const ProfDr = () => {
               : "ENDOSKOPİK UYGULAMA"}
           </p>
           <Link
-            href={"https://wa.me/905461109112"}
+            href={"https://wa.me/905012804002"}
             className="btn bg-green-500 text-white hover:bg-green-600"
           >
             <Whatsapp width={30} />{" "}
@@ -49,10 +49,10 @@ const ProfDr = () => {
           </Link>
 
           <Link
-            href={"/prof-dr-yasar-colak"}
+            href={"/profDr"}
             className="px-9 btn bg-primary/80 hover:bg-primary text-white"
           >
-            {"PROF. DR. YAŞAR ÇOLAK"}
+            {"PROF. DR.  Barış YILMAZ"}
           </Link>
         </div>
       </div>

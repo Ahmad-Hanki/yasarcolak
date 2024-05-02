@@ -1,6 +1,6 @@
-import photo1 from "@/assets/homeGridPhoto1.webp";
-import photo2 from "@/assets/homeGridPhoto2.webp";
-import photo3 from "@/assets/homeGridPhoto3.webp";
+import photo1 from "@/assets/homeGridPhoto1.jpeg";
+import photo2 from "@/assets/homeGridPhoto2.jpeg";
+import photo3 from "@/assets/homeGridPhoto3.jpeg";
 import photo4 from "@/assets/homeGridPhoto4.webp";
 import MotionDiv from "@/components/ui/MotionDiv";
 import { Card, CardContent, CardFooter } from "@/components/ui/card";

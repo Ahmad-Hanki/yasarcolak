@@ -82,17 +82,17 @@
     "info": "More About ERCP"
   },
   "footer": {
-    "title": "medicate-footer-logo You can use our WhatsApp line or our appointment form to reach Prof. Dr. Yaşar Çolak and make an appointment.",
+    "title": "medicate-footer-logo You can use our WhatsApp line or our appointment form to reach Prof. Dr.  Barış YILMAZ and make an appointment.",
     "links": "Useful Links",
     "contact": "Contact Information",
-    "link1": "Prof. Dr. Yaşar Çolak",
+    "link1": "Prof. Dr.  Barış YILMAZ",
     "link2": "About Me",
     "link3": "Appointment",
     "link4": "Contact",
     "link5": "Blog",
-    "contact1": " +90 546 110 91 12",
-    "contact2": "info@yasarcolak.com",
-    "contact3": "Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul",
+    "contact1": " +90 501 280 40 02",
+    "contact2": "info@drbarisyilmaz.com",
+    "contact3": "Büyükşehir, Beylikdüzü Cd. No:3, 34520 Beylikdüzü/İstanbul",
     "copyRights": "All Rights Reserved © 2024."
   },
   "gastroskopiPage": {
@@ -220,7 +220,7 @@
 
     "h3": "Risks Of Colonoscopy    ",
     "h3d1": "Routine colonoscopy is a very safe procedure when performed in experienced hands.    ",
-    "h3d2": "Bleeding and bowel perforation are theoretically possible risks, especially in cases requiring advanced endoscopic procedures such as removal of large polyps and superficial tumors. However, in more than 35,000 endoscopic and colonoscopic procedures performed by Gastroenterology and Advanced Endoscopic Applications Specialist Prof. Dr. Yaşar Çolak, there has never been a case of intestinal perforation.    ",
+    "h3d2": "Bleeding and bowel perforation are theoretically possible risks, especially in cases requiring advanced endoscopic procedures such as removal of large polyps and superficial tumors. However, in more than 35,000 endoscopic and colonoscopic procedures performed by Gastroenterology and Advanced Endoscopic Applications Specialist Prof. Dr.  Barış YILMAZ, there has never been a case of intestinal perforation.    ",
 
     "h4": "How Is Colonoscopy Performed?    ",
     "h4d1": "Before the colonoscopy, the person must have done bowel cleansing the day before and must not have consumed any liquid or solid food in the last 8 hours.    ",
@@ -1034,14 +1034,14 @@
   },
 
   "contantPage": {
-    "h1":"Adres",
-    "h1d1":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul    ",
+    "h1":"Address",
+    "h1d1":"Büyükşehir, Beylikdüzü Cd. No:3, 34520 Beylikdüzü/İstanbul",
 
-    "h2":"Telefon",
-    "h2d1":"+90 546 110 91 12    ",
+    "h2":"Phone",
+    "h2d1":"    +90 (501) 280 40 02",
 
     "h3":"E-Mail",
-    "h3d1":"info@yasarcolak.com"
+    "h3d1":" info@drbarisyilmaz.com"
 
   }
 }

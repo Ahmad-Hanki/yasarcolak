@@ -1,5 +1,5 @@
 import Image from "next/image";
-import hero from "@/assets/Hero.png";
+import hero from "@/assets/Hero.jpg";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import MotionDiv from "./ui/MotionDiv";
@@ -8,7 +8,7 @@ const Hero = () => {
   const t = useTranslations("hero");
 
   return (
-    <div className="relative w-full h-[60vh] lg:h-[80vh] xl:h-[100vh] overflow-hidden flex flex-col bg-transparent items-center justify-center -z-0 text-white">
+    <div className="relative w-full h-[40vh]  lg:h-[80vh] xl:h-[100vh] overflow-hidden flex flex-col bg-transparent items-center justify-center -z-0 text-white">
       <Image
         priority
         fill

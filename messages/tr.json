@@ -86,17 +86,17 @@
     "info": "ERCP Hakkında Daha Fazla Bilgi"
   },
   "footer": {
-    "title": "Prof. Dr. Yaşar Çolak'a ulaşmak ve randevu almak için WhatsApp hattımızı veya randevu formumuzu kullanabilirsiniz.",
+    "title": "Prof. Dr.  Barış YILMAZ'a ulaşmak ve randevu almak için WhatsApp hattımızı veya randevu formumuzu kullanabilirsiniz.",
     "links": "Bağlantılar",
     "contact": "İletişim Bilgilerimiz",
-    "link1": "Prof. Dr. Yaşar Çolak",
+    "link1": "Prof. Dr.  Barış YILMAZ",
     "link2": "Hakkımda",
     "link3": "Randevu Al",
     "link4": "İletişim",
     "link5": "Blog",
-    "contact1": " +90 546 110 91 12",
-    "contact2": "info@yasarcolak.com",
-    "contact3": "Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul",
+    "contact1": " +90 501 280 40 02",
+    "contact2": "info@drbarisyilmaz.com",
+    "contact3": "Büyükşehir, Beylikdüzü Cd. No:3, 34520 Beylikdüzü/İstanbul",
     "copyRights": "2024 © Tüm Hakları Saklıdır"
   },
   "gastroskopiPage": {
@@ -219,7 +219,7 @@
 
     "h3": "Kolonoskopinin Riskleri    ",
     "h3d1": "Rutin kolonoskopi tecrübeli ellerde yapıldığı takdirde oldukça güvenli bir işlemdir.    ",
-    "h3d2": "Özellikle büyük polipler ve yüzeyel tümörlerin çıkartılması gibi ileri endoskopik uygulamalar gereken durumlarda, kanama ve bağırsak delinmesi teorik olarak karşılaşılabilecek riskler arasında sayılabilir. Ancak Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı Prof. Dr. Yaşar Çolak tarafından gerçekleştirilen 35.000’den fazla endoskopik ve kolonoskopik işlemde şimdiye kadar bağırsak delinmesi durumu hiç yaşanmamıştır.    ",
+    "h3d2": "Özellikle büyük polipler ve yüzeyel tümörlerin çıkartılması gibi ileri endoskopik uygulamalar gereken durumlarda, kanama ve bağırsak delinmesi teorik olarak karşılaşılabilecek riskler arasında sayılabilir. Ancak Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı Prof. Dr.  Barış YILMAZ tarafından gerçekleştirilen 35.000’den fazla endoskopik ve kolonoskopik işlemde şimdiye kadar bağırsak delinmesi durumu hiç yaşanmamıştır.    ",
 
     "h4": "Kolonoskopi Nasıl Yapılır?    ",
     "h4d1": "Kolonoskopi öncesinde kişinin bir gün önceden mutlaka bağırsak temizliğini yapmış ve son 8 saat içinde sıvı ya da katı hiçbir gıda tüketmemiş olması gerekir.    ",
@@ -1028,13 +1028,13 @@
   },
   "contantPage": {
     "h1":"Address",
-    "h1d1":"Kaptan Paşa Mah. Piyale Paşa Bulv. Okmeydanı Cad. No: 4, 34384 Şişli/İstanbul    ",
+    "h1d1":"Büyükşehir, Beylikdüzü Cd. No:3, 34520 Beylikdüzü/İstanbul",
 
     "h2":"Phone",
-    "h2d1":"+90 546 110 91 12    ",
+    "h2d1":"    +90 (501) 280 40 02    ",
 
     "h3":"E-Mail",
-    "h3d1":"info@yasarcolak.com"
+    "h3d1":" info@drbarisyilmaz.com"
 
   }
 }

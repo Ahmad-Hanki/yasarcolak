@@ -64,7 +64,7 @@ const ContactClient = () => {
       </div>
       <div>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12037.167327269086!2d28.956107!3d41.0407468!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab75d1754b00b%3A0x89196824b2db2cde!2sProf.%20Dr.%20Ya%C5%9Far%20%C3%87olak%20-%20Gastroenteroloji%20ve%20%C4%B0leri%20Endoskopik%20Uygulamalar%20Uzman%C4%B1!5e0!3m2!1sen!2str!4v1714498771603!5m2!1sen!2str"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.5617223372114!2d28.6453056!3d41.012965099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b55f0a4ad9473b%3A0xbf7a6e5db0269867!2sMedicana%20International%20Istanbul!5e0!3m2!1sen!2str!4v1714647275285!5m2!1sen!2str"
           allowFullScreen
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
